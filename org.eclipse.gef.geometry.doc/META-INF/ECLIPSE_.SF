@@ -1,0 +1,645 @@
+Signature-Version: 1.0
+Created-By: 11.0.21 (Eclipse Adoptium)
+SHA-256-Digest-Manifest: 5NOFUNMfx71QieqZdnyrQLfkMBErN1PHwm6gqH4JBTA=
+SHA-256-Digest-Manifest-Main-Attributes: kE/luQcKXHs8v9/NXQrS+81gtIhMUI5
+ 7h9GAR7jI8xE=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/class-use/Pie.html
+SHA-256-Digest: wz/K1M22975a0VO8W3EMLcBZoCj5nyDnpfqy47zLQZM=
+
+Name: plugin.xml
+SHA-256-Digest: KbA7jDGaTQshz2aQ8a8lhEHTGsl9GByXQqIOTkTJij0=
+
+Name: reference/api/overview-tree.html
+SHA-256-Digest: aO2hZ/7xmND4VnntVhvFA9rUfAPqZu6zN7f/JxOCN/Q=
+
+Name: reference/api/org/eclipse/gef/geometry/euclidean/package-tree.html
+SHA-256-Digest: qvufwtd9JlI7WJ/EF1kUIIMzpOx4LW/j75mpMkcvqRI=
+
+Name: reference/api/package-search-index.js
+SHA-256-Digest: 01ntchQ1o6KhovR8YD5DkgWQa5zXcad4cMACgAl9CUQ=
+
+Name: reference/wiki/images/geometry/GEFGeometry-planar-ellipse-example.
+ png
+SHA-256-Digest: IqY9Is7oA/Z7rVSo2bRbL7fGUHnoCoPAi01Gwn1v0NQ=
+
+Name: reference/api/org/eclipse/gef/geometry/internal/utils/class-use/Pr
+ ecisionUtils.html
+SHA-256-Digest: YyJ3Iqdz2fga3H2y+7rCSfqvxIr1NfSKGDhGMGv+jCQ=
+
+Name: reference/api/org/eclipse/gef/geometry/euclidean/Angle.html
+SHA-256-Digest: WiayiuKBAEVzbpr2fKFshactxcbDgvJEHKQq/C4PZ/o=
+
+Name: reference/wiki/images/geometry/GEFGeometry-convert-swt.png
+SHA-256-Digest: xjno3WYidR8tlrfmJfP6ffqieoMBw48rwkRAC6RWuvs=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/class-use/Ellipse.ht
+ ml
+SHA-256-Digest: TtPnPSC03fKzRYwwZZaaXLFh3I0CNI4dnFX7PoG7C7U=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/Path.Segment.html
+SHA-256-Digest: 2eA6pPMvpnsZlGDpcOC5ET6SYv4m1huXWyBUgOdMK0w=
+
+Name: reference/api/org/eclipse/gef/geometry/euclidean/package-use.html
+SHA-256-Digest: c5aCyp4u8irQeezy3Sb//i3EN0kRPQUxngab+FDZzKQ=
+
+Name: reference/api/index-files/index-13.html
+SHA-256-Digest: d/N1O+2mDl0I17HH1EJkX/MI61MBvzb2JmsUT8WjKnc=
+
+Name: reference/wiki/images/geometry/GEFGeometry-planar-line-example.png
+SHA-256-Digest: fcJcATh5Xv/sw5edk0UemPsbrCZyMHHjEEwleJFkCpI=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/class-use/RoundedRec
+ tangle.html
+SHA-256-Digest: ppIqxjLRzAC/xY3zOFKYoIqSEr3KfZd2VS8SfzKSYg4=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/Ellipse.html
+SHA-256-Digest: m3tE+CuJ75PexiChu6kdsOdpoMiJh03wh4YJoRdFSzI=
+
+Name: reference/wiki/images/geometry/GEFGeometry-convert-fx.png
+SHA-256-Digest: ny8xrFaC28EXwrmhYgzth7+vGIPCjMJ5GBpWpy46fjU=
+
+Name: reference/wiki/images/geometry/GEFGeometry-planar-euclidean-exampl
+ e.png
+SHA-256-Digest: 2Xs+B5erHeM7zjpGNekwA03CHCes+0Ea6jo5Zi5ny1I=
+
+Name: book.css
+SHA-256-Digest: o8Ta1we9nKJry2fqSVWPmJiIa5HghiFAFWC0WkHwLuM=
+
+Name: reference/wiki/images/geometry/GEFGeometry-planar-roundedrectangle
+ -example.png
+SHA-256-Digest: wLEsVxRgloCdNF8TjUnYae6P+PErCzvkl2BTpuMQxXA=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/package-summary.html
+SHA-256-Digest: bZb68b2m4oZ0P5h9GkIgVeVeDo1bIM4sNxBMYNIfwIE=
+
+Name: about.ini
+SHA-256-Digest: E/MFHqbh59kyPS3W18LJs3iX9hQALC2kFL2BMdlR10s=
+
+Name: reference/wiki/images/geometry/GEFGeometry-planar-rectangle-exampl
+ e.png
+SHA-256-Digest: nzyuKhK61dCluIejkeDvaNijd64BWH+wJF846+7kGzI=
+
+Name: reference/api/type-search-index.js
+SHA-256-Digest: CVr8vd84aVZh5nD5tG5l7cNIZka2rf9Le2lBSt/2sho=
+
+Name: reference/api/index-files/index-12.html
+SHA-256-Digest: CZ21BYC5BkTbNAcGjuYPcEM0W9t1tXHG8UUPie/Mp28=
+
+Name: reference/api/index-files/index-6.html
+SHA-256-Digest: yfNk9dq0D7XHd4BKwjwbA05wdymkI0vx55U+UkWLwbk=
+
+Name: reference/wiki/images/geometry/GEFGeometry-planar-pie-example.png
+SHA-256-Digest: hQwOwnhIBWWwtElUNn2g6a+2sr13GP0DodZzUCQiSXo=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/CubicCurve.html
+SHA-256-Digest: Tj8Fp3qS53yLOMnJ87XR+hTyAlS2fkOouriglDZQPiw=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/BezierCurve.html
+SHA-256-Digest: IPi7CPIGMZ9LRhbW4G9sL9bQhIqJFymCBnccsR+MEHw=
+
+Name: reference/wiki/images/geometry/GEFGeometry-planar-abstractions-hie
+ rarchy.png
+SHA-256-Digest: bb8ULy7l0uxR7/l9jFr4X99rtIyO9Jtfb998LsjFUHQ=
+
+Name: reference/api/index-files/index-11.html
+SHA-256-Digest: Qwmhb1e2fkksbGnS7UgRNj1JORQxWVMMviKAX5FbcOY=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/IScalable.html
+SHA-256-Digest: RxK2bJdaqNp9B7LJjHE0VXEQtKY9sLmudu439mf5lK0=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/PolyBezier.html
+SHA-256-Digest: IknyMkszlLKz+f3Hl5uUFZktxzO6JTpJSia789f5JwQ=
+
+Name: reference/wiki/images/geometry/GEFGeometry-planar-polyline-example
+ .png
+SHA-256-Digest: cEFkBWYd1c5mbiijKncf3AuQt51p0ldgvQhJM6jLldY=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/class-use/IGeometry.
+ html
+SHA-256-Digest: 0u2tHw0M5uUhhXlEb2p/qyPAqrW+9ZEW+G06FE6VLvs=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/class-use/Polyline.h
+ tml
+SHA-256-Digest: BggkpQbDxMHQCwdBi9gENVorxzBy94srnzKbq7PPZyI=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/IMultiShape.html
+SHA-256-Digest: A8oZoPSe42JbnL8r3CMyWi7x+T8pYslS+l2WDFxayek=
+
+Name: reference/api/org/eclipse/gef/geometry/convert/swt/package-summary
+ .html
+SHA-256-Digest: CoQjOuazSbTspaWe9qnLVZbpGrDTvjFfEYy+pV2qZw4=
+
+Name: reference/wiki/Geometry.html
+SHA-256-Digest: GPLaYKi3mKznZrwFtXBXRgONgIVsjOpglYDVTc8KghY=
+
+Name: reference/api/org/eclipse/gef/geometry/projective/package-use.html
+SHA-256-Digest: 0yibb2TTJnFQvgAgJ/hxbeyRNPVz/5k6Hn2uVIg3sRg=
+
+Name: reference/api/module-search-index.js
+SHA-256-Digest: pRIC2IZDIvkfJEN3/oLDI0hhKC4+xEAoFGkDhHjRa3Y=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/package-use.html
+SHA-256-Digest: DVi6b0nMDORgI2L35+QM/fey+CRfNKWzOc4AeKmNcuk=
+
+Name: reference/api/org/eclipse/gef/geometry/convert/fx/package-use.html
+SHA-256-Digest: MINVID64W2sH+ABAX8RpiRK6qS+/pF9E4aChl+1Dmvc=
+
+Name: reference/api/index-files/index-5.html
+SHA-256-Digest: U3sUa0iTW+Pb/ODnW2v3RabydlL0NrASLeIzP5z6dmk=
+
+Name: reference/wiki/images/geometry/GEFGeometry-euclidean.png
+SHA-256-Digest: XRUUnmz9/wkNVVQhlalumn1kLG3eWe7Dx+zsmL/4Rr0=
+
+Name: reference/api/index-files/index-8.html
+SHA-256-Digest: uBvOEZYnn4txscEGlFas/tSatutYfaf3cJ82lOu/7h0=
+
+Name: reference/api/legal/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: Uwz6VM/jGlRg3UWxJQiE2gFXLsnYT+WEY689DT2S2KU=
+
+Name: toc.xml
+SHA-256-Digest: /TNFKtpFknifkpRPllPrjXEr3OmYTreFalU/XutW73A=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/class-use/Dimension.
+ html
+SHA-256-Digest: bAYlg0NwCeY7nbsYRpPOWmIDjtw4sC4NlFQMDXwEfKA=
+
+Name: reference/api/legal/LICENSE
+SHA-256-Digest: bkJYZWv7uKr6cI+xA/O/A7usJCe+iAqr6Sk77abUSgY=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/AffineTransform.html
+SHA-256-Digest: 83SsDR55kL5TwyRxYhKwcYMOqroQfIqki885Sv91Ywk=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/Region.html
+SHA-256-Digest: omLHDikHRZNb2dXgd2HNatQX5w1YuQEURoToycWIkO8=
+
+Name: reference/api/index-files/index-14.html
+SHA-256-Digest: U7X/wO02APksiawEtMkdGIf6xemFpG1PCNbCzupdJxU=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/Ring.html
+SHA-256-Digest: oYjcODhrxygL/h5SKY2Gz85i2pkfUP+6nOKsT4ILILc=
+
+Name: reference/api/script-dir/jquery-ui.min.css
+SHA-256-Digest: ztD2jdAdkPhQdLW4wWLmKpSIKMNIYwQwK+uAnVoAyBc=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/RoundedRectangle.htm
+ l
+SHA-256-Digest: xYUKrPjqLNrn3593G3r4n3yaBTA24e7WiwNmCrMtnvo=
+
+Name: reference/api/constant-values.html
+SHA-256-Digest: 0DpBc3mqM1GF6h3SZSAzu2h49/uQb1Bwu9S5Kmp44qM=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/QuadraticCurve.html
+SHA-256-Digest: NTFjFBphZHtiOSpwuFJUjiOBdunMsTC9Ihd5+kVWpBY=
+
+Name: reference/wiki/Geometry-toc.xml
+SHA-256-Digest: m5oj7m3qmyNz/kHftWQHQIxRYNgMHrZAEAu67/+C4Ro=
+
+Name: reference/api/index-files/index-15.html
+SHA-256-Digest: DG8IQNk+a6ePaxsiahz2UurvOFTOmAGSAjIWn6tM2Ns=
+
+Name: reference/api/org/eclipse/gef/geometry/euclidean/Straight.html
+SHA-256-Digest: FbM/oXCZl0xDSHCQzxc2jU71ntPUP2m/xKjV44fpxqg=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/class-use/IRotatable
+ .html
+SHA-256-Digest: vAyGwNigdBLw9vp3w1EcpATdv2FROXcfZp5uI0EFgr8=
+
+Name: reference/api/org/eclipse/gef/geometry/internal/utils/package-use.
+ html
+SHA-256-Digest: vNuA+EYrG1KV+y0xabFT+7FbZ2JZvzjUwXndPKoqhqs=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/class-use/QuadraticC
+ urve.html
+SHA-256-Digest: qAT9TCN1UXSqEnIIcfUCNZFfcVJ4PdTDyGBHhomlvI8=
+
+Name: reference/api/index-files/index-24.html
+SHA-256-Digest: bRLfkC0CtXCNFQZsF1aDMwGlfIg6ki4c/GSSD33kCzs=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/class-use/Region.htm
+ l
+SHA-256-Digest: wGLZbikkxv/WynnSt4T/EFUKzcbpSWGwWTNFJdhSyp0=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/package-tree.html
+SHA-256-Digest: XYszaW0uNEYai6oyLR7SAqeTNx3ARw4bq2H4RQqZxLY=
+
+Name: reference/api/index-files/index-2.html
+SHA-256-Digest: QoXMnno45rgbUuID6nj2fAV1L27wkTYAErMYNFoNMtQ=
+
+Name: about.mappings
+SHA-256-Digest: SNNuIAxhvrXz9m5c1VMt/46dDAhThoB6CXtCilZkkCM=
+
+Name: reference/wiki/images/geometry/GEFGeometry-planar-projective-examp
+ le.png
+SHA-256-Digest: wLPgCytEufPzE/5Ti2f5LpFOHxHBRzwp2M3j4xTuS2k=
+
+Name: reference/api/org/eclipse/gef/geometry/projective/Straight3D.html
+SHA-256-Digest: J0bRrIqy0ka/n2hWwTp3BwP6UFlLTgz84VPNu4NJVIE=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/class-use/ICurve.htm
+ l
+SHA-256-Digest: 2dauPmO8CaieONVmGi/TPqW7g4I/sUmVlU8tLgwscU4=
+
+Name: reference/api/index-files/index-9.html
+SHA-256-Digest: ZeUN5IpiBCLm9TzsLk2YWc/x8mm7XQdMFSjkrvIXpkk=
+
+Name: reference/wiki/images/geometry/GEFGeometry-planar-cubiccurve-examp
+ le.png
+SHA-256-Digest: YWMKlG2yzR365vtDnLS0NXC3ElQwp6T/bfGvfPKM+Vg=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/class-use/CurvedPoly
+ gon.html
+SHA-256-Digest: zP7nNUGOA+AQE/yRuQhS0a/7s4FBHvYcaSZT9p7D9RA=
+
+Name: reference/api/index-files/index-3.html
+SHA-256-Digest: Ys2DMyW4Hr9gd3qr3BXKgNB12n+F3qOCfxqzIJEwIFY=
+
+Name: reference/wiki/images/geometry/GEFGeometry-planar-arc-example.png
+SHA-256-Digest: VidjAK1Iy/AAmHPwYJz17PUNS60byIspbxFWVXQkK8g=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/Pie.html
+SHA-256-Digest: gahSasFtidriAgV8nRYRQXfnlgEswrLvg7RiVKqMh5g=
+
+Name: reference/api/allclasses-index.html
+SHA-256-Digest: R1oLz1cvJKYQK87+pz1RAjKrbrCIcNqKwxaoSCfbTos=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/class-use/Ring.html
+SHA-256-Digest: JkiQXDe8sD0PznryBDt/KLcTttFkLKIYtueCG1kk3jI=
+
+Name: gef_eclipse_logo_32.png
+SHA-256-Digest: WykbvOFTwNbTmEpZas68B9kphT3sHwiiR5hXPtTVxqQ=
+
+Name: reference/api/org/eclipse/gef/geometry/convert/fx/class-use/Geomet
+ ry2FX.html
+SHA-256-Digest: ZWirrscQ1Bt2kuJopn3aRxCRSbTKO2OjTWrVYBH6Fsk=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/class-use/ITranslata
+ ble.html
+SHA-256-Digest: qSqFqCmrkbOZM2XNJ4jO5qsqhG2XyBj1jHgIsxXcxqc=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/IShape.html
+SHA-256-Digest: D8asy5ijN4VYqDI8UdAn8XsBhhgF+heq9mSWr+DtnCo=
+
+Name: reference/api/org/eclipse/gef/geometry/convert/fx/Geometry2FX.html
+SHA-256-Digest: wyScqjPb9EUlR40RTZbRsmLcUQdltRrKz7iMzH962/c=
+
+Name: reference/api/org/eclipse/gef/geometry/internal/utils/package-summ
+ ary.html
+SHA-256-Digest: OJ4CigYyqfjQgXD6wWLuChGPwGgDwvOm5BtFn30XbgE=
+
+Name: reference/wiki/images/geometry/GEFGeometry-convert-awt.png
+SHA-256-Digest: kkC6+c8VhY6EtSCkbeueSGphzvuRkahSZFPvx2qUaq0=
+
+Name: reference/wiki/images/geometry/GEFGeometry-planar-overview.png
+SHA-256-Digest: 5vuW9jLACkX37zJ+MZAGCESa3yIDz4v1uX02Ug6T01E=
+
+Name: reference/wiki/images/geometry/GEFGeometry-planar-polybezier-examp
+ le.png
+SHA-256-Digest: Y/rNJj/Wfzi1xgdmPWlrMK08k48Dx/4ZAF7eugoB3KQ=
+
+Name: reference/api/org/eclipse/gef/geometry/convert/swt/class-use/AWT2S
+ WT.html
+SHA-256-Digest: A4TOmaxXhql9HBgyOJ+42qM1rZ5Q2dF9GaqnUDjIUeI=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/Point.html
+SHA-256-Digest: 8G/2zZ3TrO8Va1NUZjWU8spZIbXcF774daLPEOYAP20=
+
+Name: reference/api/legal/ASSEMBLY_EXCEPTION
+SHA-256-Digest: B9Rg/W33asnAVF5fvdMrjeCNVBDe7aoo2bcn8d61G98=
+
+Name: reference/api/org/eclipse/gef/geometry/convert/fx/class-use/FX2Geo
+ metry.html
+SHA-256-Digest: JDzN+9LfJFQnDz2LUVKke+fCeGV2hZknaVXFZQI7Z6E=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/class-use/AffineTran
+ sform.html
+SHA-256-Digest: /Dhuhadxxbk3hVVVR0LPksBt/CcbA/kBh9v7X1e2wNw=
+
+Name: reference/api/org/eclipse/gef/geometry/projective/class-use/Vector
+ 3D.html
+SHA-256-Digest: MEGj5T0qN/7tjgLPcx3VTN0naXaQB/0Z2BWU2dczhzk=
+
+Name: reference/api/org/eclipse/gef/geometry/convert/swt/AWT2SWT.html
+SHA-256-Digest: 78fEAoWpCPHBUL6lKhBDmeF7RlAyfkJkXkpSSpbdr8M=
+
+Name: reference/wiki/images/geometry/GEFGeometry-planar-inheritance-hier
+ archy.png
+SHA-256-Digest: c5ikmpDTV/kwGBSp8wJOtWKZpY2kKV0e4/TvNmg41xs=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/class-use/Rectangle.
+ html
+SHA-256-Digest: XPgIe/3OLcC/2i9EW8KLfTdaNm7A8nrsDIYYc4nL6fE=
+
+Name: reference/api/org/eclipse/gef/geometry/convert/swt/package-tree.ht
+ ml
+SHA-256-Digest: lNcnEAzQ6NUYvCs3AgucjBRsjIDZYXcMeqTkrSMDzuk=
+
+Name: reference/api/resources/glass.png
+SHA-256-Digest: 1Jc61v0bGhHx5bbGQDGvKEpdd5vbu0QfSW8xk7ZyzSM=
+
+Name: about.properties
+SHA-256-Digest: I5gRj1vuyVZcvqYg+1tp16dvMGqs21O+Cdq6GcB//CQ=
+
+Name: reference/wiki/images/geometry/GEFGeometry-planar-swt-example.png
+SHA-256-Digest: 6c4203qasd0NqoemvbQKGe1eNKutwV3l5iQVo6AaYwc=
+
+Name: reference/wiki/images/geometry/GEFGeometry-planar-beziercurve-exam
+ ple.png
+SHA-256-Digest: F5uaFEtWNh2ztPWNurn7NnK/65M5bFAXZEQzYGn5o10=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/Polyline.html
+SHA-256-Digest: YFff4XyCUnvGx2ManHbkQHjASD9aC0IJAb7D/2XyXek=
+
+Name: reference/api/org/eclipse/gef/geometry/projective/package-summary.
+ html
+SHA-256-Digest: 4jHLyIQE9fxRwkqKxEIvdoq2/1tiVW40YO3iiBD04a8=
+
+Name: reference/api/index-files/index-18.html
+SHA-256-Digest: hpDv4JKUzzpbuh/+FRI81AjpyD7N4PxIDu6TwLPDlws=
+
+Name: reference/api/resources/x.png
+SHA-256-Digest: G7b1e4kIh63I8PFpEgbanLzoushsx5Uj9BJkxeZzutk=
+
+Name: reference/wiki/images/geometry/GEFGeometry-planar-transformations-
+ overview.png
+SHA-256-Digest: LF+qA02c7Vv7ccQDWl3mhWfkScqR2RYVgblOgVJCkI8=
+
+Name: reference/api/stylesheet.css
+SHA-256-Digest: W37D5tynTiJVoe41x4WQX+AxLVW8+xs9JnRIQigh0qc=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/Rectangle.html
+SHA-256-Digest: sGBklZg6iddsEaDxUkmNqu/+lg/WW8pibV+/rNU0L9M=
+
+Name: reference/api/org/eclipse/gef/geometry/euclidean/Vector.html
+SHA-256-Digest: sVzMaTpYmKqxglkyWcEEgzHZtPJmujZq3Bnt9aaJioU=
+
+Name: reference/wiki/images/geometry/GEFGeometry-projective.png
+SHA-256-Digest: VAfApk0f2dstmJFDp7KgaA7wsZg3xY7FGTMnzopHkBg=
+
+Name: reference/api/org/eclipse/gef/geometry/convert/swt/package-use.htm
+ l
+SHA-256-Digest: n/Z5HB07k3zsNHMhi+0y7ogc+aQ8kKo8uewTeHGf3DA=
+
+Name: reference/api/jquery-ui.overrides.css
+SHA-256-Digest: dYN/ai4LCdiRO+DWTdPRDz2f9aXdEL6FIy1k83Fc01w=
+
+Name: reference/api/org/eclipse/gef/geometry/convert/swt/class-use/Geome
+ try2SWT.html
+SHA-256-Digest: tYgFBi3/hFjjaGyWXVY0bS7PTPH9FFynk7D48NFUJ/Y=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/class-use/BezierCurv
+ e.html
+SHA-256-Digest: p7adXDzXGhWSBvOHYGGhqg7/zYViCkrhlYzA95u6kUg=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/class-use/IMultiShap
+ e.html
+SHA-256-Digest: dH6OTLGwtlA8ejDn4KS3wFSc16R1sslonXCKXpR4/v0=
+
+Name: reference/api/org/eclipse/gef/geometry/convert/fx/package-summary.
+ html
+SHA-256-Digest: jiU3oRK7iaA4VYIv900jVmJuT1Cqd6nJLj1p1d9J6wk=
+
+Name: reference/api/org/eclipse/gef/geometry/euclidean/class-use/Angle.h
+ tml
+SHA-256-Digest: r3xteha7Q5zghPxJMus8nhX7CI2VIhRt6C/YKrLaDsg=
+
+Name: reference/api/index-files/index-21.html
+SHA-256-Digest: RSgrSwdPmL+EqdzyxyUl6OQ06b9h/0676ybJIfUwqPM=
+
+Name: reference/wiki/images/geometry/components.geometry.jpeg
+SHA-256-Digest: 4QK2nh+SLvjZCZblelnjetjlAi95RXu/CDtAN5aqvQ0=
+
+Name: reference/api/org/eclipse/gef/geometry/convert/swt/SWT2Geometry.ht
+ ml
+SHA-256-Digest: /017S8Mzp10n+benfXmnIdo9eESqL5fmFIA3rYM5ahE=
+
+Name: reference/api/org/eclipse/gef/geometry/internal/utils/PrecisionUti
+ ls.html
+SHA-256-Digest: qp96jrkPh+voWDLjxvRHboSu+namy1LBem8fXp1zl/A=
+
+Name: reference/api/index-files/index-20.html
+SHA-256-Digest: LtSk/EKY40H3VRpcH/c+ZovDYqhHW2pmcwoIL9aKwHk=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/Dimension.html
+SHA-256-Digest: nRJEPSZt8uSmtief937hbTn8a9WVeRWb7gfkzkxXyn4=
+
+Name: reference/api/member-search-index.js
+SHA-256-Digest: d1o+HtH3263Om3X87o6GE2uRKhvTXW8dnJ5yGb6YkaA=
+
+Name: reference/api/index-files/index-19.html
+SHA-256-Digest: JK9bDwq94MRAw1tjYM3NFLxJSbb26L1lc6W41KA+1uQ=
+
+Name: reference/api/element-list
+SHA-256-Digest: 4vYSsiOgIXfV1INVyrDBhgWpK7Fb4Wksd00RdXCmiT4=
+
+Name: reference/api/help-doc.html
+SHA-256-Digest: Ysv+IQ8oUxWGQq+r3jK8fbsaVOpnAQaAk+vmbhTExF8=
+
+Name: reference/api/org/eclipse/gef/geometry/convert/swt/SWT2AWT.html
+SHA-256-Digest: n5x8SYU3ZWN1YZOrlNaoaPHT8yDatTrjYySbsBzMkM4=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/class-use/Arc.html
+SHA-256-Digest: E8BYORXLTtD5vpUOwnCXviS6Gb2UQjRimoBqZf8HAwA=
+
+Name: reference/api/script.js
+SHA-256-Digest: MCZQZOY2mLkYMMQdm0LFnioohzmSkdZ7wBCJ7nLjTj4=
+
+Name: reference/api/org/eclipse/gef/geometry/convert/swt/Geometry2SWT.ht
+ ml
+SHA-256-Digest: TAmtX/0FtXJsF3v4Ip0H7AFcaUIKsVKw1QaPuOqm54c=
+
+Name: reference/api/serialized-form.html
+SHA-256-Digest: rszgrCRwOdVM3I7wPmaI3G7GY9aQhtYP86QgCM/4CYk=
+
+Name: reference/api/index-files/index-22.html
+SHA-256-Digest: JMxaUNKXk7Cl4YvKc418LpRurt0DrWx6VsvAQwljEfU=
+
+Name: reference/wiki/images/geometry/GEFGeometry-planar-curvedpolygon-ex
+ ample.png
+SHA-256-Digest: 1TpnNK5wPxxJBGi3OTcSJJJgPZCbjRX27IuI0YQreb0=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/class-use/CubicCurve
+ .html
+SHA-256-Digest: ulbDeoA9dWkfBezy5yoIRASoQU9A7WiOLumAARlo5q0=
+
+Name: reference/api/legal/jquery.md
+SHA-256-Digest: ONRWapOC3QYa+Y7PwCFlkaJKzf8+C23aU6obfjra1uc=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/ICurve.html
+SHA-256-Digest: uM5cPlYG/d06kbJ6Xic43X+BF2CCJsDnKqhhc/x9BbU=
+
+Name: reference/wiki/images/geometry/GEFGeometry-planar-fx-example.png
+SHA-256-Digest: iEzYqLPvbcG97JD7fv/0NhkTXI5VVpEYEhvGGIIX6N4=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/class-use/PolyBezier
+ .html
+SHA-256-Digest: W71Hzzh/p4win3S1pQYi/H2ra6MYNP2kIHx8bbJiY1o=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/class-use/Path.Segme
+ nt.html
+SHA-256-Digest: ASFRY0oTYDNCqaZqmHO933HDCzFomLqH7YavsNUoCbg=
+
+Name: reference/api/org/eclipse/gef/geometry/projective/package-tree.htm
+ l
+SHA-256-Digest: 1rHQdbm98D0DaijEiIWspCwCCPXiTZ7rFq9S94//VqA=
+
+Name: reference/api/search.js
+SHA-256-Digest: /cfSBkTYOr5bsTa5lHy56J31akhcv1QY1XJeUuiwTmA=
+
+Name: reference/api/org/eclipse/gef/geometry/convert/swt/class-use/SWT2G
+ eometry.html
+SHA-256-Digest: yBzrIL2sOgjN8+TydrG06iSYTpfwpmKFJSFr5pce1GM=
+
+Name: reference/api/tag-search-index.js
+SHA-256-Digest: 9kcS7rCdEson+ZdCJyFggoc7Ir5nQXx/QkIDg6rwjdA=
+
+Name: reference/api/org/eclipse/gef/geometry/convert/fx/FX2Geometry.html
+SHA-256-Digest: zg6OvMsJ5qSr/lOa2any8l6G03TxJOzFF+z8KTOV/iE=
+
+Name: reference/api/org/eclipse/gef/geometry/projective/class-use/Straig
+ ht3D.html
+SHA-256-Digest: FeMq/TGmd1Yo4j4AA6NRAQeLf2GE/w+B5L7b/8+hmX8=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/class-use/IScalable.
+ html
+SHA-256-Digest: GtZnxmFmZf3l+QM7tGX8U/bryBb/zBW7VgaWxXuvyUk=
+
+Name: reference/api/overview-summary.html
+SHA-256-Digest: p4w820li2K3JFt2eGdlDVRPQi7hxUtDGF9mgsiqSkxQ=
+
+Name: reference/api/org/eclipse/gef/geometry/convert/fx/package-tree.htm
+ l
+SHA-256-Digest: YaUZAjl1Xw6014Is/eI0HKZ6WV6qrDyLv5xZb5fnvUU=
+
+Name: reference/api/index-files/index-17.html
+SHA-256-Digest: kwkRxPcV8L5KHBRhNsvj1ctw0tsNumP1wZ2Z8ESAVMo=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/CurvedPolygon.html
+SHA-256-Digest: 2C0qKNhIiad7xcbLzPF2B9fR4Sijmn9Z/4DnIhZLESE=
+
+Name: reference/api/org/eclipse/gef/geometry/euclidean/class-use/Vector.
+ html
+SHA-256-Digest: LwkJuJOylLD2/cX7NK+N6jgMzc07GjWmb3wmdfDPMDk=
+
+Name: reference/api/org/eclipse/gef/geometry/convert/swt/class-use/SWT2A
+ WT.html
+SHA-256-Digest: HX/Aaw8+sL9qe7yCF6Ae2+ueg+YpXLZrMMts+367Uf0=
+
+Name: reference/api/org/eclipse/gef/geometry/internal/utils/package-tree
+ .html
+SHA-256-Digest: WdvBOMI5VtIlI7VaWr0CUsPQ53fpqa6d94wq6rWghNc=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/Line.html
+SHA-256-Digest: pG8kMep6EmyHRK1eJ/XPlzzUdo49qOeKtigy6cSdMFk=
+
+Name: reference/api/index.html
+SHA-256-Digest: /SK7Lxgi/s9G2wF+gRHHlGdfASBtPO5pJVxbt4WJDLU=
+
+Name: reference/wiki/images/geometry/GEFGeometry-planar-ring-example.png
+SHA-256-Digest: RLpps4EagjLtd3JSP/q2E5SGTsXdxd32gOsePWw/e1Y=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/class-use/Path.html
+SHA-256-Digest: 9OdPG3JsU7zQ/9ynxP+03YB1Q6v1EFQjmMMCHWYkOVc=
+
+Name: reference/api/legal/jqueryUI.md
+SHA-256-Digest: Qxq++oGpPZXAGGGaaSga7TNLkvBABg2k3ntAv8zDAGM=
+
+Name: reference/wiki/images/geometry/GEFGeometry-planar-polygon-example.
+ png
+SHA-256-Digest: rb0eDg+9Gu5wfBO4z3dfvtmQfcszo6V6+lkW9lsSpM4=
+
+Name: reference/api/script-dir/jquery-3.6.1.min.js
+SHA-256-Digest: O6gOvzU8GwHlIP87JHHOyOexoatd1q7k67ltUQdwSsA=
+
+Name: reference/wiki/images/geometry/GEFGeometry-planar-quadraticcurve-e
+ xample.png
+SHA-256-Digest: ChsgN6wBkR4qJ6d01H4QDKKOP6g4MGUhf7D+8AOeAyE=
+
+Name: reference/api/index-files/index-16.html
+SHA-256-Digest: SMSP1J8P4lC3TpcjdodCwU0FpV44kQTlfUBK0pjeM2Y=
+
+Name: reference/api/org/eclipse/gef/geometry/internal/utils/class-use/Po
+ intListUtils.html
+SHA-256-Digest: i3+aFawhESDhjr7wjcJDk8bKwdezGbpEh+9iSQHj4XY=
+
+Name: reference/api/index-files/index-23.html
+SHA-256-Digest: VEGmxfXO2b7I0gT1cMmXkorEuWkHAz4vWkju6UgCwM8=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/class-use/Polygon.ht
+ ml
+SHA-256-Digest: 2FiDGI2Gyrm+J7yrKb/3s3frXGacvtUi/erdKM6U2JI=
+
+Name: reference/api/org/eclipse/gef/geometry/euclidean/package-summary.h
+ tml
+SHA-256-Digest: XmTMjDbeRv0cUs7csy8699b56n7geAUm3jXfYmE1wGg=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/IGeometry.html
+SHA-256-Digest: 19APFyM2f3dDNcKhVEHQOSLZ5eAOIvGXQGMr95TwiLo=
+
+Name: reference/api/org/eclipse/gef/geometry/internal/utils/PointListUti
+ ls.html
+SHA-256-Digest: XYQglFn0jBeQl3NSr18tElgFAXi4qsZ7K/8ejmQjqNw=
+
+Name: reference/api/script-dir/jquery-ui.min.js
+SHA-256-Digest: 1L1wUOGs7Qh5xrEuGrgNWKChLhCoImAxc9H5p3z3Rpg=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/Path.html
+SHA-256-Digest: 2aLsJ+j0XlIpn3Rv2XwM5d5qDcA9k8w+/1qnvYLnv3o=
+
+Name: reference/api/index-files/index-7.html
+SHA-256-Digest: P7rwjlIGkSnzb7zqYgpQwebLUo7NOktCHCP8c6xWEmc=
+
+Name: about.html
+SHA-256-Digest: CsWkD0hkC59Yjrvd+k8WZcaup7g5p+LRBt004d1jqXw=
+
+Name: reference/api/index-files/index-1.html
+SHA-256-Digest: Rz6XzYIi7FjjXvoqjrwdsV5jdM+/nJkiepnWqllX0ZQ=
+
+Name: reference/wiki/images/geometry/GEFGeometry-planar-region-example.p
+ ng
+SHA-256-Digest: fvYHQqdZoFkxzvm5JDUc5GmS+TrmgSQpQbFA5P1BMRY=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/class-use/Point.html
+SHA-256-Digest: HOoZuP8MqYhUn7W/JHCQuv+G7pwfTq4ZyBbmrjuL2QM=
+
+Name: reference/api/index-files/index-4.html
+SHA-256-Digest: /JDJFvERvFQWZQ/yJIxpQjl3HpyBXCV+moZQ3SeiqsA=
+
+Name: reference/api/org/eclipse/gef/geometry/projective/Vector3D.html
+SHA-256-Digest: lm5Lo7egBQnpK2Juq11mgkeSQVBsVQrGd+5gtkC6JJ8=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/class-use/Line.html
+SHA-256-Digest: rOkZSmou8vQ+yZsKodxxRbOJzQQpdmOddgACH+34JL8=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/Polygon.html
+SHA-256-Digest: 9C7i9mGdBqE4LOmBvR1iXjUabSWMtj6fZ0RMYoZ+/7M=
+
+Name: reference/wiki/images/geometry/GEFGeometry-planar-awt-example.png
+SHA-256-Digest: DqyMXkUtYUysRRkp/aN87INrxQwgjKUSPnguSdDaBY4=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/Arc.html
+SHA-256-Digest: oJx5V3JcyIPjXcj4lyPhc//gPdy4s0uCa7VWErEywT4=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/IRotatable.html
+SHA-256-Digest: g8C4y8+cDJeC7dyxR6yxH6K2pgfFD1hnVE3VR980Igg=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/ITranslatable.html
+SHA-256-Digest: ZYUy82rUmifhIl8224K66kN0Fg4z2Ulhm8R5M86sHg0=
+
+Name: reference/api/index-files/index-10.html
+SHA-256-Digest: ANJnsUcCYag4h+rbWpELMguFi5+wmVeEtCyMBKpX0Ig=
+
+Name: reference/api/org/eclipse/gef/geometry/euclidean/class-use/Straigh
+ t.html
+SHA-256-Digest: oM/USjGs8rsjABe3Fm5X31+2810PnGM9h+0VAhDJNOY=
+
+Name: reference/api/org/eclipse/gef/geometry/planar/class-use/IShape.htm
+ l
+SHA-256-Digest: OGdwPI0FmhLr1FxN84LF0lgP8QZOwxIUWFAzq6hB/Qo=
+
+Name: reference/api/allpackages-index.html
+SHA-256-Digest: aA7XVJlG5KuExpagKWD3hAOCkeDn5D8jR3nhwof2ZBU=
+
+Name: reference/wiki/images/geometry/GEFGeometry-planar-path-example.png
+SHA-256-Digest: j7n3e4h48db7ZFa4qXm0mwHctd/6GGX+6WVvNQXMtCY=
+

@@ -1,0 +1,138 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="copyright" content="Copyright (c) Eclipse contributors and others 2020. This page is made available under license. For full details see the LEGAL in the documentation book that contains this page."/>
+<meta http-equiv="Content-Language" content="en-us"/>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<link rel="STYLESHEET" href="../book.css" type="text/css"/>
+<style type="text/css">
+body {max-width: 900px;}
+table.news col.title {width: 30%;}
+/*img {max-width: 520px;}*/
+table.news {table-layout: fixed; border-collapse: collapse; width: 100%;}
+table.news td {border-top: solid thin black; padding: 10px; overflow: visible;}
+table.news tr {vertical-align: top;}
+table.news tr td.section {font-size: 20px; font-weight: bold;}
+table.news tr td.title {vertical-align: top; font-weight: bold;}
+table.news tr td.content {vertical-align: top;}
+ul {padding-left: 13px;}
+</style>
+<title>What's New in Eclipse 4.33 (JDT)</title>
+</head>
+
+<body>
+<h2>Java Development Tools</h2>
+<p>Here are descriptions of some of the more interesting or significant changes made to the Java development tools (JDT)
+for the 4.33 release of Eclipse.
+They are grouped into:</p>
+<ul> <!-- NOTE: Sync ../topics_WhatsNew.xml with this! -->
+  	<!--li><a href="#Java21">New Java&trade; Language Features</a></li-->
+  	<!--li><a href="#JUnit">JUnit</a></li-->
+	<li><a href="#JavaEditor">Java Editor</a></li>
+	<!--li><a href="#JavaCompiler">Java Compiler</a></li-->
+	<!--<li><a href="#JavaViewsAndDialogs">Java Views and Dialogs</a></li>-->
+	<!--li><a href="#JavaFormatter">Java Formatter</a></li-->
+	<!--li><a href="#Debug">Debug</a></li-->
+	<!--li><a href="#JDTDev">JDT Developers</a></li-->
+</ul>
+
+<p>See also the <b><a href="../../org.eclipse.platform.doc.user/whatsNew/platform_whatsnew.html">Eclipse Platform What's New</a></b>
+document for changes in the Platform.</p>
+<p>We also recommend to read the <a href="../tips/jdt_tips.html">Tips and Tricks</a>.</p>
+<br/>
+
+<!-- ****************** START OF N&N TABLE ****************** -->
+<table class="news">
+<colgroup>
+  <col class="title" />
+  <col />
+</colgroup>
+<tbody>
+
+  <!-- ******************* Java XX Support ************************************* -->
+  <!--
+  <tr>
+    <td id="JavaXX" class="section" colspan="2">
+    <h2>Java&trade; XX Support </h2>
+    </td>
+  </tr>
+  -->
+  <!-- ******************* End of Java XX Support ************************************* -->
+
+  <!-- ******************* JUnit ************************************* -->
+ <!-- <tr>
+    <td id="JUnit" class="section" colspan="2">
+    <h2>JUnit</h2>
+    </td> 
+  </tr> -->
+  <!-- ******************* End of JUnit ************************************* -->
+
+  <!-- ******************* Java Editor ************************************* -->
+  <tr>
+    <td id="JavaEditor" class="section" colspan="2">
+    <h2>Java Editor </h2>
+    </td>
+  </tr>
+
+ <tr id="enhanced-if-else-switch-cleanup">
+    <td class="title"><a href="#new-make-static-refactoring">Enhance if/else to switch CleanUp</a></td>
+    <td class="content">
+	The clean-up to convert an if/else-if/else block into a switch has been enhanced to support String literals and Enum constants.  As before, the if/else-if/else block must have at least 3 blocks and must look for constant expressions except for the last block which can be put into the <b>default</b> case.
+	<p>For a <b>String</b> variable, each <b>if/else</b> expression can check using the <b>String.equals()</b> method.  For an <b>Enum</b> the code simply uses the <b>==</b> operator.  Use of the <b>||</b> operator is allowed to check multiple values and corresponds to a fall-through in the resultant switch statement.</p>
+	<p>To use the clean-up, go to <b>Source &gt; Clean Up &gt; Code Style</b> page and select: <b>Convert if/else if/else chain with 3 blocks min to switch</b>.</p>
+	<p>For example, performing the clean-up on the following:</p>
+	<p><img src="images/ifelsestring-before.png" alt="convert if/else if/else to switch"/></p>
+	<p>will result in:</p>
+	<p><img src="images/ifelsestring-after.png" alt="converted if/else if/else to switch"/></p>
+    </td>
+ </tr>
+
+
+  <!-- ******************* End of Java Editor ************************************* -->
+
+  <!-- ******************* Java Views and Dialogs ************************************* -->
+  <!--<tr>
+    <td id="JavaViewsAndDialogs" class="section" colspan="2">
+    <h2>Java Views and Dialogs</h2>
+    </td>
+  </tr> -->
+  <!-- ******************* End of Java Views and Dialogs ************************************* -->
+
+  <!-- ******************* Java Compiler ************************************* -->
+ <!-- <tr>
+    <td id="JavaCompiler" class="section" colspan="2">
+    <h2>Java Compiler</h2>
+    </td>
+  </tr> -->
+  <!-- ******************* End of Java Compiler ************************************* -->
+
+  <!-- ******************* Java Formatter ************************************* -->
+ <!-- <tr>
+    <td id="JavaFormatter" class="section" colspan="2">
+    <h2>Java Formatter </h2>
+    </td>
+  </tr> -->
+  <!-- ******************* End of Java Formatter ************************************* -->
+  
+  <!-- *********************** Debug ******************************** -->
+ <!-- <tr>
+    <td id="Debug" class="section" colspan="2">
+    <h2>Debug</h2>
+    </td>
+  </tr> -->
+  <!--************************ End of Debug ******************************** -->
+
+  <!-- *********************** JDT Developers ******************************** -->
+ <!-- <tr>
+    <td id="JDTDev" class="section" colspan="2">
+    <h2>JDT Developers</h2>
+    </td>
+  </tr> -->
+  <!-- *********************** End of JDT Developers ******************************** -->
+  <tr><td colspan="2"/></tr>
+</tbody>
+</table>
+<!-- ****************** END OF N&N TABLE ****************** -->
+
+</body>
+</html>

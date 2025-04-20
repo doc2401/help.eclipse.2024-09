@@ -1,0 +1,110 @@
+Signature-Version: 1.0
+Created-By: 11.0.24 (Eclipse Adoptium)
+SHA-256-Digest-Manifest: RGCBQG/UGpTY8Lf5KooaCXzv0UA6zB9SkrDh8VW55nE=
+SHA-256-Digest-Manifest-Main-Attributes: HL7AE/L8s7BGJF/Zb3wtT2n93Dohhce
+ GBrzjKBu+GMY=
+
+Name: plugin.xml
+SHA-256-Digest: GrEL2GQ86apvmor7y3LAAwTZlvgKmHOOUfjSzZQGj24=
+
+Name: Linux_Tools_Project/ChangeLog/User_Guide/images/Linuxtools-ChangeL
+ og-editor.png
+SHA-256-Digest: /IT9egT9CMzMbhz5WC0GzMaEmF85w83g1f6fjpC9SJw=
+
+Name: images/prev.gif
+SHA-256-Digest: ho4O92wMkbppVlqv7B0oySYonlqXVm7qBY+Y+oD9jls=
+
+Name: META-INF/maven/org.eclipse.linuxtools.changelog/org.eclipse.linuxt
+ ools.changelog.doc/pom.xml
+SHA-256-Digest: 3i6v8abP96VHGWD0Urj7+mICe+EKlJH5e2ApaHxVFvg=
+
+Name: Linux_Tools_Project/ChangeLog/User_Guide/images/Linuxtools-ChangeL
+ og-insert-changelog.png
+SHA-256-Digest: 4RUbOENLD31JRUE1AR+uGKGS5UG4r4hyIR1vDj/lcPE=
+
+Name: book.css
+SHA-256-Digest: Nk7dfcX2qsuofAjucBRU/kKrGCi0cr//7nS7dBsenH8=
+
+Name: plugin.properties
+SHA-256-Digest: 3KgrkdhSVUPsQb+Di2Tk+5PJptRhKp+9hdDVWIzJfWc=
+
+Name: Linux_Tools_Project/ChangeLog/User_Guide/ChangeLog-Preferences.htm
+ l
+SHA-256-Digest: 3wvbOSRHHCGeI+JgE8SBFKnRJtvUq2fZyZL6AmRM+O0=
+
+Name: Linux_Tools_Project/ChangeLog/User_Guide/images/Screenshot-FolderS
+ election_changelogplugin.png
+SHA-256-Digest: jSEqar3Mkhpj7s8qqp42V/KZxoXtCDM0Gyo+m2Iw9RU=
+
+Name: about.html
+SHA-256-Digest: ncO+WCNUIJ0JLCOl/ot53yopwTqvvtVu0qSgblesdYo=
+
+Name: Linux_Tools_Project/ChangeLog/User_Guide/ChangeLog-Plug-in-Functio
+ ns.html
+SHA-256-Digest: xMrqZT8wz1Roz5nsWZr+y3syoIm7J3qbCvpsv2kaSEw=
+
+Name: Linux_Tools_Project/ChangeLog/User_Guide/images/LinuxToolsInsertCh
+ angeLogMenu.png
+SHA-256-Digest: HTu5ayZWCZtDy2sp48XPQcEbNIhUvq0ob7LvIgn/XdI=
+
+Name: images/home.gif
+SHA-256-Digest: 822F9NyDQdLchnGhqoug5tXI/IfhSo7q6RJuxl/uzVg=
+
+Name: Linux_Tools_Project/ChangeLog/User_Guide/Updating-This-Document.ht
+ ml
+SHA-256-Digest: +KO9i41BGDkmy38hdpnPtTfFoHZzfx/ns+ZBpYTC+xU=
+
+Name: Linux_Tools_Project/ChangeLog/User_Guide/images/LinuxToolsChangeLo
+ gFolderSectionDialog.png
+SHA-256-Digest: Qp3j4RsZ8fvvi4VsaPwz1oswYniGnETuocbWo3voicU=
+
+Name: Linux_Tools_Project/ChangeLog/User_Guide/images/Linuxtools-ChangeL
+ ogPreferences.png
+SHA-256-Digest: unwr4tYtfWp8h7zlNIbdQAC3RmQ60afNEpPGzdsijFA=
+
+Name: Linux_Tools_Project/ChangeLog/User_Guide/images/FormatChangeLog2.p
+ ng
+SHA-256-Digest: BjedGSH3FGskV1VrrbTZ0W5SvMkByoCCx6NseIAEeIU=
+
+Name: META-INF/maven/org.eclipse.linuxtools.changelog/org.eclipse.linuxt
+ ools.changelog.doc/pom.properties
+SHA-256-Digest: EbRfTicYoOi3ZeY4GQV89Z+MYAiwMv8gCr/lyTMp9r0=
+
+Name: Linux_Tools_Project/ChangeLog/User_Guide/images/Linuxtools-ChangeL
+ ogPrefs.png
+SHA-256-Digest: 95bqzPIvd+nMb/6ixhk/fqWu8B00gw22bdqjqb6+ZsI=
+
+Name: images/next.gif
+SHA-256-Digest: mPQwWc2mzoNT0IPbzfzbX1BHJDbcx/Lbs9IKlTnGp0M=
+
+Name: Linux_Tools_Project/ChangeLog/User_Guide/images/LinuxtoolsPrepareC
+ hangeLog.png
+SHA-256-Digest: Mhxlh4eLlzmGy/ZhUPDsn/t4rBf6VAd+v//nZWd7A1Q=
+
+Name: Linux_Tools_Project/ChangeLog/User_Guide/User-Guide.html
+SHA-256-Digest: N/2HcKKGhVJs970ePFFKcf5SF+yuRv5x67D70bMvOH0=
+
+Name: Linux_Tools_Project/ChangeLog/User_Guide/images/FormatChangeLog.pn
+ g
+SHA-256-Digest: qSneuOI5wLiXgRBOjjAKq1Vm95pSNPfSdYKCH2qYy9E=
+
+Name: toc.xml
+SHA-256-Digest: 76dlsIADQaaYexXBV1Im9dtSZXp5/F7xrKE+vvDKP5Y=
+
+Name: Linux_Tools_Project/ChangeLog/User_Guide/images/Linuxtools-ChangeL
+ og-prepare-changelog-result.png
+SHA-256-Digest: UEow0QYw7SSj4vpo6+n2NniknIYDZgDrAKimpxXl8L8=
+
+Name: toc-doc.xml
+SHA-256-Digest: tZJTo6lSCHVIILPk0fcMzcfAR+wxaN+v7MKFSAfaECo=
+
+Name: Linux_Tools_Project/ChangeLog/User_Guide/images/LinuxtoolsChangeLo
+ gEditor.png
+SHA-256-Digest: qQTjckjAfdDamK4sTItdEoNOTpdQeysHixQd28wxBsI=
+
+Name: Linux_Tools_Project/ChangeLog/User_Guide/ChangeLog-Editor.html
+SHA-256-Digest: rIlnq6No5uy+LtkFAbPFo/2Kq3om/0OWM6EDL/0LLKA=
+
+Name: doc/notices.html
+SHA-256-Digest: PbUjSdzpaZaqUXvxyrhz4SjCGra7vkJ084tfEMTG798=
+

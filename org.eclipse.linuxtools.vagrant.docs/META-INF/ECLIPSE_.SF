@@ -1,0 +1,115 @@
+Signature-Version: 1.0
+Created-By: 11.0.24 (Eclipse Adoptium)
+SHA-256-Digest-Manifest: ImgFNK2rWwYLeLz461y3OQw5YnbxeKKSuZB+pVCFRxs=
+SHA-256-Digest-Manifest-Main-Attributes: hj6x8PapVcj8bSpS9NJ/ttndZQihsUo
+ 7G9AoqqGoT6c=
+
+Name: Linux_Tools_Project/Vagrant_Tooling/User_Guide/images/LinuxToolsDo
+ ckerContainerStopIcon.png
+SHA-256-Digest: JBBqkX8xb5wtQAoTdyrw3pVkiZlWBetqRexCdIG5BUA=
+
+Name: plugin.xml
+SHA-256-Digest: GrEL2GQ86apvmor7y3LAAwTZlvgKmHOOUfjSzZQGj24=
+
+Name: Linux_Tools_Project/Vagrant_Tooling/User_Guide/images/LinuxToolsDo
+ ckerContainerRefreshIcon.png
+SHA-256-Digest: dnovgSwWRkvK+FAIesI67A4ckM+sje/AvhDQa+Wc1bM=
+
+Name: Linux_Tools_Project/Vagrant_Tooling/User_Guide/images/LinuxToolsDo
+ ckerRefreshImage.png
+SHA-256-Digest: /Gfr/ltwK3hcVyUjG+BcOKopFHODNKm3KmLo3+LS1Jk=
+
+Name: images/prev.gif
+SHA-256-Digest: ho4O92wMkbppVlqv7B0oySYonlqXVm7qBY+Y+oD9jls=
+
+Name: META-INF/maven/org.eclipse.linuxtools/org.eclipse.linuxtools.vagra
+ nt.docs/pom.xml
+SHA-256-Digest: hNDwTj/X42NjU6LxJWGMCUSj4MA5unOrZ70VVTe9Ruc=
+
+Name: Linux_Tools_Project/Vagrant_Tooling/User_Guide/Vagrant-Toolbar-Men
+ u.html
+SHA-256-Digest: OeKgIroTgAvnvVs2mQKuSn8kbSlEjjdaBb3MfClUgcM=
+
+Name: book.css
+SHA-256-Digest: Nk7dfcX2qsuofAjucBRU/kKrGCi0cr//7nS7dBsenH8=
+
+Name: Linux_Tools_Project/Vagrant_Tooling/User_Guide/images/LinuxToolsDo
+ ckerContainerStartIcon.png
+SHA-256-Digest: Y1GCqugECHFR+Kn4WaPrlbk1klLuqEirI8PQxnM5O4c=
+
+Name: plugin.properties
+SHA-256-Digest: qA6rtYyGb/JAulB8+gEiwh2Hc5WwQNXFMxyss65/R94=
+
+Name: Linux_Tools_Project/Vagrant_Tooling/User_Guide/Vagrant-Tooling-Per
+ spective.html
+SHA-256-Digest: mBhtF6ZJeI5o3Uz8Q2XuNcUw1dR/C+dsDQ5XMltShks=
+
+Name: about.html
+SHA-256-Digest: ncO+WCNUIJ0JLCOl/ot53yopwTqvvtVu0qSgblesdYo=
+
+Name: Linux_Tools_Project/Vagrant_Tooling/User_Guide/images/LinuxToolsDo
+ ckerContainerCreate.png
+SHA-256-Digest: ZMExYwBmUAC4Fg9sYD6wMBEoq68XotLmZ8CFbh5Zyu8=
+
+Name: images/home.gif
+SHA-256-Digest: 822F9NyDQdLchnGhqoug5tXI/IfhSo7q6RJuxl/uzVg=
+
+Name: Linux_Tools_Project/Vagrant_Tooling/User_Guide/images/LinuxToolsVa
+ grantSSHIcon.gif
+SHA-256-Digest: pj7jvLvRNGh1Si7ogNE7vKbT/A2jtnrJyVWKIoaw/rU=
+
+Name: Linux_Tools_Project/Vagrant_Tooling/User_Guide/images/Vagrant-add-
+ box.png
+SHA-256-Digest: YYTiYrTsjgqDY+2ZjD0sCvd3Gr9ynI4A5hxfm8B7w28=
+
+Name: images/next.gif
+SHA-256-Digest: mPQwWc2mzoNT0IPbzfzbX1BHJDbcx/Lbs9IKlTnGp0M=
+
+Name: META-INF/maven/org.eclipse.linuxtools/org.eclipse.linuxtools.vagra
+ nt.docs/pom.properties
+SHA-256-Digest: NcsUNkN3x9/fw9rRQ6WxRaQBpgRw3wRG6ozj6JvgWVU=
+
+Name: Linux_Tools_Project/Vagrant_Tooling/User_Guide/images/Vagrant-pers
+ pective.png
+SHA-256-Digest: ndFLg7JJ7avwotjBd2ZBFm8mnagcJCWJPSjV64XLMUo=
+
+Name: Linux_Tools_Project/Vagrant_Tooling/User_Guide/images/Vagrant-ssh.
+ png
+SHA-256-Digest: uAyXMKgTR/CKcZnW6qclVbjC9krjbssl6dhfKmUJAK8=
+
+Name: Linux_Tools_Project/Vagrant_Tooling/User_Guide/images/LinuxToolsDo
+ ckerContainerDeleteIcon.png
+SHA-256-Digest: LrRXhtZhGyGvwbGxhEZq5+JDsJP30OD26qoErJnnc1g=
+
+Name: Linux_Tools_Project/Vagrant_Tooling/User_Guide/images/Vagrant-tool
+ bar-menu.png
+SHA-256-Digest: w7VNHaiubmmCpeU0a/XMpmpEw1GoJE2Pu7MXOXRftB8=
+
+Name: Linux_Tools_Project/Vagrant_Tooling/User_Guide/Updating-This-Docum
+ ent.html
+SHA-256-Digest: cwHSTsawuGG6cx7sgxaND91lvC1SlVfjEQWr1HIJ3rs=
+
+Name: Linux_Tools_Project/Vagrant_Tooling/User_Guide/User-Guide.html
+SHA-256-Digest: ibSWEjgrv9NwQc5c9bIO/Lnmffsl5+JKP/bcZZrQgqw=
+
+Name: toc.xml
+SHA-256-Digest: zKQlv2/GHdpOvE9X/1ghYhIU3VwpBdvo3k87APBv4xo=
+
+Name: Linux_Tools_Project/Vagrant_Tooling/User_Guide/images/LinuxToolsDo
+ ckerImageViewPull.png
+SHA-256-Digest: +UTvG5LxeBp2ge9q1/WkfhmqzNCazIq07h4fPMljO/o=
+
+Name: Linux_Tools_Project/Vagrant_Tooling/User_Guide/images/Vagrant-crea
+ te-vm.png
+SHA-256-Digest: /e9IG0zqoWXN3xNBV8nMYVdYXrBppXeyTnr2oz2aj3E=
+
+Name: toc-doc.xml
+SHA-256-Digest: M+Xo7qhhoyLcTS7xsr/haY+iTdBQrI6eyieA1W6Mceo=
+
+Name: Linux_Tools_Project/Vagrant_Tooling/User_Guide/images/LinuxToolsDo
+ ckerDeleteImage.png
+SHA-256-Digest: SPzf+DnHy6OvJXCD8+rs/wbBCT0UbZt+o6mzh6awTVw=
+
+Name: doc/notices.html
+SHA-256-Digest: 7diwxVaBTcq/qFsct87OJnzXfVNrbe9VLR9RqUSQuWk=
+

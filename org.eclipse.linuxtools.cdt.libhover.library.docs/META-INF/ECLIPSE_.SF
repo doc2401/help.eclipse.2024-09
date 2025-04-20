@@ -1,0 +1,49 @@
+Signature-Version: 1.0
+Created-By: 11.0.24 (Eclipse Adoptium)
+SHA-256-Digest-Manifest: OCIncd/n0gg9GpnmfL7u6qAK+ocwHV/pTgaXbem2Awg=
+SHA-256-Digest-Manifest-Main-Attributes: /kXCvyLgGAkR+hmDdv2lvdgszSlGy45
+ iSVA/FQu3jWE=
+
+Name: about.html
+SHA-256-Digest: ncO+WCNUIJ0JLCOl/ot53yopwTqvvtVu0qSgblesdYo=
+
+Name: plugin.xml
+SHA-256-Digest: FYHn8WAeiFIC97o+1rFWkM2ejk6jzQmYY2FrgVZUbQI=
+
+Name: images/home.gif
+SHA-256-Digest: 822F9NyDQdLchnGhqoug5tXI/IfhSo7q6RJuxl/uzVg=
+
+Name: META-INF/maven/org.eclipse.linuxtools.cdt.libhover/org.eclipse.lin
+ uxtools.cdt.libhover.library.docs/pom.xml
+SHA-256-Digest: HETVmQ0pYXuXO2ap2VNAe7y+/foawcNyB0jILtiAQiI=
+
+Name: Linux_Tools_Project/Libhover/Developers_Guide/Updating-This-Docume
+ nt.html
+SHA-256-Digest: QquBbg+skwiiIM9fGZVJmzXROjUu44pWWHfraOtiLc4=
+
+Name: libraries.xml
+SHA-256-Digest: OVT+euFNPsUZyNYIO2EwdCqdYjpNFevMtVn/qwKu/zk=
+
+Name: images/next.gif
+SHA-256-Digest: mPQwWc2mzoNT0IPbzfzbX1BHJDbcx/Lbs9IKlTnGp0M=
+
+Name: images/prev.gif
+SHA-256-Digest: ho4O92wMkbppVlqv7B0oySYonlqXVm7qBY+Y+oD9jls=
+
+Name: META-INF/maven/org.eclipse.linuxtools.cdt.libhover/org.eclipse.lin
+ uxtools.cdt.libhover.library.docs/pom.properties
+SHA-256-Digest: kDgCjJhO2kL0b2fox1w2zvH8j0sN8jrZ1vS0Oaa2LpA=
+
+Name: Linux_Tools_Project/Libhover/Developers_Guide/Developers-Guide.htm
+ l
+SHA-256-Digest: hcGJN7RbbN+adIWQFj+me8TTirvms51geQDto714sdo=
+
+Name: toc.xml
+SHA-256-Digest: tQ7Ab59SYDDD6LElveE0WX757zJEuYN3S8prIvTrv8s=
+
+Name: plugin.properties
+SHA-256-Digest: CpU+dW+gT3pJp7sINcITQ8FWq5c0qF3N8V6yEGIlryM=
+
+Name: doc/notices.html
+SHA-256-Digest: PbUjSdzpaZaqUXvxyrhz4SjCGra7vkJ084tfEMTG798=
+

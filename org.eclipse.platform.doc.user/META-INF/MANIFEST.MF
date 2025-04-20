@@ -1,0 +1,2130 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.6.2
+Build-Jdk-Spec: 17
+Bundle-ManifestVersion: 2
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.platform.doc.user; singleton:=true
+Bundle-Version: 4.33.0.v20240823-1014
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Require-Bundle: org.eclipse.help;bundle-version="[3.2.0,4.0.0)"
+Eclipse-SourceReferences: scm:git:https://github.com/eclipse-platform/ec
+ lipse.platform.releng.aggregator.git;path="eclipse.platform.common/bund
+ les/org.eclipse.platform.doc.user";tag="I20240823-1800";commitId=eca50f
+ 7cc70348feffe11f7b55466037072ab8c2
+
+Name: tips/images/browser-autorefresh.png
+SHA-256-Digest: fXU/sM40oLhFFC3KfuKp+dqplFyFdUa70IU5I40CQWg=
+
+Name: reference/ref-71.htm
+SHA-256-Digest: 8DArZiJ5+gPTtDZzsRuAmQGI3YXswd0J7PCweVlAlxM=
+
+Name: tasks/tasks-81b.htm
+SHA-256-Digest: upGPH7wBSFxtBHOZ5MtwOhPaAnfEqoYdNVBmHt+Izmk=
+
+Name: tasks/tasks-3g.htm
+SHA-256-Digest: /MF3bMPs+dYkJHIlw3Qxo0huwSxkEOBRVjzPntGZxBE=
+
+Name: concepts/concepts-21a.htm
+SHA-256-Digest: HqIxmWXyGTa8Y+jxmsee54Sq9PTJG4gyO/5tb/X/stE=
+
+Name: images/Image602_tar_assist.png
+SHA-256-Digest: i0misn3Jcn+cg1anfYAztDrzDIzskCK2og+THDkjVeE=
+
+Name: images/next_nav2.svg
+SHA-256-Digest: lZUh9pTMloaUJ1jTM+510BI872BRFJk4Fl4baWsNzP4=
+
+Name: tips/images/help_external_window.svg
+SHA-256-Digest: 44jUrcITAbnNc8MOng4wtKMRJpFxguO5AhbO0k6PBgc=
+
+Name: tasks/tasks-18.htm
+SHA-256-Digest: F65izXKs4GAPtsuSxTYmed4njoIrcgn4BlPgPs1fQ7k=
+
+Name: images/thin_min_view.svg
+SHA-256-Digest: QZAUJZhPeY5xnuk8PTg4bLsfLfuA/W4Ee9nqt5kPRZk=
+
+Name: tips/images/overlay-options.png
+SHA-256-Digest: J6MHcB7evOK8CaqsGLQwo2Da4ZNwhF+Sk0Ino5Ulbps=
+
+Name: images/Image82_repo_new.png
+SHA-256-Digest: ++OON8UhFN/GtxU0ofer0GLfnbQqFjwwLzC/1sYi5Eo=
+
+Name: images/ihigh_obj.svg
+SHA-256-Digest: coFScMpRNsKVe+CMlsGpBG0ZBAHJXJaV5Y9h93rvWkg=
+
+Name: images/image92-opencheat.png
+SHA-256-Digest: dwOd6CjAbtMQEkKgc6fvjtCzrrS8+d52YFf/1B7EItg=
+
+Name: images/mark_occurrences.svg
+SHA-256-Digest: jMXf1Pdd7NOB7Ehv3AJn/UnD4FyKLZW+WTImBZF+SAg=
+
+Name: images/ref-2.png
+SHA-256-Digest: hIUqz3i2S/L00O06hNJU4mGzgeukLJg6PFfsGTWShfg=
+
+Name: images/Image265_team_project.png
+SHA-256-Digest: pM7ku9ui17n75SGXgzTj+LIv1fGoJKmOB7p7WQoqCm8=
+
+Name: images/start_task.svg
+SHA-256-Digest: kJ7H4ugRAwDjFFxqgZbcl8q4RBSdFk5WAuRVgwWmS1E=
+
+Name: tasks/tasks-42.htm
+SHA-256-Digest: w17mjsA0NxpojpXnfW/orGa6pCnOpXc68psG7Vozw8A=
+
+Name: gettingStarted/qs-07c.htm
+SHA-256-Digest: Ipp0dJgfDWr9386rb55GszwOeDsOjvSGJ/IU5RH05+g=
+
+Name: tips/images/help_bookmarks_2.svg
+SHA-256-Digest: arKQO5+Eai66TC9BqO5K/dd6v2PtPbfsVFauiQ5/uTc=
+
+Name: images/Image40_import_target.png
+SHA-256-Digest: sNVTX42pQw1qbR2Q1VSwfegsvT/t5bcviXlNmDfKlVc=
+
+Name: tips/images/perspective-other.png
+SHA-256-Digest: n6OYa1CVLmm3J+svFc7SBBylSrwcNNsQ1/Fevmtx2ew=
+
+Name: tasks/tasks-132.htm
+SHA-256-Digest: //wpk+UHv4ZAc5kx/5k743sl9Ow1+JoGo6jfXjhlLFE=
+
+Name: tasks/tasks-1d.htm
+SHA-256-Digest: AGKdjzMxFHN/Fkvu5z2b16antK5R9OjCBmYjeZmq8kM=
+
+Name: tasks/tkeybindings.htm
+SHA-256-Digest: hNCdZgltghlDf4a5Ho7PwlocGa1DhmJtj9QsO65dCbM=
+
+Name: images/dirty_ov.svg
+SHA-256-Digest: 49967KMkwNcKm7uyzVhuvJaql3dFukWfBbisp2sYvJs=
+
+Name: tasks/tasks-97.htm
+SHA-256-Digest: iQN75wTPKgDR5+OJsAnbMhNYyt9nUkSNs6u9JwMYST8=
+
+Name: gettingStarted/qs-12c.htm
+SHA-256-Digest: AGpLXw72NVjxwTF0oIoAIupGhqzyzh3OO8OTKIlDeg8=
+
+Name: reference/ref-39.htm
+SHA-256-Digest: IeC3I8euADMnUXaoPMgqzMOtvanXhORjmdXxRA2C5YM=
+
+Name: concepts/cdecorations.htm
+SHA-256-Digest: F+mBcp0Fi7UJDje4YrNUs5kM02T8IMp5qdppOA/PKeg=
+
+Name: images/version_controlled.svg
+SHA-256-Digest: Rq/Hl0/+yG8cH3A15iEJflGNbBTVCoshdH8ZHvoGFvQ=
+
+Name: tasks/tasks-9j.htm
+SHA-256-Digest: BpxD0B2HPCV+zqh6wJpHQzfzH9TVT1KiYCiSygTbDUs=
+
+Name: concepts/concepts-5.htm
+SHA-256-Digest: X7mH5M8GXxOXXmHpOGBvLt9pjCX0xV5zHTfuY3uEvkU=
+
+Name: images/build_exec.svg
+SHA-256-Digest: tIvcjxj66HcxOTk+ogU2FVxOU1fi95JviYnKa3oPCy0=
+
+Name: concepts/cprbview.htm
+SHA-256-Digest: Zo3M8NGMXiZqL/Vifjbx78EgLJ0dv/60FckQ6WyffgM=
+
+Name: images/Image242_repo_view.png
+SHA-256-Digest: lbD8APjuWY5MI/AGmov/p/lWLsLk5jXff79GmdU64BQ=
+
+Name: images/Image83_jane1.png
+SHA-256-Digest: YAHed3e3Xq0SGBvd9tNdafbxUnVYmkbAFzIqCb4H9I0=
+
+Name: images/Image258_perps_custom.png
+SHA-256-Digest: d5nv3IRzxOYeXrQ+6XRlKSy2EqYylymHPFXOMVvaZgM=
+
+Name: images/targetpublic_obj.svg
+SHA-256-Digest: TW9g0Y2kHAmq1ec0gMofBIhJSR7tH/IChoj82fStGn4=
+
+Name: reference/ref-p2-autoupdate.htm
+SHA-256-Digest: voAIiAPE/HGJoJ8My18uIQkoai1FXec06fU48fihPtw=
+
+Name: gettingStarted/qs-43f.htm
+SHA-256-Digest: KY0OSWWVBf1ZkC6BVnBCbRVMEMrDzfy4vT4qZ9CwKT8=
+
+Name: images/build_tab.svg
+SHA-256-Digest: 1fHwiat1Ymyi2UIpQhuNKulsCf+6iAODkk88vTo0U5I=
+
+Name: images/Image20_nav_with_resources.png
+SHA-256-Digest: 2ZWjHfE8I+dHN1P153DuTbMSDfEUwLSUWNr52Qz3JvI=
+
+Name: images/maximize.svg
+SHA-256-Digest: 9AdYauOODiXoyBq2jkHjCgv3gR809dJDOT3QQXP/FyM=
+
+Name: images/Image82_repo_new3.png
+SHA-256-Digest: kfFSg1vMSRBSGnSX3x6lp+73MWnSwzNlyWAVw1CEpW4=
+
+Name: tasks/tasks-66.htm
+SHA-256-Digest: WkC4ZYkCdVospIboNn5amrE2M8KKD552Fiep41AFK/s=
+
+Name: gettingStarted/qs-52e.htm
+SHA-256-Digest: jnlhh9gm0XkfkxfE2QxP7cO3Qx/Aqk7qBeSXJDqq58k=
+
+Name: gettingStarted/qs-34b.xhtml
+SHA-256-Digest: N18T4nrCog0e1ctPplhpA5eIszKzU4cMUqxM9J3s1LE=
+
+Name: contexts_AntUI.xml
+SHA-256-Digest: thQG1+i7PIEdET0SQ7JC5UJjcxHS2ogZNnoVY/b5Wk0=
+
+Name: pom.xml
+SHA-256-Digest: btP6hESFzBtpcY/Ku12vjuGqU5aeDW2l7euSPuVRXpc=
+
+Name: tasks/tasks-73.htm
+SHA-256-Digest: RQRN7lL4usRUlHbtaq5e1kC+7u+Pl07L+bf/5pdT0iM=
+
+Name: tasks/tasks-49.htm
+SHA-256-Digest: NzbsLasK/QZghOo222mBSLLgcjmk7glOwjQKXSKYbwA=
+
+Name: gettingStarted/qs-36c.htm
+SHA-256-Digest: ntiDSlHSBrxRKlaZjYMLMc/EMElImH8XozIP+Ggivcg=
+
+Name: tasks/tasks-113b.htm
+SHA-256-Digest: AUv/XelHbKGCfi+ZUZULw3l2Gznp420AfUoROEbcZ5o=
+
+Name: concepts/concepts-12.htm
+SHA-256-Digest: JOoteAq122Gm4AjVmaUnTMmdf0ypcPPv8pze+79Z0/o=
+
+Name: images/toc_topic_obj.svg
+SHA-256-Digest: +1JVC8OpY+UVSD6XAcG6I2P1q0Fe98rUU/kWa3KtnyU=
+
+Name: reference/ref-15.htm
+SHA-256-Digest: 7t5UTWuhgNAvmfJodZyamkXV9J++iB1iNjtuZXs71GE=
+
+Name: images/help_scope_criteria.png
+SHA-256-Digest: 1Fe5Gjyl8wlRaCfbDz0yqur0vSRTYmWj+pMKA7XcrZc=
+
+Name: images/remove_co.svg
+SHA-256-Digest: 5Mtmjglb0L5utroZ5kk8b3eawHoSg1IXz3kXpYwj/sg=
+
+Name: images/skip_status.svg
+SHA-256-Digest: DNMKQ9vQKg6rrssPMOecD3t5moJhFnmW69dI7jdOro0=
+
+Name: topics_Concepts.xml
+SHA-256-Digest: zFbiwPrOLh7p6I3Jpkd/xDyWBrDHfvHFLimZ+2cdxes=
+
+Name: images/slocalhelp_obj.svg
+SHA-256-Digest: HHrDDVkzjtNUbZqgZLV1YYNwJIZ7wXLNZ+hDY9IoV4M=
+
+Name: images/ant_tar_assist.png
+SHA-256-Digest: g4ZQdcM2N2jpxcx+oK1pnRtRYxqVzOsdxikmVQNlDd4=
+
+Name: tasks/timpandexp.htm
+SHA-256-Digest: 8hmylK+jb7QAGbulsMZpJWUYpWzatQXLKV42Nc0/0ws=
+
+Name: reference/ref-3.htm
+SHA-256-Digest: VrTqpxUl/bKjOOlSc6cuisx0VU/7CrlRmkXp2ZJYH+I=
+
+Name: reference/ref-23.htm
+SHA-256-Digest: 9aCIBciYjBps+WsePgTywEqi4o8anmB666EoHZjurTk=
+
+Name: concepts/coutline.htm
+SHA-256-Digest: +aExT8Uf9HeFl6TAIwFuzjX/lhXX12f7lHZnwWPOvYk=
+
+Name: contexts_P2.xml
+SHA-256-Digest: MwJ9ZzTFurNLnEbJsTwafkHTo4rwmBDPojDzqykgaNI=
+
+Name: images/et_dialog.png
+SHA-256-Digest: juGwxPKc95HkzoWYfCllIzA8PCs/ifJ53tFqU9mh2Ng=
+
+Name: images/prj_obj.svg
+SHA-256-Digest: Azc99izUvz227ojv2YkiHv+vrVbSnE8wjdfRgj2/T14=
+
+Name: gettingStarted/qs-39e.htm
+SHA-256-Digest: DzVZBV4uPy5Aw51UmkpMPTcAOYRco5bLmwlhr+PLSDc=
+
+Name: images/newfolder_wiz.svg
+SHA-256-Digest: X93en2Ueir3b26NYrupbfXzWX+BghDSomPnVrh+kpDs=
+
+Name: images/topic_small.svg
+SHA-256-Digest: vu6yH+il0H5WlGDNS1OQ44kpZyRCQOFop/saJ9NnS5s=
+
+Name: tasks/large-file-associations.htm
+SHA-256-Digest: DdqQ/YLMk1u490rhXiRCry2LhqNM0NC/a620JHqoSic=
+
+Name: tasks/tasks-81.htm
+SHA-256-Digest: 3USwb9TKVouPiRaGtboAPR8dCutY99qBKOEFMH3raLQ=
+
+Name: tasks/tasks-124.htm
+SHA-256-Digest: 4SJlFPiLRGSNaMP0m0FLtKXiswnO9m21898L3mcFdVA=
+
+Name: reference/ref-p2-installupdate.htm
+SHA-256-Digest: l9yLCoqI8YgYD0vKAy99jJxJbh1RFmEzuz8hL13SyzE=
+
+Name: tasks/tasks-exttools-running.htm
+SHA-256-Digest: VU0dNsDBPKIY1bNfpC/OegVoquntUMp2kimgr9lyoUc=
+
+Name: tasks/tasks-2.htm
+SHA-256-Digest: l5wBdiTRCpMoKP2vKTF5ykppx8NPPHLJngVJDInceN4=
+
+Name: gettingStarted/qs-92_project_builders.htm
+SHA-256-Digest: S/2Bg8vk61D2JhDphsjoatxncTmu0+irajOtPu1IJMc=
+
+Name: images/refresh_tab.svg
+SHA-256-Digest: Q7kIjYohYBNFTuS2vcxE9GRn9y5e6FmQy4BceKSQsqA=
+
+Name: reference/ref-38.htm
+SHA-256-Digest: NnYBsqvIVAE7WEvM5rcxWXkdNGDDJ8/OgX7lNeikW/A=
+
+Name: concepts/concepts-18.htm
+SHA-256-Digest: kN0qendvWzUFiWYoa1GHvyI5boGBP3pDknm0z5PwS0U=
+
+Name: gettingStarted/qs-39d.htm
+SHA-256-Digest: 8nC3eQzh0Go2LHr1gl66X1Xmmr7jY9r/GB6gVILDYCg=
+
+Name: contexts_UserAssistance.xml
+SHA-256-Digest: cA+ONy58tMitFuh2um7qRjltyJSDeiy8Z+rgdDvYibU=
+
+Name: gettingStarted/gs_htmldoc_book.book
+SHA-256-Digest: nwPjZ5sWq11jvdgSTTqE2QD2kSYUnOdpzFby3ht8wmE=
+
+Name: gettingStarted/qs-32.htm
+SHA-256-Digest: 6aS/24LGO0m3/kp6RNy9016y4e9e5m3UwCfJeQ9AGzk=
+
+Name: gettingStarted/qs-37-2d.htm
+SHA-256-Digest: vBXUMYodL3N0Y3NNAP90ROfQLmTEYOXtEMZetE2cl3A=
+
+Name: images/error_log_details.png
+SHA-256-Digest: WUSE7iLTtuhxsq1EsL1GovOxUnSl+ShNHohpQSMRYV0=
+
+Name: tasks/tasks-100d.htm
+SHA-256-Digest: R7AAtARL4eFHyBm+MGhfDUwUNy28iPV0z1sz4z2BGcc=
+
+Name: images/classpath_obj.svg
+SHA-256-Digest: r9/s5emskfAjMWZLZVCKiQRLQlU3/ljJd/FNwy9TNf8=
+
+Name: concepts/concepts-6.htm
+SHA-256-Digest: i8ItjcCKx/RBw63nIc+9Lq8iH9Zils/NihBqW0f5j5c=
+
+Name: tasks/tasks-88.htm
+SHA-256-Digest: j/SQDYnAowKceayzOWI3XOP9n0A4QHeG1++21BLIHCY=
+
+Name: tasks/tasks-3h.htm
+SHA-256-Digest: aj2p7aFYvmt6MZFMNMG/u6nxl7t7eop86HzQld6DPv0=
+
+Name: images/Image273_local_hist.png
+SHA-256-Digest: 2y8SSmh5PEQ5yekmiYSfzkeUdREnA5QffUClABY6/WQ=
+
+Name: reference/ref-securestorage-recovery.htm
+SHA-256-Digest: yjbDRrInrt/1QPAVNk25uUrdwk01SfQHGcbhJpcYvmw=
+
+Name: images/equinox_secure_storage_pswd.svg
+SHA-256-Digest: 0lhVGCsopmxIn9rLPE9vDwINLSrJiFX1QtWDPxiXWuE=
+
+Name: images/copy_r_co.svg
+SHA-256-Digest: tizAUnNhK2VEhHdbTCjZIbMsgDWgOcGGAj2BiBuStkY=
+
+Name: images/import_wiz.svg
+SHA-256-Digest: PEcTtcQNAyn1Tqd5UkTRHCtyxQ+zeJv6LMQ0gs+PtnE=
+
+Name: images/Image264_export_sel.png
+SHA-256-Digest: Dr2ADLwHfgacqdu90HU99Sqk9leDdFUYKGFEA7JyoBk=
+
+Name: reference/ref-72.htm
+SHA-256-Digest: pueiy55bXhfpE2PPwcSOT5qA/XwuRE008yAJgdEzGwY=
+
+Name: tasks/tasks-131.htm
+SHA-256-Digest: cu1/93vodEzvTRoYPTc+KGMW2CiqIAXWLoUgNKTZBdY=
+
+Name: images/Image39_import_tree.png
+SHA-256-Digest: hOsNq8N0JINaUEk8tnsZ2sZ5JDocPQsJ6s5X2gDXi1I=
+
+Name: tips/images/team-project-set.png
+SHA-256-Digest: JwJbFe0mGdomg0WT6rFF/P/Fmf/SOpAOQaOd2EhEiIM=
+
+Name: images/Image266_export_preferences.png
+SHA-256-Digest: ga4yn/3l3S+Jpso3FhibrGGaiMBPhu+spn5g8tdnbRI=
+
+Name: tasks/tasks-115.htm
+SHA-256-Digest: I5t6hlNRK94bpheQNsUa17wgH5khT7UYI0b+KUzlLuk=
+
+Name: images/Image214_toobar_rsrc.png
+SHA-256-Digest: wXwf8eRvaE3pxzIPeWXNoqQZZHf3lnZS5lItSmf7P3c=
+
+Name: images/prev_change_nav.svg
+SHA-256-Digest: MLYDDAmkCUV+xIZ4KwQ5XVLAJqGKlEwdhkOOetonl9g=
+
+Name: images/remote_history_mode.svg
+SHA-256-Digest: Z7gDAxK0HJQvzloCAIe1jHN8PZRBJkUUpNj6n4if2MY=
+
+Name: reference/ref-antformatter.htm
+SHA-256-Digest: tcnY3zmI5Bip8rAebDuN3bkPYpBQ21KFBQ1WdDU1DvI=
+
+Name: tasks/tasks-100d1.htm
+SHA-256-Digest: N9abvT/FM8LNHnMH8Ppdu2BPvXs7DN85kKyCQH3Elhk=
+
+Name: gettingStarted/qs-55.htm
+SHA-256-Digest: TuwSEk6IIwdt7tA7rCP0EjpKO+eUI2JJ0JzTx5D98Mw=
+
+Name: reference/ref-48a.htm
+SHA-256-Digest: cMU27lA3UdVSW6AHreK13FM5T+8IlwTC1XWnQtKeeY8=
+
+Name: images/saveas_edit.svg
+SHA-256-Digest: A4F0lXmtEO0ejNJUvjwLYtbPOfQ7xhJLFOiJZo4qV9c=
+
+Name: images/Image262_import_preferences.png
+SHA-256-Digest: VIp3/6U/1JVoJFj0UMNrsqTmvb+j7nNXoVdrk1lYF+o=
+
+Name: gettingStarted/qs-07b.htm
+SHA-256-Digest: LWu4aqmuSnRRFi1+2kUAvqNS70ANyJ6cZX2Cu2P2ZcQ=
+
+Name: images/et_standalone.png
+SHA-256-Digest: 74jfOW1g9pzJvJHnCtw8pluuQfj3Pxp8bqJulbyJswI=
+
+Name: reference/ref-p2-trust.htm
+SHA-256-Digest: bGBG1J72WEAbi6jO+oxL8K52Jlml86H0IPKwM/AgZr8=
+
+Name: images/arch-npi.svg
+SHA-256-Digest: /Q6Dx4iu/ds2/N4pCPEsQIlp38uEatrclftRTvQptqY=
+
+Name: reference/ref-securestorage-passwd.htm
+SHA-256-Digest: 0oG9c77ZBOQuGX+j59bMeeAPkxNt8N4kKP48KprmzTQ=
+
+Name: gettingStarted/qs-12b.htm
+SHA-256-Digest: k8Dd+mXTTZYZG3XUMCWSrMT8BoyuUcidsCbMmmZLmuM=
+
+Name: images/debug_exc.svg
+SHA-256-Digest: ghZYcUqCT8tDdgA0MBQB68Id5Fv9XE6u/srQQKzL9j0=
+
+Name: gettingStarted/qs-83_edit.htm
+SHA-256-Digest: cNj+4xaBuJvjNQixpZNkjcirMejTrDIwaf1AiXYyARo=
+
+Name: images/Image55_reset.png
+SHA-256-Digest: 3+82OJLspNFDYU3mWxrsurhFeVb2nDL+KHs6eqkxz3g=
+
+Name: images/error_obj.svg
+SHA-256-Digest: 4m9KdpVlEucoeGXHUPusB/wSdmPdPGGl6xVTV+CJYvY=
+
+Name: reference/ref-tracing_preference_page.htm
+SHA-256-Digest: /eupz6+BE6W0RhYWuNNIarnwjd1SXx7bAy7Z3tzhx4E=
+
+Name: concepts/accessibility/text_editor.htm
+SHA-256-Digest: MXVzDX/07u38JfjDTbYShPD0fjuuYbSmEkRhZO96oQY=
+
+Name: images/filter_internal_targets.svg
+SHA-256-Digest: BCiCr40yhlOLWIV+PSLLG9moNc0yqwj9+vCdHYnr940=
+
+Name: whatsNew/images/regex.svg
+SHA-256-Digest: nd11Rxft9GgrLeX5Hk7jNz6+9hr6VWzoSqtdDtZR1Aw=
+
+Name: concepts/concepts-13.htm
+SHA-256-Digest: P0ktTlqz3z4qocfVPLngCvLnFvTRVvS64EQVrHfl5xQ=
+
+Name: tips/images/new.png
+SHA-256-Digest: zVY4TcGCr6zISA9B6f/5CJvcI1bAxcjaqa8DDUTrrg4=
+
+Name: contexts_Compare.xml
+SHA-256-Digest: jxM8vDshJ2yrKhU1QODMeV2WOSCaMsbov+i9M9kmoqs=
+
+Name: tasks/tasks-importproject.htm
+SHA-256-Digest: sBT1xR4RU0gQhd8IgPYyQpXA6mKaSJXuU2OwFBP+8lA=
+
+Name: reference/ref-16.htm
+SHA-256-Digest: mtn4zUwWda42zWKOs7LXZcle6zQAZNbJn4FjnQu/YdQ=
+
+Name: whatsNew/images/whole-word.svg
+SHA-256-Digest: jzIMf8TEmeotDSWdZh0OqeJHjL5N5F6p4gaAnP3IDKQ=
+
+Name: reference/help_preferences_content.htm
+SHA-256-Digest: 5pO2c+BX/H2vaMTLGIo1MPdBBW+O4SEKNa/SBVCp3lU=
+
+Name: images/defaulttarget_obj.svg
+SHA-256-Digest: l1pzRBtOUiQOZ7J0vQ+r/Ebl4Mapkjpv0HqtOMvlBUw=
+
+Name: tips/images/detachview2.png
+SHA-256-Digest: VgmNVu+ChijPI8BIQsvzlFCp8SPdnb2htV3qwyz9Mps=
+
+Name: images/highlight.svg
+SHA-256-Digest: jMXf1Pdd7NOB7Ehv3AJn/UnD4FyKLZW+WTImBZF+SAg=
+
+Name: tips/images/autosave-preference-page.png
+SHA-256-Digest: DCpipYaLrCgqCTagkd8vctt2iQyKPExExTB92F2BSww=
+
+Name: tasks/topenmode.htm
+SHA-256-Digest: Lrq27USlY/8nhuO3b3OTT4ZAq2aUeEs8p1LIOEErhiE=
+
+Name: gettingStarted/qs-01.htm
+SHA-256-Digest: KrrPOiglGUAAclPRilsugBnCdPeHDFhSg+ByllbEeGE=
+
+Name: contexts_SecureStorage.xml
+SHA-256-Digest: XXumXiwBBqwCs+/bQNHboHBTjEayIcXuuRZ2L9pIydQ=
+
+Name: images/drop_vert_bar.svg
+SHA-256-Digest: mSVN/8mv00+6kNv87w9EE9oK5Xmw3CRdFC0vWWK/nGQ=
+
+Name: reference/ref-globalizationprefs.htm
+SHA-256-Digest: 9oNBO/+14ULtI/6noV2lh224CRdB3W+Oco7vrCMZ2EQ=
+
+Name: reference/ref-securestorage-works.htm
+SHA-256-Digest: FSlTTy497C/wGl0eVKYB9Wgdx4ywEinYieyx0K9K78g=
+
+Name: tasks/tasks-84b.htm
+SHA-256-Digest: hbIPPNt+QwGC+iMJHovPmsDd9iZnZbSfvMCNyiCVH9A=
+
+Name: gettingStarted/qs-36b.htm
+SHA-256-Digest: MZ0NX5rNev0cCamXeVNEULba3uXbhMwHTbNXyK0ROJ0=
+
+Name: reference/ref-templates-view.htm
+SHA-256-Digest: 0Hdu+CZ2vnaZBxX1znveAIS6zIfam7LZpIS7TitlvX8=
+
+Name: images/help.svg
+SHA-256-Digest: K0zm4vEY59XtyL21E09MyXE7txFBLv2EteiFGHe9Fnw=
+
+Name: images/Image82_repo_view1.png
+SHA-256-Digest: lCV5Yhtsz2lpvnF1gW67WEcgbYkymde19gIqzbI3JNs=
+
+Name: images/Image83_fred_verson2.png
+SHA-256-Digest: 0lOxo5LOvpm5QN+5QDjmsYas8dUQccwfQwu+Xgv6cTc=
+
+Name: images/next_nav.svg
+SHA-256-Digest: 5iyDAuAXRZzgnQqOTws2Ux5sLb4hXKpL6cPPmrAsUgc=
+
+Name: reference/ref-2.htm
+SHA-256-Digest: K773YnHQDfVjg6inkauRfr0btx3V5HhZd4fXcJECOU0=
+
+Name: gettingStarted/qs-24a.xhtml
+SHA-256-Digest: OxK6zE40M8Dq8n43CsE3UWUobUUPxWCpfyB8Nt4rGA4=
+
+Name: images/Image216_history_view.png
+SHA-256-Digest: lHwrYBFpTXSIfUleMHcOeRWZYtuRe2QZam08c1ZcnjY=
+
+Name: images/newfile_wiz.svg
+SHA-256-Digest: wguA9MlfPC+7cHRvgidnR9Ul2PHWhnRwHO79LrB7UCA=
+
+Name: images/cheatsheet_composite_start.png
+SHA-256-Digest: 8ScGuOTuOQaeJecUPuBa6xqHGT014vwAoW5bp4YjzXI=
+
+Name: concepts/concepts-antsupport.htm
+SHA-256-Digest: 8V/eyg0MMP3MU+sQ/dCYqlY1KSgkm83gVnY7IBvMKJc=
+
+Name: images/ant_builder_refresh_tab.png
+SHA-256-Digest: Ne5eHXCUbADg54jdaoiy/WfSzRP9V6D5SC1TnjvMfOQ=
+
+Name: images/ant_view.svg
+SHA-256-Digest: QSdOxfrPSRRZPgvqzuYpMfDOmyh+kvanRP2/Wmfq7/o=
+
+Name: tasks/tasks-1.htm
+SHA-256-Digest: hophISZaEfUQsfdIxzONf6BJsogeLIYg9EmpE+ZTVOc=
+
+Name: concepts/virtualfolders.htm
+SHA-256-Digest: KBL9sAdrBalpFeCA3PijpQP3qcxtExQh64mxqhIPo+E=
+
+Name: tips/images/path-vars.png
+SHA-256-Digest: Z5svTCMMQLV/+by1HUJAAaj+vMaV42ohT3ed5LK1+C0=
+
+Name: tasks/tasks-ant-addtasksandtypes.htm
+SHA-256-Digest: mUx7QlB5soVP6H45f/NzOUjf6YcwirlE6t7+ex3sx1g=
+
+Name: images/copycont_r_co.svg
+SHA-256-Digest: qur58G2Znq6+o7sIlaMA2hgq18/rSqraNjZ7owz1o1A=
+
+Name: images/et_dropdown.png
+SHA-256-Digest: iZerRJBx7lmHfQLsnzFQYOeb+qKjXVu6Oz4umnoiWVk=
+
+Name: images/Image83_jane-sync.png
+SHA-256-Digest: Y6+xgcNrEG2nOIx0jgVS7bBakkWeIgxyrXa+yBqWOkQ=
+
+Name: gettingStarted/qs-52d.htm
+SHA-256-Digest: wzCp1PlDbgPWWr7ISj7lWlikwyCc8roz7zztthiS7Ac=
+
+Name: tasks/tasks-125.htm
+SHA-256-Digest: nIxXwvw3Qs7ePlW4C65t3dUrFAHxK5M1gwVhVCNAOC4=
+
+Name: images/fldr_obj.svg
+SHA-256-Digest: ErZ3CmRCRA7xxJ4M8CjRJXUeBoHWpiK0zFsTq/sYBFo=
+
+Name: reference/ref-22.htm
+SHA-256-Digest: HksBIc9aIC9egBkx5JGC7yWJ+4c83eHQ+3wStRtGkEo=
+
+Name: tasks/tasks-20.htm
+SHA-256-Digest: 4Kab3Nr3NgUdnqoQ+g7MIBbzCJM6hQINbjRHP+kFcEg=
+
+Name: tasks/tasks-57.xhtml
+SHA-256-Digest: 5e6pQm3/v5NEJC8VTuTJ7mjv39DBkVfMVQCut8GtMss=
+
+Name: images/Image82_import4_project_fred.png
+SHA-256-Digest: UDainQDzYGDyX66Z16wglPHOKbQm9DggemmTtWpClKs=
+
+Name: reference/ref-exttoolsprefs.htm
+SHA-256-Digest: nmyMRujZNGL83REToM0vemQxkMlQ/dyjlpZDIH3SUn8=
+
+Name: whatsNew/images/pinInspect.png
+SHA-256-Digest: j/ZmRhz+x7oIl9+DUmuAZn6SJvovDcoV70bYiYbAJP4=
+
+Name: tasks/tasks-44.htm
+SHA-256-Digest: p+1gtcxeVRpyikqqnlMxP6WTT53Jwn+AGoKSRZuIb/I=
+
+Name: tasks/tasks-79.htm
+SHA-256-Digest: H+xB7VOug/g8RHYrW3jRPUd87VJtIeqB3Sw605iZiO0=
+
+Name: tips/images/quickaccess.png
+SHA-256-Digest: GMle8v2sfn1yTihDBPFNeO3Wm2HdmFxSIqZQsmh6j+E=
+
+Name: images/Image245_sync_view.png
+SHA-256-Digest: xxCQLpt+ZDl4YXXsm81Dpefxrqkv87FK4I6bFdUagIc=
+
+Name: images/Image3_tabbed.png
+SHA-256-Digest: GusOkSOsUdh3mZc/wXAe6rPwg0z3k2N+YoL8z9IQz+8=
+
+Name: reference/ref-securestorage-start.htm
+SHA-256-Digest: FEYDOyNDg000T1OsWsDYS6ZTbWlzHh/KdhLrqxghmS4=
+
+Name: gettingStarted/qs-37-3c.htm
+SHA-256-Digest: YN26YNPz9fTKA8sbhTUjnwJFR0KJ5M06clpOQKdyQDI=
+
+Name: images/removeall_co.svg
+SHA-256-Digest: bjxc8xhWhhR44CrKVFkUN86zzEnJoLqShBSttpUsnsc=
+
+Name: tasks/tasks-130.htm
+SHA-256-Digest: fz1LhQ8UCvxjDPDNRm5qVEqoxwRJ6uMx7mf7Xnr5zik=
+
+Name: tasks/help_navigate.htm
+SHA-256-Digest: SzUjJ+HU83OFV1FB65OBAnloEb864UB/+KGJ9hTCa+g=
+
+Name: images/drop_invalid_source.svg
+SHA-256-Digest: ySI8J97jEGN6bBmuK6DG4r2fArZXTH3dRynEYDYFF90=
+
+Name: reference/ref-fonts.htm
+SHA-256-Digest: fEnBNMZ9xGYRM2XEDFkvT5aNg94frskWBpdNmtwbz9w=
+
+Name: tasks/tasks-122.htm
+SHA-256-Digest: +rhluq9Gx2MTVz8zt2L6T7ZYnpV1D02/afugwmj1L/c=
+
+Name: tips/images/key-bindings.png
+SHA-256-Digest: v4Cqa4jTx9uWTDpScYfNfh5IBFk4ldbFEKNy4nTLey8=
+
+Name: reference/ref-45.htm
+SHA-256-Digest: HQQIBjKCofPv19ewqwQLuspVZcn+HrhE6wp9DAkmIQ8=
+
+Name: images/quickfix_error_obj.svg
+SHA-256-Digest: v+cP3of48fD6TfJpJVbJJJrOGOAx65/t1e9IDnNFQH0=
+
+Name: images/targetinternal_obj.svg
+SHA-256-Digest: 7TwpxYTPWHn49U49kaNu2Sy1vOeepldjxs+9FE8LwW4=
+
+Name: images/keys3.png
+SHA-256-Digest: gdQP1L0gzDgML/snmmYLpie7ZyOWxU2spDZ1xOlZ1ik=
+
+Name: images/addbkmrk_co.svg
+SHA-256-Digest: 21wkMlrZLK5jagzExWZEnWK/JK2bC6arYU+xJKREqxA=
+
+Name: images/Image17b_unsaved_changes.png
+SHA-256-Digest: MIriVgIlCiRdFHLZlbgK2qqjUyQt5i4zlDyzYTyKkM8=
+
+Name: tasks/tasks-52.htm
+SHA-256-Digest: KdS2TywobQ0+P/UMU0lbo0AK+mqsBX8jXcuSU1vg5Tw=
+
+Name: tips/images/keycompletions.png
+SHA-256-Digest: gbkN5kdnNEmM8lfwteDK/NQxqpHATSHkjBCfCWbyjgg=
+
+Name: images/r_outchg_ov.svg
+SHA-256-Digest: q2aKk7uPeMNgA1eiOJ7Qr+G314W827n79UYrkTqngqM=
+
+Name: concepts/concepts-17.htm
+SHA-256-Digest: kJdLeoiB/6g5R2snMCVQXA1dKpDYGJMQxajn7vQp1eo=
+
+Name: tasks/tasks-87.htm
+SHA-256-Digest: zP+qEdCbykwxtX2DoqRA3B+r/8JNz0ZfsgxB1w7giz8=
+
+Name: tasks/tasks-1b.htm
+SHA-256-Digest: NWobZTDbElw+vcbgCrg5gt1asoia3sp+0ZmaSxW0gEA=
+
+Name: images/Image_file_folder_operation.png
+SHA-256-Digest: fUNYffgWiNXZmhb81VyU62nifNPP40tax3e4ow6YDS8=
+
+Name: images/ref-7.png
+SHA-256-Digest: 31lQn684h78I9ellHnHvGtB1QUqQcWayiK0wBHFybAM=
+
+Name: images/Image49_3_way_compare.png
+SHA-256-Digest: EbU0aMMhS1oYfTDp5KtNLGlkWiDmJNz7iqoWIZOpxmk=
+
+Name: tasks/help_context.htm
+SHA-256-Digest: Wy+eirFeUJ/rty9LOnuYSK5yE38o58NgCQY8XKTKLsA=
+
+Name: tips/images/quick-access-hide.png
+SHA-256-Digest: syO/AKWghI9R9twtQFBg8WBN2UvfFlfOyH0rQil1bnc=
+
+Name: reference/ref-30.htm
+SHA-256-Digest: NaEKuIxeCcWbU5fxHm+mc2LnNfO298EjROWW2NrJmek=
+
+Name: images/next_diff_nav.svg
+SHA-256-Digest: DPQcT936cL1lDZypAQC68ySP2icsphld8m7mJz9Cf+E=
+
+Name: images/gotoobj_tsk.svg
+SHA-256-Digest: oCcH8J81bzZF3MkW9Ve/yZJdjkzN4ekh4Wr4wH9hdiE=
+
+Name: images/compare-editor-diff-change.png
+SHA-256-Digest: R9OgcM0rDPLQjLQdZVKXyxd+mGkCZmt+DMYQXD/zmDQ=
+
+Name: reference/ref-search.htm
+SHA-256-Digest: kPxEmE5u4wBKY0gNAq4xTwsPFxQxH3C9Qq666VUenp4=
+
+Name: tips/images/process_properties.png
+SHA-256-Digest: tnYBE/+0P4UbKqnLtJmJUvX4wxWBCms4yL2bT3vGjVs=
+
+Name: tasks/tasks-67.htm
+SHA-256-Digest: W7/52MZrUxxy71+3Z9NQtCbHQbaJ0N5RWVO5Bpf0/Uk=
+
+Name: images/defaults_ps.svg
+SHA-256-Digest: I4Axm4x6ugSaT8u0QYtpIYVyfQ9oSVv+UKLW3dOM0C4=
+
+Name: tasks/tasks-24.htm
+SHA-256-Digest: /JdrxwvSyCgopRiWp2AsJBNGqv07K0yRA9FFCv/QoxM=
+
+Name: images/alpha_mode.svg
+SHA-256-Digest: 0dNwDLJmtD38DPIhzLpu6lG506URqTRtm8uB22gOyUw=
+
+Name: images/ant_builder_targets_tab.png
+SHA-256-Digest: pwqNGDp6OtBj8SlV62fJlCx3KoF4SgwG30wezE9r1xI=
+
+Name: tasks/tasks-77b.htm
+SHA-256-Digest: ZQeccsUT58HLnU0ZyXWrTYSS8zu2kOVh9NJWq/k0VzM=
+
+Name: toc.xml
+SHA-256-Digest: wWFjbcPD583PjV5PIe9fJeIS5Su5c5gnBJVjpUub42g=
+
+Name: gettingStarted/qs-43.htm
+SHA-256-Digest: UfbNZidOgGYU+Aoe8a4K09LLvA4aGvSqmfNml0H79CQ=
+
+Name: tips/images/mini-view.png
+SHA-256-Digest: EI9JhdtMx8pUjtw1AA9mf9aacUyrfB7nGU0oBjzdVnk=
+
+Name: reference/ref-5.htm
+SHA-256-Digest: sxwvf/4Cs+Kizgct9+VKvxzTPNX355epmjPzKiqrOqs=
+
+Name: tasks/tasks-1e.htm
+SHA-256-Digest: /vxFpS4lC9oLSDiOMDL/0R6LPs2EzQl0HkAHLVb65qs=
+
+Name: reference/ref-25.htm
+SHA-256-Digest: ixAh9vIRCAbDyP5iBzOXwZlBY9DxDXeZ3/Zc5jJgVEY=
+
+Name: tasks/tasks-53.xhtml
+SHA-256-Digest: V3cCB2rVSbfqECGnHybWK2IlGd03w3Od8zyPk3rcbs0=
+
+Name: images/Image48_move.png
+SHA-256-Digest: oTAPGCHpAggBuyhpd7DJN41M+k2GQ8q5Po3r67uZ0os=
+
+Name: images/Image1.png
+SHA-256-Digest: qpASv8v4HFSUu7GuEAFk8W/0DGeOCDE+KHYoFzO9OPs=
+
+Name: tasks/tasks-9k.htm
+SHA-256-Digest: gU21/mqCLuXlFOBCikHeOlif06+wgOOiqpS45L7T8tM=
+
+Name: reference/ref-68.htm
+SHA-256-Digest: gOAssR/yGmd4GbM8vnPcuqjeqEME0QbsBrBhG6+dtjM=
+
+Name: concepts/concepts-22.htm
+SHA-256-Digest: EqxZ2RqYXfCYxgfEOY0nAv97Cka2eParu88Ydz1sOh0=
+
+Name: reference/ref-17.htm
+SHA-256-Digest: I7tLme9eKSjnYpiKalXOzozJKV2pOS3jz+AUPsHAHUE=
+
+Name: tips/images/compare-showancestor.png
+SHA-256-Digest: L8y4k8rl1U3+U5Q61Fi1tA3tA0CBtrkh6nUT/G5ZuNU=
+
+Name: whatsNew/images/show-editor-name.png
+SHA-256-Digest: jt1biIH+vYnV+YKWra4Mp5x4n/Jw76ZVxiQkVaCfrEw=
+
+Name: concepts/help.htm
+SHA-256-Digest: NOJGbjy9mnvBdHQ1sgN/bkT/layskwXY73cDoPChDDU=
+
+Name: gettingStarted/qs-02d.xhtml
+SHA-256-Digest: z8rqW0JlZR3Px6Yx0lc8VArWdcLrxvnz1BQgYq3cgI8=
+
+Name: topics_Tips.xml
+SHA-256-Digest: BhREuZsZkYruQDssZBDOVcI8EJ/jT4AlrzEGOd2hjGk=
+
+Name: images/confchg_ov.svg
+SHA-256-Digest: WFy2JcA6vfSXmJL6GTEfXDdfRivbxr6EDkRMjw9vbyo=
+
+Name: gettingStarted/qs-35d.htm
+SHA-256-Digest: JDMeSJROdcURn1870sXhkwLhi8DzMzfzpJwClk3sSrw=
+
+Name: reference/ref-p2-siteprefs.htm
+SHA-256-Digest: H0O+/Unn4Dtejx3V5FEk74O54dRXj4yXo4Ck02BF1pA=
+
+Name: concepts/concepts-exttools.htm
+SHA-256-Digest: dzF3YFCqPeUfImq6QhWQ/GpLfMHtQdmWQPjj06tkcRc=
+
+Name: contexts_Workbench.xml
+SHA-256-Digest: XgbwwcgmxzQqewWx3XZsrGWBmAW+Fzl3CE1ws1cdLrs=
+
+Name: gettingStarted/qs-31a.htm
+SHA-256-Digest: jX5CboJDiqJx+184swRVBQwin2MMuKSuQGGatLCN8TU=
+
+Name: tasks/tasks-55bg.htm
+SHA-256-Digest: E6jCKQNX+IDWIRXGRw+nGSb8nlnOm0y6QD4hGw5vBmo=
+
+Name: contexts_Search.xml
+SHA-256-Digest: m3ccF7W9AB3zqRLOeWjmLT4BtGrJKj1NtYrvAaloN3I=
+
+Name: tasks/tasks-68bg.htm
+SHA-256-Digest: Sysaz155HhuIf4i1974yTu8EXi+4UQT6TcNkwvHNcjc=
+
+Name: images/Image230_editor_area.png
+SHA-256-Digest: c0miR6t2ws3xIUkCxjtszg7bzbGO+MH+2UVtyykAUAo=
+
+Name: concepts/welcome.htm
+SHA-256-Digest: ghRuzSHq7wH1qgBruiQ9VKy+WqSXekw57qxcNfNTMms=
+
+Name: gettingStarted/qs-39g.htm
+SHA-256-Digest: EILbkg0r5MDHyIPr1aocZtQ+q1eUk0drKLt47KMzG3Y=
+
+Name: images/show_key_bindings.png
+SHA-256-Digest: 99crE24bqTi/DNAV1QZpufwcrXRCFPJff88z+WuIJqM=
+
+Name: concepts/concepts-29.htm
+SHA-256-Digest: wwvZACjsOD0JOITbKJRFqYIegEPmMwVEuzCyGQi/+TE=
+
+Name: tasks/tasks-17.htm
+SHA-256-Digest: WfjW1Achv0yLe98hSMgw8yPlGe/Tj3Adv270+6Kh18A=
+
+Name: gettingStarted/qs-10b.htm
+SHA-256-Digest: mrx37Y3rBDs+VdQlfuUfwcSYl/X63d2E0tRxK3howqo=
+
+Name: images/newprj_wiz.svg
+SHA-256-Digest: qDte1mL1HkvFrjisZVMLc/torsadKjgkJT1Sao5Fp+w=
+
+Name: images/save_edit.svg
+SHA-256-Digest: 01x4+WDFShpL/VcjEelKCbI6cXlcipX5JhwYkqwJ73w=
+
+Name: tips/images/annotation-code-mining-jdt.png
+SHA-256-Digest: c+91siMsYwjpDUvXBBUyy52AbH3YfBjq33I5phbtz+s=
+
+Name: images/Image616_et_dropdown.png
+SHA-256-Digest: H0yZPSn4Ch+DRIC+Aw9CODzxsvaZQof0CvwOFtXo/lc=
+
+Name: images/saveall_edit.svg
+SHA-256-Digest: 0qRlsffNeq8LxJOIlXa6qeoG8gJu+ocdNSwXz23V41I=
+
+Name: reference/ref-10.htm
+SHA-256-Digest: XX878sFOgxAA5I+bEqxFjgOBF+W8+yNV/NjMbWb9A+w=
+
+Name: images/question_ov.svg
+SHA-256-Digest: o4C9bl2fyTaAb/AFUal8opgXMEiZKuOdvzmcLZmjg2U=
+
+Name: tips/images/link-with-editor.png
+SHA-256-Digest: KvELoV7pwx/r8QR5qKRUUf7NfyIRNvHK1qn8GHM5XPo=
+
+Name: images/Image221_pref_fe.png
+SHA-256-Digest: uk5hzdoFhnhCBrdpylqPwEkUKcRSxpgZOFtTD2Uw97A=
+
+Name: images/Image276_available_filters.png
+SHA-256-Digest: MN+EuF1OBXmaDf8RZxQpgVxV53d+IOXuucxDggn9ioI=
+
+Name: whatsNew/platform_whatsnew.html
+SHA-256-Digest: Y8bjrJ4+mI/LZhZi1i/q31Op2E6vQL2R24124FgB4Wg=
+
+Name: images/info_obj.svg
+SHA-256-Digest: 8jDYGs0sHntk3CIWnUoJ5nloQbekpb+Uwp5UK9bd8oI=
+
+Name: whatsNew/images/overlay-top-replace-opened.png
+SHA-256-Digest: pvTvLsol1LDj7XzNKd7pXTGgUo0yTGEnJ5geyQsHCOk=
+
+Name: tasks/tasks-ant-version.htm
+SHA-256-Digest: UcnOmKM1akA9uR6yVt8tK+aS4qmeQT2+7dq6QYsgGFY=
+
+Name: images/Image80_compare_editor2.png
+SHA-256-Digest: 8ESiDd6WFsevBUvU7cge+LquoKPFVcR8YMpLj4L2op8=
+
+Name: images/paste_edit.svg
+SHA-256-Digest: DsNNBOgmhCzCgoRcb9VfZl7ODH4kAj0GU33w9R0CZE0=
+
+Name: tips/images/separate_derived_encodings.png
+SHA-256-Digest: 6jwgF4zkIn1/oSa2m4XnvF+r6KfnxwWn9lP5+/MMhAA=
+
+Name: images/redo_edit.svg
+SHA-256-Digest: 5UiDOBxudUAOL2cO3Aj2v84xywL5bUOA8p3tjOiy0TM=
+
+Name: images/Image_file_operation.png
+SHA-256-Digest: MehHancnvIfc8igRMKRvFzDfvXTVMo6dmz63H6WlVn0=
+
+Name: reference/ref-cheatsheets.htm
+SHA-256-Digest: Mim6xaYIyBv3FYvIIOSEFlXFEnQap4SeJYDXk/W96jE=
+
+Name: reference/ref-error_log_view.htm
+SHA-256-Digest: 1WuRYE3Pgequgi31CmPLXC7vqpIrWVkkRCnrldgekto=
+
+Name: images/Image276_user_filters.png
+SHA-256-Digest: y+UY6hniDpNnDnvskTzHYQ6UP8vzIiQYgpyxrGUgRoI=
+
+Name: images/et_run_dropdown.png
+SHA-256-Digest: XPFh1RgXcWCvjDUqXX/P8nGIk0vL+ZJGWvqNVqgW5Tk=
+
+Name: images/home_nav.svg
+SHA-256-Digest: lYgNcpGCEMhj6fiZjAM3Z/zzVVzIKs+h+9tO8Pv9ITY=
+
+Name: tips/images/line-delimiter.png
+SHA-256-Digest: NKBbbXONnPe4VokaNJXdUc9px23eS4UuKke2Dw3gYEI=
+
+Name: tasks/tasks-43.htm
+SHA-256-Digest: c3DJCoIChL6rckW7CSEngr/kbFUg6DYOWvLG4vBKPbA=
+
+Name: tasks/tasks-51.xhtml
+SHA-256-Digest: 6V67F/PnSBVQqAX1tGWqbMZAEcZeI1cLlZXL4COKaLo=
+
+Name: tasks/tasks-ant-running.htm
+SHA-256-Digest: 3o1ZI7ixAIArK6dO+k7GKTC0olaZzx0s9+DXfiBgWB0=
+
+Name: gettingStarted/qs-37-3b.htm
+SHA-256-Digest: 4Hit2LxFTE2LmEEU8VvGdtUixWM9B5+vrc/RPezfXSc=
+
+Name: images/searchm_obj.svg
+SHA-256-Digest: oy3q2IyWywI28yyFKW8ntH9o5OT6+RhN1D/Sy519nkQ=
+
+Name: images/Image619_ole.png
+SHA-256-Digest: 7OcjObNC1N+Tegr60Eq22Q3LI50pYTB70CpskWZoQ+A=
+
+Name: images/drop_rect_area.svg
+SHA-256-Digest: qhoXd+pZ1PD3BMB3jDICHhYh9NCNd52+3BMZKKiANmA=
+
+Name: tasks/tasks-87b.htm
+SHA-256-Digest: ML/o+083tAUdDUFq8swr8FhsX4Vy7ZhBeo3a6f7Hv7Q=
+
+Name: reference/ref-antcontentassist.htm
+SHA-256-Digest: pvOUoNV04SIBc4M2wVMY58gpXTibBBb3rvmcZn1ozmc=
+
+Name: tasks/tasks-42b.htm
+SHA-256-Digest: l/AHolMfqNq7lOr0328MSTkx1rOD5YQabkqgWVmO0xQ=
+
+Name: images/Image82_repo_sync2.png
+SHA-256-Digest: hINNJLTJDMULE3MHs0UUurp4pygp0Hb9KW26kRNTEcI=
+
+Name: images/prop_ps.svg
+SHA-256-Digest: 7dQrAUi6/LHfea553rLaHLbmE8XYXmPVg+2Y9jMNHrk=
+
+Name: images/return_to_start.svg
+SHA-256-Digest: aFl+e9Cj6MVlU6bG17W+60NIJ1mKH4+BicmWCwEBSSU=
+
+Name: images/Image208_view_sel.png
+SHA-256-Digest: /pMW+aWAofiVFHqFMyHOBvf96HhKTpRxa4GkfGzivsI=
+
+Name: reference/ref-anttemplates.htm
+SHA-256-Digest: paPl5fwLOn4ufJwDrTZXym5zheqmC4ELBgOsFnzNaug=
+
+Name: gettingStarted/qs-95_external_tools.htm
+SHA-256-Digest: 9EzYEfX23daIS/MocCrOKc+i4QHQnn10uIFqXo8nOCo=
+
+Name: tasks/tasks-9i.htm
+SHA-256-Digest: T6zZGIaw9ThDtd/hH9JbQrOXWt39lWxwFNjee2N/ljA=
+
+Name: gettingStarted/qs-07d.htm
+SHA-256-Digest: DK227SQH7Vg7JHpvrNAzcKW5G81Bx3dE4WTTzvl0cmM=
+
+Name: images/last_edit_pos.svg
+SHA-256-Digest: xIJb5pKFjRw6FP8WnaA7o2Wxh84myH/t/zAoZYnDsUY=
+
+Name: notices.html
+SHA-256-Digest: wxIF8IneRVpBgyJxMt5pUtZTZhCPv2wh0YQy7STbaxg=
+
+Name: images/synch_participants.svg
+SHA-256-Digest: roTKmrkep+xr30/W8KuFTwYhPqCM3asVYSdqtb3shpE=
+
+Name: images/Image266_export_ant.png
+SHA-256-Digest: QhhaV64zB25AXnX9HEz4ioHMT9r7TEUnNapirWONqhM=
+
+Name: tasks/tasks-1c.htm
+SHA-256-Digest: 8vV/Usidfg4fCujAJ2n14xCbjk06QYG9Scf7YeTAy18=
+
+Name: images/tree_mode.svg
+SHA-256-Digest: U7ZFiftbdYje/ngjnj8YFZtueedCceXvVpuQSsly4pQ=
+
+Name: topics_GettingStarted.xml
+SHA-256-Digest: 2DyoWF8aYlHBuHq+05isRyIRFc4mp3lrWmp5TWSTwsk=
+
+Name: images/prev_diff_nav.svg
+SHA-256-Digest: OwYJz4hu8RJVij5lZS1qMueKkiFltKNogItTRG0uUe4=
+
+Name: gettingStarted/qs-02e.htm
+SHA-256-Digest: 2NyCwAQTpkCP0RPXu7B7kGS9wGPbrPcKsX+x46h4aAQ=
+
+Name: images/Image268_export_team.png
+SHA-256-Digest: +bAeLtLhm9XHT0fX/WF23TPteEmeAS9JQ+JcvRX21k4=
+
+Name: reference/ref-31.htm
+SHA-256-Digest: N3JCT6QowgnN2ShXGpCAcvBCLVqrYksVmkHnNQw0b0w=
+
+Name: images/refresh_nav.svg
+SHA-256-Digest: RepiwSUuo0N+Qz3bxpIyx+x7bACD/F946k5hm3KIadY=
+
+Name: reference/ref-anticons.htm
+SHA-256-Digest: 0VMt5LL++ETIbN25CYAIAQVg5ToI9bGwMGKpnrKpfqk=
+
+Name: images/prev_nav.svg
+SHA-256-Digest: tZgbQxeBJFUUkQ3TJHO1xEzXgJn0bbEtxvZqclGarTw=
+
+Name: concepts/concepts-6a.htm
+SHA-256-Digest: YYlVu4z0polzBcxXZS1645HkrcVgAVF6nzFBYZYFa14=
+
+Name: gettingStarted/qs-97_standalone_ets.htm
+SHA-256-Digest: Q1JUC7HCD3Kn/KnGROz3MJssNRgEb5vDvgHwbO7gxjw=
+
+Name: tasks/tasks-3.htm
+SHA-256-Digest: 7kDgpWKpTNmO2UrVLn8C2FNLce/i4TfdzH0jbP4YXW0=
+
+Name: images/Image83_cvs_savedpasswords.png
+SHA-256-Digest: 0lPcuz/DER5KTcF/uSatAuBL2V7eN5xED+iv6yhN2wY=
+
+Name: reference/ref-content-type.htm
+SHA-256-Digest: nTfAWOir+EJ7Y20UrQcc4Z1RVhBhKyoZw5Y4Ineo1ME=
+
+Name: images/r_indel_ov.svg
+SHA-256-Digest: l766r1tiv8xxtSMNRwN3PpBc6YmhxvQVUaByDJL/Kio=
+
+Name: images/sweb_obj.svg
+SHA-256-Digest: 0EOVhqgR4JEaznI4be8Vzw9eM2fq01wJaemN6CZJQVM=
+
+Name: images/quick-text-search.png
+SHA-256-Digest: EFuYL+N5wfS9lE4piR5KmCf/nn6f6lYZRSCph7oirdg=
+
+Name: reference/ref-decorations.htm
+SHA-256-Digest: gVEEapz2FAHJ9ZF8hjvRfWGB4oWZbYnkbw33SRrEdS0=
+
+Name: images/Image206_persp_saveas.png
+SHA-256-Digest: 4j5UMIqXhe26kY4p4N1HqcHo1JEhJLy1xeDnEgk2FQ8=
+
+Name: images/confdel_ov.svg
+SHA-256-Digest: BSUmqT0JiuSPTujaoMxOOjLi3FgAnVqqaBDGlxha8qY=
+
+Name: images/Image70_shortcut4.png
+SHA-256-Digest: Qhvu4uNOoM896mHHnDZBWqP65pZnnn2g8c+pTDYIIjM=
+
+Name: images/help_search.svg
+SHA-256-Digest: Lo37CKi1uPcIzOdXPsf89r5pgyxxjyjEtPtWFU5lkSM=
+
+Name: images/up_nav.svg
+SHA-256-Digest: 29pfvYqrNDYT1r/jam25optmHoQodYjhhF+/OnsnD3s=
+
+Name: images/Image82_import_project_fred.png
+SHA-256-Digest: ZXf2n+Zerm3XB/jdX1mHCc2FCohrrodamnyoSUYugQg=
+
+Name: concepts/csearchview.htm
+SHA-256-Digest: Z32jqO66O1C4d5BxQ20KoU1vSRDmHrM7YCTxJf3ukqE=
+
+Name: images/Image82_repo_sync1.png
+SHA-256-Digest: oXcjqaZb8PVnuVCQee7qT8MnKm5QsS0BsZAPzcqaKlI=
+
+Name: tips/images/preference-import-export.png
+SHA-256-Digest: M4G7mXe18rcJYM8qrc93xAMx6S6YddWNZls0hr+8yqY=
+
+Name: images/complete_tsk.svg
+SHA-256-Digest: ZggaeNtyd0+xWa7ZpJknZQI+9RCdgXqCv8Gqn/n1dIc=
+
+Name: reference/ref-67.htm
+SHA-256-Digest: PVZvJQ1sIaVOIY04tukMe4FWvK5nyW4v5sNuHKHPcTM=
+
+Name: tasks/ttoolbars.htm
+SHA-256-Digest: A/6LRPaFUch7g2yLgz8NTL9tia6Zfv4avGjkCm46fmQ=
+
+Name: images/local_history_mode.svg
+SHA-256-Digest: +g2GudwOIe07kfooEzQLaDrjhQ21JtXkT+AmbfWEVj4=
+
+Name: images/Image19_close_on_tab.png
+SHA-256-Digest: LzINA6F4rZyrddAUfe97BGQJTq5wUvitkiHpMvAsdkY=
+
+Name: tasks/tasks-101.htm
+SHA-256-Digest: lhvGPJh05hBgp9xPDNhGTMy36rBijF9e2crQVxWTpG8=
+
+Name: gettingStarted/qs-96_non_ant_pjs.htm
+SHA-256-Digest: 5RRjxC6Tl8Qm4rVnBTjpjo5FEAfmEmcK9p2+hxTe1I0=
+
+Name: reference/ref-24.htm
+SHA-256-Digest: 5NmM/9DSPDRQbm2MkRYS35GpE5z9JpO8G3pvd0JL/bk=
+
+Name: images/equinox_secure_storage_start.svg
+SHA-256-Digest: SsptDS6HgQvpJHr11cNG+9CSly0BPLXVvBzhn2uKuIY=
+
+Name: images/start_ccs_task.svg
+SHA-256-Digest: C3H1/RBNgZiIPQ7CbnBSjiA959aCi86kaCy9/jpePCs=
+
+Name: gettingStarted/qs-35c.htm
+SHA-256-Digest: UdCaL/J776Kv44HMcJJNnKEebRbq2eeJKG1exkc82Ek=
+
+Name: gettingStarted/qs-80_ant.htm
+SHA-256-Digest: 3T8bIhDW5lqr5LnxDfL/+NEglEWpUd0Hplfat+evCKE=
+
+Name: images/nav_stop.svg
+SHA-256-Digest: WUfHyp7D4XYhrgWj/cpUp/VX3F810JumHyR0vvsRF9A=
+
+Name: images/new_wiz.svg
+SHA-256-Digest: iX70j+L9HztkOi0t+sisaRUzRCmRHs0PsGaX6atlL64=
+
+Name: images/ilow_obj.svg
+SHA-256-Digest: 33erHXnWSDM0+su0XukVjzY5316blfr7U/z/yU2osYQ=
+
+Name: images/keys4.png
+SHA-256-Digest: TOFQXCD4WkP+q/0ehaHdFGdMVjctGMTIWYKPDjraVUg=
+
+Name: tasks/tasks-123.htm
+SHA-256-Digest: 71jb3wJOWV4h8eykMZNCaL/qYFjR123piFBiCcD+Hbc=
+
+Name: topics_WhatsNew.xml
+SHA-256-Digest: w8Vse3iXnjKUCyUxEJeeTJ+YOGq1ZhM6Rl3IhifuD4Y=
+
+Name: tasks/tasks-3e.htm
+SHA-256-Digest: FBFtAKTbb4f/8DHTzRESfFSfsQpER5sMigi0B994/Q8=
+
+Name: images/ant_buildfile.svg
+SHA-256-Digest: l4MJvwrEZrcXcuvxPh/fP9VPo5z2jo8D2hW8Qqbq6sg=
+
+Name: images/jar_l_obj.svg
+SHA-256-Digest: c0lRGy/UGT/I9/+UnBfrvoiCUKGh429axQU342oy624=
+
+Name: tips/images/help_show_topic.svg
+SHA-256-Digest: vpG0HCfj8j8ok5UwUTUQzk4rYhevglsYg5KpR/w1bC0=
+
+Name: gettingStarted/qs-39f.htm
+SHA-256-Digest: s5s+NjCEdkeJOmf4cTtMyy3HHc8QoGj7K965bMzH9bo=
+
+Name: reference/ref-startup.htm
+SHA-256-Digest: /qXzSeqH/d3BsKPfiHAn7cyD+OmSmUJsA9O4MZctMu0=
+
+Name: images/ant_builder_main_tab.png
+SHA-256-Digest: h0wTq5jtXJvUEoZyXKBxDhlJzDPJv1YolIa4pFq3oes=
+
+Name: concepts/cworkset.htm
+SHA-256-Digest: nc5sPfQGHe2Ed33wP8iwhFsXO4JL6zTsO67/YJEqZ7A=
+
+Name: reference/ref-4.htm
+SHA-256-Digest: CXJpr310W2myETS839jbHzR686Z24lAatCHPkXYmuNg=
+
+Name: gettingStarted/qs-43b.htm
+SHA-256-Digest: 4DW67fYE5nTmd8LkvadLvYKULgSug21lzazIblib5Xg=
+
+Name: tasks/tasks-16.htm
+SHA-256-Digest: DnfDY+z0xoOayAWGcqF/mHfIhC+9kw3Hx46hCO5lp7E=
+
+Name: gettingStarted/qs-35.htm
+SHA-256-Digest: D+1GM6FLWBo9nbsx4ustYm8k2xdJGM7bg0XGHbe+mso=
+
+Name: gettingStarted/qs-37-2f.htm
+SHA-256-Digest: 2u3R3ikWDvNHpmGUcfLIwdj0YpqDS5VeTgl9zvZ/XX0=
+
+Name: reference/ref-securestorage-options.htm
+SHA-256-Digest: T8sftu0IVXyivNbLyeDf57Fch+CntVG/MXNpM/txzSs=
+
+Name: tasks/tasks-59.htm
+SHA-256-Digest: b1accXpvUfYZTi2Ms1UO0qgzgIfUVpemyHQ5bMlbZY4=
+
+Name: images/Image263_import_cvs.png
+SHA-256-Digest: w1I67JiTcC6fpqovd8DRhj2z54iBARjWszXAdH6dVRg=
+
+Name: images/image57_two_editors.png
+SHA-256-Digest: RTkyrzWSIYdkhUr0zAagAJuHejj96hCbZgRKVXPQcec=
+
+Name: images/builder_property_page.png
+SHA-256-Digest: 9++eBHRRHf7buXvOMY0wWS0EGR7eAqzG4h/DeIL0jXc=
+
+Name: plugin.xml
+SHA-256-Digest: joe9OTqoYQrGV8qgsb1t0psNYyuiLPkkfXZR6k3eRlg=
+
+Name: gettingStarted/qs-94_run_pj.htm
+SHA-256-Digest: cCf+UnoeQpYPB8sbJkYcs3GsbWXf0+7G2h5c6QvxdC4=
+
+Name: tips/images/dark-theme-preference.png
+SHA-256-Digest: IrVp23zA5VKjA1GLRViAyen07l286uBdCIuSMbRztPM=
+
+Name: images/Image229_editor_popup.png
+SHA-256-Digest: yLHYXFvquANQYfCva4/DRizo3dFbo+obDrGEr0ChM0s=
+
+Name: tasks/tquickfix.htm
+SHA-256-Digest: dfPOUWElaKSNdYaM2Aar4uOcAODz0VwtI0RGOCBZxTI=
+
+Name: images/e_show_descriptions.svg
+SHA-256-Digest: QYA/giJIQ+wqreb+RvE7/obex806v+Jou+CoAPU+liw=
+
+Name: images/file_obj.svg
+SHA-256-Digest: CFGb1lwwvGQl7LiNHsw6cT8JQY+msuKFuiDjyeAzdjw=
+
+Name: reference/ref-12.htm
+SHA-256-Digest: 8p3RLJlfSVYbpEEObLqeD5K7JgF6CUQ/RdXpfSdoca8=
+
+Name: reference/ref-capabilitiespref.htm
+SHA-256-Digest: QRMvVJqR0ckyKfyyJwbOWKSj1n5sfBIhflJ1vpysHx8=
+
+Name: images/view_menu.svg
+SHA-256-Digest: P16K/BDcccXdzmHVAFYgBZK8iNvNiK5YXMPeTW3uvW0=
+
+Name: topics_Reference.xml
+SHA-256-Digest: 5uOIZY1XsUKXm5h0JSRCg8PMyt/Wo2JNybXrG9oMqhk=
+
+Name: concepts/help_view.htm
+SHA-256-Digest: CaAtAnzQZMn1VyhlJM1GNYetC20jzmMmS1hnO/VxaQg=
+
+Name: tasks/help.xhtml
+SHA-256-Digest: ReTrE5PdX/007n11p4ORq9or+uZ0+G8WtAcs+T74Gwg=
+
+Name: book.css
+SHA-256-Digest: T8Ig/bS2xNLSPSCXha9Q+InVW2qsZKs2TeWFiJFc7OU=
+
+Name: reference/ref-20team-models.htm
+SHA-256-Digest: JdjTMZxf0tbZS2zCR66QgZkzHldn8+LSfLWbXrpgkBw=
+
+Name: images/copy_edit.svg
+SHA-256-Digest: EpQsb30QgRgxn+KqOwHiA/6bFUzwQj0WuYQaCPX/WJI=
+
+Name: tasks/tasks-70.htm
+SHA-256-Digest: LM4ubo6UMMJAZrDR/4IIu4hD9fBMs51/iPnNqkOW66w=
+
+Name: tips/images/breakpoints-sort-by.png
+SHA-256-Digest: PXhitm47ZY2nDIVtXl2N5V3vyejwd8+fpZbaQHMjX5c=
+
+Name: reference/ref-20.htm
+SHA-256-Digest: VpcV4CUhmqWH/oPyKBXQzUrR4SJxPnwkyJGrZ8FmZN8=
+
+Name: gettingStarted/qs-37-3e.htm
+SHA-256-Digest: NeDOaTQ4KXrzZYIyNCbjCuTY25qb2rK+5tUtDjn0NO8=
+
+Name: reference/ref-27.htm
+SHA-256-Digest: lwCh07ydixvwYZZpd6zfO5BO9IHSMJhfdnLxYhs0Pr8=
+
+Name: images/Image82_import2_project_fred.png
+SHA-256-Digest: z3R6KWwSxUf7BtQXXvgaYQFzA8y8xTIKqAdWKEA9fkQ=
+
+Name: gettingStarted/qs-34a.xhtml
+SHA-256-Digest: Gto0xw+UmMNrZ+Ng+4S2VXBbYrCqdqlQZhG+J4lG52g=
+
+Name: images/Image82_repo_team.png
+SHA-256-Digest: qlJiOyXLKKt6LezIjpzs8rCqXdS29LsV47BhqdeGa7o=
+
+Name: reference/ref-regex-find-replace.htm
+SHA-256-Digest: ydW7kW9Cop9GwNwk7U7vNEOLeVvWv9EZeElcA0ALNvk=
+
+Name: tips/images/collapse-all.png
+SHA-256-Digest: hKcqlBlCeavZlHGBYOpNOiU7WrsAhxNzaZL1iDRwNP4=
+
+Name: images/search.svg
+SHA-256-Digest: OSqW2qpXyJwgcOmyLh6BWLD/zervR+wV2Pbm1QgFCtM=
+
+Name: gettingStarted/qs-34d.htm
+SHA-256-Digest: 52ZIxRoXvbuPntgbi0OYjGLVhwzHYdT1SBYvN5TFk2o=
+
+Name: tasks/tasks-team-1.htm
+SHA-256-Digest: GXg11wtV9v3DKb2snrW0lMwmSotO9jZEfc+KLh7KIZM=
+
+Name: whatsNew/images/overlay-top-replace-closed.png
+SHA-256-Digest: Ji3y410Qdi9CB312RNTbDshFlqL34AxF+BiiHdwObD4=
+
+Name: reference/ref-43.htm
+SHA-256-Digest: gyQLFI7k9YNeqIO+V5sys1PBwpkCmqIdU/5F8j334aI=
+
+Name: tips/images/editor-tiles.png
+SHA-256-Digest: sjhnJ72KXOc5l1ZYDqdxAOWVQaBERDCsgtMAsI+HsuE=
+
+Name: whatsNew/images/multiline_mining_old.png
+SHA-256-Digest: AedjOUXrpqb/Z7g8ZvPaFOvi5CwxlBnMLHVAH9bQU60=
+
+Name: images/keys1.png
+SHA-256-Digest: Nbl7OK0q7FZizC0q+Gavi7cdN9KjNd6G2wdD0mw6//s=
+
+Name: tasks/tasks-120.htm
+SHA-256-Digest: iDIp8AYyb3+P9EN5iED0fcxRKNekNl/ITXqxlZPmy3c=
+
+Name: gettingStarted/qs-13.htm
+SHA-256-Digest: cfPU5CdY72w8CV2IbtE+riCRavbh43c920wbI+M1kzY=
+
+Name: concepts/accessibility/accessmain.htm
+SHA-256-Digest: SMzmvtkkWI6iGnY6CZDJsR/ZSqJLUhoWpblJOw1GJwQ=
+
+Name: images/main_tab.svg
+SHA-256-Digest: 1tPI1gWdKlO0L/EwNS7WIPhOrD2JxKb8a0j8DfF3sX8=
+
+Name: images/openseparate_co.svg
+SHA-256-Digest: BA170VRbe9TnXAzd/rBckNU9AgoJzk24YtygekJLnpc=
+
+Name: tasks/tasks-46ag.htm
+SHA-256-Digest: xYIlpw5ZLhTu6QitHnHtNuSAXUL/uN0FEGilPRlVF7k=
+
+Name: images/ant_target_err.svg
+SHA-256-Digest: 4m9KdpVlEucoeGXHUPusB/wSdmPdPGGl6xVTV+CJYvY=
+
+Name: gettingStarted/qs-36.htm
+SHA-256-Digest: NpvyP4YgvHz66bl6eixWiMT1oOts2BYk/ZEGIF7zKBk=
+
+Name: tips/images/dark_theme_square_tabs.png
+SHA-256-Digest: KvMvVHss5coLg1C+Iqnvn/1i91u/mYSIgffsT5mxKpM=
+
+Name: images/copycont_l_co.svg
+SHA-256-Digest: bqHjki+2NNCjgSCze0gW6rpHZbuFJGa99aFWvfP9otU=
+
+Name: images/Image249_repo_wiz.png
+SHA-256-Digest: u9Z6ie8w8u6TxpbsP8Ofi0orgIyEQHe2lYS/pcjubr4=
+
+Name: images/nav_print.svg
+SHA-256-Digest: THKNJBayG4D9/IP4YvpgmViDNamS2RAcdTmY9Uu4TTg=
+
+Name: concepts/accessibility/navigation.htm
+SHA-256-Digest: EubOpS310vJUo0TOysMjDDcaOyluThjI+fbIwZ972rA=
+
+Name: images/search_src.svg
+SHA-256-Digest: OSqW2qpXyJwgcOmyLh6BWLD/zervR+wV2Pbm1QgFCtM=
+
+Name: gettingStarted/intro/overview.htm
+SHA-256-Digest: CKAxuFJNzUx6SK45oArAamkEVChSweAeitvuI6nWyKI=
+
+Name: images/Image83_jane3_conflict2.png
+SHA-256-Digest: /YiRKpdPa7DMnOI/tyFXKHQSlolpudngLsPw5kvw2MA=
+
+Name: tasks/tasks-59ag.htm
+SHA-256-Digest: 7IgllYUTpuEDqi9jaM64oTh8HPSOF/OGD9NxZELoBlc=
+
+Name: images/toc_closed.svg
+SHA-256-Digest: RFwNYLKAZehODYMqo9XWYK/sJaimRWvi//AQomumdUY=
+
+Name: images/Image13_project_in_nav.png
+SHA-256-Digest: LBpqtYtv1MgX5MbAO2w/DN/VPk0hrZqxaqo5AV4pMgI=
+
+Name: images/synced.svg
+SHA-256-Digest: rAqwCMWUkJutrwWhwo7E2+oUcpour3SBpylnDAa9sek=
+
+Name: reference/ref-58.htm
+SHA-256-Digest: N6QnK+5pojY41A+nR5NBxnLqr1KUVKz00UFHf2/pWCQ=
+
+Name: images/r_inchg_ov.svg
+SHA-256-Digest: vJyg9EIMpgVNbz58ySsAMqgmWtUTVhhq8/fIyTL+xvw=
+
+Name: gettingStarted/qs-85a_ant_view.htm
+SHA-256-Digest: j/+uLrFdFVhXHcOjVoH4V+YIkWkIiLJOl1EbALMSoDc=
+
+Name: reference/ref-securestorage-prefs.htm
+SHA-256-Digest: hIdYF9+nIHM3FfM1fkzw2yNNPI8g0e6G2Nsv5aCjKzY=
+
+Name: tasks/tasks-9m.htm
+SHA-256-Digest: 0iwIDLNfuATBjYoDSO+tDA+/coZ5Bjh6ufNuNh204bs=
+
+Name: images/Image83_fred_verson.png
+SHA-256-Digest: JHPafib8V8MpzbF233sddV9HuP67PqEROjaago7ujY4=
+
+Name: contexts_ExternalTools.xml
+SHA-256-Digest: r/xoMJ7tJjjQx+ndCo7/KTQm18owJc/W0zY++wvPY3Q=
+
+Name: images/win_only.svg
+SHA-256-Digest: QkBIiy1j6DI9DsQWS5x45w86yIMnTteShIsuycfCP2k=
+
+Name: reference/ref-19.htm
+SHA-256-Digest: nj9alTHHmNkpuJAeH7N9fKhLAzgAvWpYolDk+69DjBE=
+
+Name: concepts/accessibility/colordialog.htm
+SHA-256-Digest: Q1v6B8cyWSdWcG+O0gzK87jBEbsHgK/wPY4n3MQCPVQ=
+
+Name: images/close_view.svg
+SHA-256-Digest: B6KzP8XFpECAEp7bGDSCp3t0uZJmTOBq2rLQ08YvOI8=
+
+Name: reference/ref-linkhandlersprefs.htm
+SHA-256-Digest: 2/cHPyfabCrACSthCCvwUvwBNAZW5g8C4KqhgSc0Uws=
+
+Name: images/Image11_new_wizard.png
+SHA-256-Digest: KL8SQAa+MXden+fg6sm6v2DRetY8+4Z99GNwS3EKRiM=
+
+Name: images/backward_nav.svg
+SHA-256-Digest: F5hrd3iCUy6QGe4I7HJIfDw/3cd3knd7mldMnHClTfE=
+
+Name: contexts_Team.xml
+SHA-256-Digest: yFz+3pWrs9SyeFYxuja8nM37rSKGgiVr6ozZ8QnicbA=
+
+Name: concepts/concepts-antexttools.htm
+SHA-256-Digest: 3BreEkFdyVPs+mcmxLIXiNcn0Zi/71JJitzvXwsnNb0=
+
+Name: gettingStarted/qs-43c.htm
+SHA-256-Digest: jM0yeetlmEMpzoy2rgzIa8RnpwwD1LlZYMzwbNdzzEg=
+
+Name: images/Image15_project_depend.png
+SHA-256-Digest: izRP07/U+rEaXB7nbIe9uZLYemhwoaDQX5PwtpaSRDU=
+
+Name: reference/ref-66.htm
+SHA-256-Digest: uuaRSbO8+cMOs7ltXpYIdfBLMAkUm3EJ1lTGEd2Rf3U=
+
+Name: images/max.png
+SHA-256-Digest: Uoy+eTXIF697r9wwHZ5g45uZff8l8E7YSUoJok7An8w=
+
+Name: tasks/tasks-77.htm
+SHA-256-Digest: JKnZsEegMu7+oxNrfG8fx5ytHbDg04CxFklVAGhoSeY=
+
+Name: tips/platform_tips.html
+SHA-256-Digest: DTq+g/9CJRycF9tgopRN3RtDiN0qkD1drqqNVixMKGc=
+
+Name: reference/ref-36.htm
+SHA-256-Digest: aX3W/97WuSvw+57Vg4JGqCIiQfCOKObAWRkbdZ/8oUk=
+
+Name: images/ant_run_dialog.png
+SHA-256-Digest: 8ldW4evtqzN5NAp9Gl/CRzPDAGLh5Tslg9ZNx74SHPs=
+
+Name: gettingStarted/qs-35b.htm
+SHA-256-Digest: +wVhAed6LgdG3maAvZ0s0epcsEhJ7mPRysxfFBnCFwI=
+
+Name: images/Image14_new_folder_wizard.png
+SHA-256-Digest: xYtr7xLuqeEMxqMckGr6lptWE61K1j1onJp/zbN9/rg=
+
+Name: images/r_inadd_ov.svg
+SHA-256-Digest: U+QUtR/Z2UhuTPtY08mlgVLGojSWDOtWB0wPW+WgqJ8=
+
+Name: tips/images/res_build.png
+SHA-256-Digest: 2zc9E38TEXO91UoMhBU4/uzaZTcNuxA/FA9i1y5diK0=
+
+Name: contexts_CommonNavigator.xml
+SHA-256-Digest: 9yowvY83ksJgP9ZBo6kggwSee6HtL5V6kgNEfwpg2bE=
+
+Name: images/ref-5.png
+SHA-256-Digest: kbKWg+L+NZ3GX3B0TJdnO33fxw1gGF9Z/fGbdHY2JqM=
+
+Name: tasks/tasks-9f.htm
+SHA-256-Digest: MX3/0UYFTeb8LjGfIaMxweVAbDQviGP+5iwTeHKZp4Y=
+
+Name: images/ant_targets.svg
+SHA-256-Digest: 6rU+pm29TJgGKzXtzU2SwtVmCiSzMainOLsvLGI72fI=
+
+Name: images/ant_classpath_tab.png
+SHA-256-Digest: NXeCpkL+IqS7etdO0LApnU0CFln825zqmf5cMgw4+/I=
+
+Name: reference/ref-uiresponsiveness_preference_page.htm
+SHA-256-Digest: NBJaSQuu8HDbcExP+G5Y6JKWAPdauGOJwEv8wtufUIA=
+
+Name: images/Image231_marker_bar.png
+SHA-256-Digest: UB5Om+Nm/rJtzIZeGbFGlzyZHyCfvviWBAGeSlZgk/c=
+
+Name: tips/images/backward_nav.svg
+SHA-256-Digest: HCmDcxtj824/f9ZQaNGEUPAsJXAhaQt5soFH7gO3ECY=
+
+Name: images/keys2.png
+SHA-256-Digest: 2fS9cC2KaxMP/6kJYm9ikILHlH9pd/n4KnxJLjDWrKI=
+
+Name: images/complete_task.svg
+SHA-256-Digest: cIlrfH7mldNOCk3aY3ka+0etJGf7U9gKB8x1YtnyOHw=
+
+Name: tips/images/shown-in-system-explorer.png
+SHA-256-Digest: AYzJIXduyzO5NVSUX0wMHHHP3eh5lPttqmPwTT5T5ko=
+
+Name: images/Image276_available_content.png
+SHA-256-Digest: mSTiG5uupLhsAmtys5U/YDJy6PSrt3o5sXd0nDtAgus=
+
+Name: images/Image80_compare_editor.png
+SHA-256-Digest: LHRiPjWYaH/Z7JbFEKXYHlHvXFjPfRWSknt0eWd2aYQ=
+
+Name: tasks/tasks-45.htm
+SHA-256-Digest: TZyi1n5e2RZu4XveYjqaTV4mv7H5FoytuzHUCNHC5dc=
+
+Name: reference/ref-workspaceswitch.htm
+SHA-256-Digest: 4vaPU0a2XqjASZcY6JlDk0eYOivT7nJS5bFNMTic0G4=
+
+Name: tasks/tasks-1a.htm
+SHA-256-Digest: rhoE3jE0LSUfX8HrP3sIrGunZmaJZ0yCXKAz50MWTRE=
+
+Name: whatsNew/images/overlay-top-search-history.png
+SHA-256-Digest: bN05kSOvDY7dVLCjJi3V0QL/7y0hg1m9QTc2njfR3hA=
+
+Name: images/toc_open.svg
+SHA-256-Digest: 4rZH9u+9Q3RDlj37AnZGVfd3Ju+RjxrEKJALwaLRWhM=
+
+Name: images/Image83_jane-history.png
+SHA-256-Digest: TM/SKbvzlTeGEOVgMfmmJBh4I0qiRx0DD/zv8hfMYYk=
+
+Name: images/type.svg
+SHA-256-Digest: EcHSFRTEtEhU6L4udeM30vMa6kxoZdrbKK8QVvjrWRg=
+
+Name: images/collapse_expand_all.svg
+SHA-256-Digest: qPnOpvR2Bld9EsIePH3kSiKztN3mDK0REcnjsu0H81E=
+
+Name: whatsNew/images/search-in-area.svg
+SHA-256-Digest: Ok7wV+lN6BgB33iy01qf77ij8RPTorvpipsp/A58SVU=
+
+Name: reference/ref-11.htm
+SHA-256-Digest: UgVG4UTu/fnFBIK8rCuSLKvuYaGH56grMz4JckF9yRU=
+
+Name: tasks/tasks-78.htm
+SHA-256-Digest: vTwwsU8RgvAW/CE9lMgtK56a/esBg+pPm5Anva09RXs=
+
+Name: images/help_scope_link.png
+SHA-256-Digest: +SVl85qhpAJ7qAfsqAXLkqiz6cMcGRzJE+CUkEjySbs=
+
+Name: gettingStarted/qs-34c.xhtml
+SHA-256-Digest: Bv7pMRCPFvG3vaU6z860/HkYI2tIxXPYxMM7g8rujdE=
+
+Name: tips/images/fastview-drag.png
+SHA-256-Digest: 9QQyBL1FR3aqCcyb0l98LUvQChBI3QKSQaY9TMoi4VM=
+
+Name: gettingStarted/qs-55b.htm
+SHA-256-Digest: gCX++lEsUktrCVE7BxLM0haPrwnDuwU4HqEdVX8F4lQ=
+
+Name: tasks/tasks-68.htm
+SHA-256-Digest: 5v2oTb7Hqgn4oEL6C7SBtuiqGM+Qc6AFWbk5YOPfd+M=
+
+Name: concepts/cpropview.htm
+SHA-256-Digest: VgVgY3R618AqyQD5M/gjZbQVx/uSzPFRcZELVjhqy6s=
+
+Name: gettingStarted/qs-12.htm
+SHA-256-Digest: TrmNr4XnfUb39lrYE7Z76/kPVpa4qsClb8ArlyhRexA=
+
+Name: images/Image5_text_editor.png
+SHA-256-Digest: uNcfDyKrdgvxO4kv9HPr4lc7iuRNyy7EKZez4xJ8vp4=
+
+Name: gettingStarted/qs-36a.htm
+SHA-256-Digest: 0/dgRkIJOylkWTRmvFUL/T8kjumb/o2v03F33oH/HVo=
+
+Name: whatsNew/images/case-sensitive.svg
+SHA-256-Digest: e6doE4tQZ82kGYBDKxmeyIP55Ks/cOMuVxebcfDVT+Y=
+
+Name: images/help_scope_select.png
+SHA-256-Digest: jhTtWYQYvURbrNoEG961bY0LHe/552NyEohA3Zi8+E0=
+
+Name: reference/ref-7.htm
+SHA-256-Digest: fqBuDBkxYrxXQojCc70CLSDnTLi0l8pVL4Q8TVosFEI=
+
+Name: tasks/tasks-84.htm
+SHA-256-Digest: c6OjDHi2fdW0xijDuuCvgPwoKQmebFPzauGJ912Yyrg=
+
+Name: images/addtsk_tsk.svg
+SHA-256-Digest: Krl0GidRTMtd2jnr8AZoTz7FLLvdEUBak7tFObu/ii4=
+
+Name: gettingStarted/qs-93_project_builder.htm
+SHA-256-Digest: jdlcZuei1G5q1n+FLOOPjIuZorkNlJ45jG57yJhFR18=
+
+Name: reference/ref-60.htm
+SHA-256-Digest: EmBQxs4b35ZtS4BrRxRekeXvpXBtp8NTgRj1SpJarOM=
+
+Name: reference/ref-26.htm
+SHA-256-Digest: WUHyzly4pJzRKanOtQflAl6z75no1VdmR5BfXKDuN1w=
+
+Name: reference/ref-31a.htm
+SHA-256-Digest: +kONyfwPyh341al4zxPaUNZoiLgmP1VWOjdYtjr5aDQ=
+
+Name: images/block_selection_mode.svg
+SHA-256-Digest: AyK327/JS8qHoWGRWLkHi7U0XaU8GFvX/SbPpYRHkWY=
+
+Name: images/undo_edit.svg
+SHA-256-Digest: 53RTL474sbEm2NIYLrsDXtq7S7PMpPV9JQgf2IRr0tk=
+
+Name: tips/images/copy-preferences-ws-switch.png
+SHA-256-Digest: 2O1YB721vJ/Smb6Iz0hxxH1wOFcM/rU9a+55ehHTflo=
+
+Name: reference/ref-anteditor.htm
+SHA-256-Digest: Ixn18ezYO9lOAXBt8EibLX2QS/fdDhc2WrTWUCRIQB8=
+
+Name: tips/images/restore-local.png
+SHA-256-Digest: veqivBBZ2lRBvWMuz0BGWkScEeavKESQ/7V+y21KFjE=
+
+Name: gettingStarted/qs-31c.htm
+SHA-256-Digest: WbCMxmgxV2KMbIlmvaHuCmLbUtAonPXehgOGUVf9+mw=
+
+Name: tasks/tasks-103.htm
+SHA-256-Digest: oNgibABjvlyleqn/7n35Vanhbk0Tj9vZn5MncH37/UY=
+
+Name: gettingStarted/qs-07a.htm
+SHA-256-Digest: XxV+SW5C7e99rJYVlE4gISa7HXilukzuWU7Pc/sjyss=
+
+Name: concepts/cbookmrk.htm
+SHA-256-Digest: 9J9uDrHL5t1x+bSmsov5bwZ+L03+Ez+PrwQn5CxjLQg=
+
+Name: reference/ref-startup-workspaces.htm
+SHA-256-Digest: sc23I0I1bP6q8CedtB5YyLt1Zc2EaDbSQ99sg6pdcSU=
+
+Name: reference/ref-texteditorprefs.htm
+SHA-256-Digest: N3zGkybrfwCkkqK0NlGSrHXmrUIrDwfER7g//zHwPBs=
+
+Name: tasks/tasks-31.htm
+SHA-256-Digest: Vb8Y+yxdjfHcfJQMyhQMhcqt7GGdYOdkIP6ZuF+924I=
+
+Name: tasks/tasks-14.htm
+SHA-256-Digest: 1zbvb646B7AGa+HohOv9eREvoeUAazHFpGObFnJ4AUU=
+
+Name: gettingStarted/qs-31b.htm
+SHA-256-Digest: JdH+51TVJ9cz66eINdlc5fl88YtycMMNJDM1T5lByjM=
+
+Name: images/ref-4.png
+SHA-256-Digest: 5UEItFNqO+9/i4X6AOpe0oSFcZWTE6br/T0pkkgLnlE=
+
+Name: tasks/tasks-9l.htm
+SHA-256-Digest: AGoENuS4qLpjknAu8ZZgiRGjDlpQ0YDw2ubyDNWG/wk=
+
+Name: tips/images/launch-preference-history-relaunch.png
+SHA-256-Digest: ScKhvc1LOnM4By3cP79Nup3o4imGbedxZBdZFprIcdY=
+
+Name: tips/images/props-view.png
+SHA-256-Digest: mOBvo9KMAKXxR2sUNJPAcz9lg+/7e6umVH9Lnj73lrQ=
+
+Name: images/Image90_unlocked_toolbar.png
+SHA-256-Digest: L6cXA/MxMC5yydk3qIcJNbETibOzpbe4yixexbyEzvw=
+
+Name: concepts/concepts-2.htm
+SHA-256-Digest: 9McbOlp8AMqobQhu7XcdRiaBCoTvNYRySAxDDvj6dqo=
+
+Name: reference/help_preferences.htm
+SHA-256-Digest: aDXVisjx9zxGHliIZVUZDVfIcaSZwy0WRcaEIT+SNIs=
+
+Name: reference/ref-6.htm
+SHA-256-Digest: 4lbVenvWxgm4wup1LugTrdakhDqS9q1XDxRp08NTc2E=
+
+Name: images/Image90_locked_toolbar.png
+SHA-256-Digest: y0Wjo54uLD8Js/waxLS1tSheTE/OTDj4ceFj2YtqCmc=
+
+Name: images/Image261_import_sel.png
+SHA-256-Digest: gE7oeS6ybuVDh+wNaM4Ang8nd06khPzgeGkalutWILE=
+
+Name: images/Image207_persp_sel.png
+SHA-256-Digest: CH+fOoLYDr5jkcEtAq3BZ3I81NA1YhVwjP48bDOsKyE=
+
+Name: reference/ref-59.htm
+SHA-256-Digest: SAoAOKQaBKQ7AunDvSzOm6UoArMglrGlGzoPUjF/xgk=
+
+Name: tasks/tasks-1f.htm
+SHA-256-Digest: lks44XY2PZa4+OjEhBVh7Fb7vowZTTMsUVKRkeJs2Wo=
+
+Name: images/external_tools.svg
+SHA-256-Digest: Nq4TMxI+zdb6xlUynXGYR9KSoLETQaN1YD+hwGg5dMw=
+
+Name: gettingStarted/qs-02b.htm
+SHA-256-Digest: Pa0D7XQTEt40lyuqO6ybXp6PIosNEMuI0dFDCEkfhtE=
+
+Name: images/Image84_replace2.png
+SHA-256-Digest: fVTuchlGTqscT8VfLlEZBesd33hNdSK4dkSifrumhCg=
+
+Name: reference/ref-antruntimeprefs.htm
+SHA-256-Digest: st9Lqz/taekw9dwo1EucKSA0TFd5bBlAvjsjOr3Ks5M=
+
+Name: images/linkto_help.svg
+SHA-256-Digest: K0zm4vEY59XtyL21E09MyXE7txFBLv2EteiFGHe9Fnw=
+
+Name: images/Image8_view.png
+SHA-256-Digest: q5B2IkMdWEt9vgLUaBkKP4jgXYQJtvIMnR7/HelyU+Q=
+
+Name: images/Image269_merge_init.png
+SHA-256-Digest: V8FaIo5Vqw6YM0u4Ieh6ZbCjFRMuMXOhnocXW0PMnf0=
+
+Name: images/Image262_import_file.png
+SHA-256-Digest: ECKZ4L2VFz6T61Q2jdkxyxWbqNkOE5gQrEHUAjbdMeo=
+
+Name: images/Image30_goto_resource.png
+SHA-256-Digest: Kssl7r4Jjlv7XSYhEEgggn1sTl5VMRU6gkshkYTkrPQ=
+
+Name: gettingStarted/qs-37-2d2.htm
+SHA-256-Digest: p0HOE3F7AaKhHDdjVY/BiIDlkdUyag9rPwIWov7OwY0=
+
+Name: tasks/tasks-45a.htm
+SHA-256-Digest: Dm58g+RfGAeEGvED0qT/fdfGBU3yQopk8Bo5tclvEKs=
+
+Name: concepts/cpathvars.htm
+SHA-256-Digest: +iuLYFri/V/gyRsZW5MGYERwIYnk+57Ui7fEavSsh4g=
+
+Name: tasks/help_settings.htm
+SHA-256-Digest: jPRMUhOD9+TRJACFagCbm6tSTYRtzApfj8J3ww1iCRU=
+
+Name: images/Image244_bmark_view.png
+SHA-256-Digest: FPrBq8eqWwpeeLK8DOYmPz2oK0mAhZVzcWa/R42eXHw=
+
+Name: concepts/accessibility/keyboardshortcuts.htm
+SHA-256-Digest: vt21uyO+PnSNvPLvt7ghExx3WIPwHZ/V13BG2aRkLTU=
+
+Name: tasks/help_accessibility.htm
+SHA-256-Digest: kzWkPhmGYLDyidsIbIlGJ2sgt1ovHdFYePSUiFeXJuo=
+
+Name: tasks/tasks-46.htm
+SHA-256-Digest: RDAtLftBm2dMVp5YuX0P1ztUtpMJpInfRYkJ2NpLpTw=
+
+Name: images/r_outdel_ov.svg
+SHA-256-Digest: s4BK1fZlKYyR8xIg5mzDX2+DgqP7sMO+to2iDTgVUQQ=
+
+Name: reference/ref-65.htm
+SHA-256-Digest: SjDvcDHomzwz8GSdsJsOxyApkUQVtjV389cIzVrVrqY=
+
+Name: reference/ref-14b.htm
+SHA-256-Digest: wFj3wxIhVBUbkni84uya0NeGscBcJn103fQZ9NnchZY=
+
+Name: tasks/tasks-63.htm
+SHA-256-Digest: WMznRJ6f0c3rPiOw+4qs3ZiF7G3Do9fc8e3jlN0BuzQ=
+
+Name: contexts_JSch.xml
+SHA-256-Digest: 7CGgHwsISmO3fMccXyhx3/lTG81jKDuWoMrSGLkUDlw=
+
+Name: images/Image265_export_file.png
+SHA-256-Digest: jtzaPaAvlITDbv6L72tf+i+19CV7nxowb3KAm2TnQrE=
+
+Name: tips/images/keyboard-shortcut.png
+SHA-256-Digest: RxlNDRkjUCOcazsCfqcKZAkAzVqGrNxsncRS4QLcSWM=
+
+Name: tasks/tasks-28.htm
+SHA-256-Digest: YGjphI2PQm+UB6pqJ5AcRp0bJRCbTFhf+8HAy5AMwI4=
+
+Name: reference/ref-29.htm
+SHA-256-Digest: NcMPw0kmzGRB5TmqJbbWLjxbTBdasFImFLkuXLCkImw=
+
+Name: reference/ref-dialog-open-resource.htm
+SHA-256-Digest: RMjLNQB+aL+ZphxkKRXNrlr6bW8PY28fC6lX8upn9Vc=
+
+Name: images/warning_obj.svg
+SHA-256-Digest: 6O6ZxSZvViVo4J/wHo2drrj1PobbmkX2MI0eBT0MATU=
+
+Name: images/find_actions.svg
+SHA-256-Digest: PpU61X6hvLSUs6W06AsY9T1s5LELEClpS+/0FStorQM=
+
+Name: tips/images/annotations-preferences.png
+SHA-256-Digest: asXGqLgJt57lXDSYfsqFKLtsIQT+2MaLVzbWqCZItfQ=
+
+Name: concepts/concepts-25.htm
+SHA-256-Digest: LUC224XCibRZOWFCQd+/Z/wh7eFnbZyiWDhSCfleE+w=
+
+Name: images/synch_toc_nav.svg
+SHA-256-Digest: tXxN45Wo3cOF23KVu0ClwfIPd1GsaV+BUYKGP3Lo5UQ=
+
+Name: tasks/tasks-48b.htm
+SHA-256-Digest: Bmxk35zrZTbynt2/RENuwKGeNHKbLJ1lLcRCDtuuk+c=
+
+Name: images/Image42_export.png
+SHA-256-Digest: 9aTz5GaQh/w/OHyI9gEEeY9BaqDAS277PN9Q6xhJgLQ=
+
+Name: images/pin_editor.svg
+SHA-256-Digest: J9Xc/iyTmDLvwdQufxeE8fYNaOb1Yi19tMszl8iEilI=
+
+Name: tasks/tasks-114.htm
+SHA-256-Digest: NmjTck5dqRKDSVVqx1kseB9vpA/K20CGVX47Ez3RjBs=
+
+Name: images/print_edit.svg
+SHA-256-Digest: qG40l6rKYQLlnCzkQTB1K2rhHElBwIXnUw13+QeFGP0=
+
+Name: reference/ref-37.htm
+SHA-256-Digest: oJ6WswcWsFWBwj9rFvnqUCiTPFh7aGOVYCJajBiK53o=
+
+Name: reference/ref-antview.htm
+SHA-256-Digest: Ljr86CwCRN9fZdsF9tcqTfBN/fwCxGNhjVfbVrW4byA=
+
+Name: images/segment_edit.svg
+SHA-256-Digest: Bd6/+cS4xODdyUSndxGNxxdRwE32ZdyofzTcVrx9rC4=
+
+Name: concepts/concepts-17a.htm
+SHA-256-Digest: oXirZE7HonZqIXXGYkuBqHNEoo8kNpn9jonxLxGWjIE=
+
+Name: reference/ref-14.htm
+SHA-256-Digest: sMWK9wnAhP94Yab8Gnjmkcyf1GRPWS5fAgTlzqrFJ9Y=
+
+Name: reference/ref-57.htm
+SHA-256-Digest: hMOfpWSKH0vhOTo2w/NKqPAtUVF8XdQUofVu1ZUSJ6k=
+
+Name: concepts/ctskview.htm
+SHA-256-Digest: wpbYzu+deYapfNBalSryaYZjEoewv+IscH+mSTgPtv0=
+
+Name: tasks/tasks-9d.htm
+SHA-256-Digest: /UzCL6TUOv0o6NJbJMC25NKq9VWyUsC446biulATmfk=
+
+Name: images/Image16_new_pulldown.png
+SHA-256-Digest: UU3XtnyFMJiU7iUXBS20kTlVXcytYwusqJ3N0CWpsho=
+
+Name: gettingStarted/qs-84_run_ant.htm
+SHA-256-Digest: T+xw+Z4vFUjRp63zPXP99wmmJUEAIKhOoUd4HDBzVRw=
+
+Name: reference/ref-net-preferences.htm
+SHA-256-Digest: fmDO3pNANB5mvoa3brWlrcxnl/nw7bVlrky5jleGuIk=
+
+Name: concepts/accessibility/fontsandcolors.htm
+SHA-256-Digest: 20H3Tujs3po+r+lzReWWYpUhJ2l3cgH5v7z8OZ2C5jg=
+
+Name: images/next_change_nav.svg
+SHA-256-Digest: sGWDehxQ6qOxr4JJLqXoWmTwTuKkEUls4dSkOt7OpY0=
+
+Name: gettingStarted/qs-43e.htm
+SHA-256-Digest: PYSeQjCoFN81OjNQ0DkeImfpSGYm+ocWFyYOVnGsNdA=
+
+Name: tasks/tasks-68dg.htm
+SHA-256-Digest: 7wqN5o1B1dEGHDOU0RXXRd7DMR53dlmYLRzrqZP9kf8=
+
+Name: images/Image232_marker_context.png
+SHA-256-Digest: vjHs6CrtIZeI+FDMYzH9FTFelMss4QQuC5Fh8K0W2P8=
+
+Name: images/switch_workspace.png
+SHA-256-Digest: ekGk08WOY/+DQE3jQGafxWxvSfTWhfZPqn3TEUn/aHQ=
+
+Name: tips/images/quick-access-dialog.png
+SHA-256-Digest: 7Djeb2hCs3e6uOcblsgzJGHcdWpNPbOWdY9QvtzPJe4=
+
+Name: gettingStarted/qs-93a_project_builder_targets.htm
+SHA-256-Digest: nQeBNE4q56ygx1chCuGuFSE4xCXRdir+lFZ3zedSxmU=
+
+Name: images/first_anteditor.png
+SHA-256-Digest: xY54owYpYOwmxOO90dZ3dIyo86RWKLbPlIr+ZNsHkd4=
+
+Name: reference/ref-8.htm
+SHA-256-Digest: V0Iloi6aKQHkcBgQhyn+R9XQHs108qeCzJ6b5+0Yzmg=
+
+Name: tasks/tasks-129.htm
+SHA-256-Digest: X8siwxuYX9JR8drToZK4pX0hScnLRAI+3zBNcgDGkTU=
+
+Name: images/filter_ps.svg
+SHA-256-Digest: 4cG7J148XcackVlVjkMJf0PnMtwtEWUwrXi2XC83Azo=
+
+Name: images/outline_hello.png
+SHA-256-Digest: KKWHUKxu96wgtG+jdHWOY1abSn6qH1Ybb9wsQyCwfF0=
+
+Name: reference/ref-61.htm
+SHA-256-Digest: DtMj2gN1sOGQn0kx/IXJh9QPsMgDO2iKbwphCWWPvRw=
+
+Name: reference/welcome_preferences.htm
+SHA-256-Digest: 5fbpqijn0gdZe0Q1JYmb7KyhQsZ+LSM+Ux6EKccnXn8=
+
+Name: tasks/tasks-126.htm
+SHA-256-Digest: GUNIRCwbCClmCafXnsqIzUCauc5XvIJCwaNDhWj6Nqw=
+
+Name: whatsNew/images/preview-theme.png
+SHA-256-Digest: wufyqCGM+pZ4xMwQoqQywBDH0LuEkdi5Nzwn3+1tWWI=
+
+Name: reference/ref-20-fileContent.htm
+SHA-256-Digest: hZOlGe2DcuOjMaAiAZqfuOEWVDNtkE1P0OtHA5OrbP4=
+
+Name: whatsNew/images/overlay-options.png
+SHA-256-Digest: J6MHcB7evOK8CaqsGLQwo2Da4ZNwhF+Sk0Ino5Ulbps=
+
+Name: images/Image211_perspective.png
+SHA-256-Digest: 63QAdBc86VzdyxXChL6wWzTHyUTzmtsV/0weRj+syVI=
+
+Name: tasks/tasks-75.htm
+SHA-256-Digest: KMFjpTWClj+U67AdpPIf7u4gBXFSHhba7xCugLoDMWc=
+
+Name: tips/images/show-in.png
+SHA-256-Digest: f74Mf91dT1dd23v6ZqmzULp33IctySUnzU7CDiu6EMY=
+
+Name: tips/images/show_pid.png
+SHA-256-Digest: 4WzST+FCGcGxFZ5vXO9vOToFMu6sz0o/HeRyyVU/t58=
+
+Name: images/Image84_replace3.png
+SHA-256-Digest: 2gM9nzMePFjrnO+tLnW7Y3EA+ao0oiUW2b3Jv0JQXvM=
+
+Name: gettingStarted/qs-37-3f.htm
+SHA-256-Digest: gfca84cgnEA5jB0y0qlXh+uG0BdtM0SqBFrtR6DmFwg=
+
+Name: reference/ref-composite-cheatsheets.htm
+SHA-256-Digest: FUpynWSJrZrGg2B/6kwauzUlkkNLLJmwGBTu8bUJTN0=
+
+Name: images/import_obj.svg
+SHA-256-Digest: sIP6OWrBpq66Ytscjnznu8T4aGqyLHI/ZJZVw+DYQYg=
+
+Name: images/Image263_import_zip.png
+SHA-256-Digest: ubLd2gMkdJTTK7S3k1mUXkVWyhDVq5MDUPrYIosq1C4=
+
+Name: images/ancestorpane_co.svg
+SHA-256-Digest: pPUI3s2WIAX8aWtAQfPfAIt07/NXIU0bl7P7p/lMUXw=
+
+Name: images/ref-3.png
+SHA-256-Digest: 62Imf1BSCq8fmNjQU22HivqiZYJ7UeN+lZwL6jPXDjs=
+
+Name: reference/ref-42.htm
+SHA-256-Digest: 76JwAomw/rxme8dkQa6LV1XsfpmEHf9/SkxNtLDOFQg=
+
+Name: images/property_obj.svg
+SHA-256-Digest: /iODiecgNaIFQvlP6XHY/N/UHxhIs3OFjSkh+95FbXk=
+
+Name: images/confadd_ov.svg
+SHA-256-Digest: Ak7w43JpigP1Z7j5YqaYOcj/tSoTXRdX7+vw+fVNxtY=
+
+Name: images/new_persp.svg
+SHA-256-Digest: SXm/1/CsLjX2Q5M0fAvfsfkl62mh3XInBH1Y3WYPqo0=
+
+Name: reference/ref-p2-trust-authority.htm
+SHA-256-Digest: X6eDX7rZg21WN6hDkgox6ixNmQU6NJJ6lFimMxpybRk=
+
+Name: tips/images/quickdiff-hover.png
+SHA-256-Digest: la2O3o7PKnwaBuKMs3GMq/OqAxQAkhKp5+8c6c+y88Q=
+
+Name: gettingStarted/qs-52c.htm
+SHA-256-Digest: 7sL+Xr4bM9rVJ2h12C1BRqINqF25OH/rjHPrUph77ak=
+
+Name: images/Image43_export_tree.png
+SHA-256-Digest: 2lQY/wr1sxzEApiv0c7/+VgLGoJ/glifjgGIBDsyLic=
+
+Name: tips/images/pb-context-menu.png
+SHA-256-Digest: 539HzvYXJquLAWbCGbMiWyCg+zgV4NBggNEuHnV+AzE=
+
+Name: reference/ref-6a.htm
+SHA-256-Digest: qDk62ReVYS/Zh4YuhpAcHLUsFLEmwSduoIAoQL1wxBY=
+
+Name: images/tasks_tsk.svg
+SHA-256-Digest: uxBi7xSVteBN7GMd7RB+a5TGiVaQm1tnzuTbQBvgOCk=
+
+Name: tasks/tasks-47.htm
+SHA-256-Digest: QmidX6QnL8o114PQ5kEav8ijMrZ5Bh4pmJNxOc8OJHk=
+
+Name: images/Image215_toolbar_view.png
+SHA-256-Digest: VunNbOPDAPSe/w914REs4AyRznI/1wpNZ8ejqCuqwBw=
+
+Name: images/Image210_filefilter.png
+SHA-256-Digest: OhdY41ssYbNR3qZTJTOv+XbQmSJ+xsa2cP26NSuQbbw=
+
+Name: images/compare-editor.png
+SHA-256-Digest: M7VEUIG0ot+08TcSGMJcjY9IJLRDUO6fFyNjZp2QizI=
+
+Name: images/r_outadd_ov.svg
+SHA-256-Digest: WxBU0ZNb92HrWHF1hv5siD0x/tw0NC0qhJYXt3gn1o0=
+
+Name: reference/ref-70.htm
+SHA-256-Digest: 7hw7bIjwJFHuIW/wBZnwMsAsalkIHsJCaVezV9vdL/A=
+
+Name: gettingStarted/qs-02a.htm
+SHA-256-Digest: Bl9/2HW/Zu4Y3pDKfGXNf7nYKmY6Dy+oEUiQJz730yw=
+
+Name: tasks/tasks-68c.htm
+SHA-256-Digest: q/3ixMtEO+FUL/53rDfvVywkuKcLth8OLWyPeh9xOYs=
+
+Name: reference/ref-ssh2-preferences.htm
+SHA-256-Digest: TDahtHbv4SGUEzde1IMENA0zX+ixZoTLih+mZOA7Zs8=
+
+Name: images/Image70_select_pers.png
+SHA-256-Digest: OUVAJJdIVQEzo7DrNIXSg+Kpn87af3tzwnTVfo9hgBA=
+
+Name: tasks/antRunner.htm
+SHA-256-Digest: EP0GOuc7gWLATmZDaItqMfi0O281hbuMsgdbrO4IVRg=
+
+Name: images/delete_edit.svg
+SHA-256-Digest: bahJaGC3NLpRSu3wwR2GcLnrWlby/UpvXMciWJw0GHs=
+
+Name: concepts/resourcefilters.htm
+SHA-256-Digest: JNwj4R2i5q9iLgpL9f/6q48yZlpnKdvd6bzaFp2BlWE=
+
+Name: tips/images/dark-themed-ide.png
+SHA-256-Digest: 2X6Cy0HnWTuxVcXhALBxBknmNHC5rLRtajb9ekov3rc=
+
+Name: contexts_Net.xml
+SHA-256-Digest: 7e/HbMqsTtf7j4LNW3vSgx5TXvnATWpLC5HHaQ0lW20=
+
+Name: images/e_show_categories.svg
+SHA-256-Digest: gruLmM8ADj0Rm6QrWEIe6OAGMCy4mWoBE2iWXZImxlo=
+
+Name: images/copy_l_co.svg
+SHA-256-Digest: SZKHNF+m6CzP/g17HoDYi07MvAkwm0bM02lW2AkzwRg=
+
+Name: images/export_wiz.svg
+SHA-256-Digest: pxaHxvPoT9lXqTwaRl942amTblTUuPgvgVZSnL2WdqM=
+
+Name: tasks/running_eclipse.htm
+SHA-256-Digest: eN6zAkWUatQqXD6AUDVSGbFACBtKQYbaj+3OOCqauYo=
+
+Name: tips/images/compare-merge-button.png
+SHA-256-Digest: B5VoqqVjM6UHSPh4SlbH9cxHL/ax+3uyEwg2Ftm9AAk=
+
+Name: images/cut_edit.svg
+SHA-256-Digest: /IxPWlDO0XnE4NZzOqlmtjAJQz2AzHlPoggRtUzAszc=
+
+Name: reference/ref-9.htm
+SHA-256-Digest: 9KrTtJytOzp8/ioFczk9zcOpGVsIBjqftgXREa6eOH8=
+
+Name: tasks/help_search.htm
+SHA-256-Digest: j8BR4VvvQ1Xdboj9iNMHwZu/OEhxy1u0WhmbM443ZPI=
+
+Name: tips/images/launch-groups.png
+SHA-256-Digest: KsxCYXII6lZwCwkLgBYV/sF9oXc8aGxBCduqMvAVTbo=
+
+Name: tasks/tasks-63cg.htm
+SHA-256-Digest: Rf5HT2O8qZsSThrnWICjpKRcRw9oppQfXqvWdWptg1A=
+
+Name: images/add_co.svg
+SHA-256-Digest: NUh9Q9MCv6gkC7+jT1jHmiVjRlVc9WpAI0VcGvNwNdo=
+
+Name: images/run_exc.svg
+SHA-256-Digest: CZ6mfS0TgQ1+YLwRz5aGGTF4IzaO51W7sY9EraQMM2Y=
+
+Name: images/Image229_view_popup.png
+SHA-256-Digest: 1Emp9hdFvhcZ/SySAXP3mI8m4wJ6yVEO+SRLD9lX2uE=
+
+Name: images/Image3_single.png
+SHA-256-Digest: z1A2y+c+IFR/PpuNEJ3HeyIxSHN75stSvf0NLK/VN+Y=
+
+Name: reference/ref-28.htm
+SHA-256-Digest: IwU3z+8Ikao/em6Ac5gBQGE/0lt6pIKQbSmZ9TkRklU=
+
+Name: plugin.properties
+SHA-256-Digest: dvp3/hczT4eMdv2QAR3yRy1508A5qR82/aKuFqvgkLg=
+
+Name: images/et_builder_main_tab.png
+SHA-256-Digest: U2TZBpX7SW5amQzvkYl8wcQVexl+XSGG3cTs7KlIwfo=
+
+Name: images/Image82_nav.png
+SHA-256-Digest: QBudlD4PJd8KJE6r4Z2GR2XkyiBRq4RHvyZ+KM3dr28=
+
+Name: gettingStarted/qs-39.htm
+SHA-256-Digest: 2/W+mniU+pskbhuSvQf5gpzkTYvKmTI6uoNwnsJcTEI=
+
+Name: tasks/tasks-128.htm
+SHA-256-Digest: Mq9YMArv8+3tMnOsq5hPmagBkAlX2fSG3NYbTUXGEOM=
+
+Name: images/Image48_rename_done.png
+SHA-256-Digest: XIWe5AfJbgAP04YDyzj1K8RpN8THRQT+ouNyDY4y1zs=
+
+Name: images/restore.svg
+SHA-256-Digest: /GSrurLYJDFGt7snt0x6oBkLne/Q5QQ5jr9QRJYrsnw=
+
+Name: gettingStarted/qs-37-2b.htm
+SHA-256-Digest: 4QZeY3iiWJ6EpbRsiJiYQ6OESb57lKGScBwKziM3rP4=
+
+Name: tips/images/help_bookmarks_1.svg
+SHA-256-Digest: eLysSajHkmAWDnm5a1hnOyigYGKxvtCCEMAUfY1IaMc=
+
+Name: concepts/concepts-11.htm
+SHA-256-Digest: L49OlqAxmqBvGVnPvrMOxYYDKCWCrU68wfZa0JeitI0=
+
+Name: images/Image7_view_pulldown.png
+SHA-256-Digest: MxQ1fttghP0VGTiSXfMPvLV+5yEVpfTRQtg1k3nl+MY=
+
+Name: tasks/tasks-55.htm
+SHA-256-Digest: 7B7kjWvt06NiquCh+aSHyw1jJIMWVx4eNrepwHSrvi8=
+
+Name: images/Image264_existing_project.png
+SHA-256-Digest: xU0rziamyilAJqZt/98IJnhPnmfiQ1h6lzoqQvq2Fno=
+
+Name: images/Image_pref_inup.png
+SHA-256-Digest: JQMHll7NI64wtsr5StUnQ8DptTI4Pt7G8uQixuVB0fc=
+
+Name: images/edited_ov.svg
+SHA-256-Digest: v3eWyBpCTAr8nCzVzLN4THGFTQaExfEarzcKOfW7rY4=
+
+Name: concepts/concepts-4.htm
+SHA-256-Digest: MK/WhCmywApun103cUmXkjBG6w0alSX8ibvTU8tzKIo=
+
+Name: images/twowaycompare_co.svg
+SHA-256-Digest: oiWhqT9csSUhtVZmooSbeMmqO18yt1y+OE5aLaVmkTI=
+
+Name: images/Image12_new_project_wizard.png
+SHA-256-Digest: NebTduuFGRRCXstleMDHjDFKtUS3BQ/Kjlm+geKLfh4=
+
+Name: images/help_scope_new.png
+SHA-256-Digest: 3POyX9IpTrfgYCITw1meX2pqj3YCdPKFZHrMIILSGhY=
+
+Name: images/quickfix_warning_obj.svg
+SHA-256-Digest: GhRjmTtlpwC31TOJJt4QvWmzP7W4mlGVjmwtuCDHVNU=
+
+Name: tasks/tasks-133.htm
+SHA-256-Digest: V5YscyJe5BgCH5rTJ75zaVaofrAbJKp/bHPAuvDoPoc=
+
+Name: images/ref-1.png
+SHA-256-Digest: BrKy6MvYK/Q8rZ15QgswFS0+5T4v1ufcVz+ved8sFHA=
+
+Name: reference/ref-13.htm
+SHA-256-Digest: /z2LNgVg2MxT2dPTEAXt90Qb1wHaog3BiGYdiqr7r+E=
+
+Name: reference/ref-56.htm
+SHA-256-Digest: zkHR4lvSDsUAvO6jbQuo9kXNhqlTUfzyV5cnQQJT3bk=
+
+Name: tips/images/preference-transfer-compiler.png
+SHA-256-Digest: NiF4hb+IZmLuoorMEh+fdvwcDtVyOErmcVeyK7FzAlc=
+
+Name: images/Image83_jane3_conflict.png
+SHA-256-Digest: 0/NFBiIp7snl9bzSR7RRxB1rsAQjYgiCwESsNRaAY/0=
+
+Name: images/forward_nav.svg
+SHA-256-Digest: 7iaau6qrADx2QdkwKVzJ8v5x1aTNV9na1WjH+Uc4X5U=
+
+Name: tips/images/cap-pref.png
+SHA-256-Digest: VWkCSylSlEVQDNNwECCUoavxfM5a1WeimaRg2eg6Cgw=
+
+Name: reference/ref-antprefs.htm
+SHA-256-Digest: W4key8vwgS39IohDFcjXuWDDngYWiQePE+RjJy2+ll0=
+
+Name: tips/images/pin-editor.png
+SHA-256-Digest: LIVJ9+nxe+lBsV91TA1oR0ynjoFAecnjMc/trFOtztM=
+
+Name: tasks/tasks-134.htm
+SHA-256-Digest: Ie10iacsA5sbd/PmUdk6v3y2+2RMDZOvaYWSrA2EpTI=
+
+Name: tips/images/key-assist.png
+SHA-256-Digest: QrxsFO7SIS3i5oATPO9HYQSewFJTpSqLUKNqMG7CnWU=
+
+Name: images/error_log.png
+SHA-256-Digest: bHZWJ9cHWq8YYo4prdojwlhE01bXitGR8FQhp27Ff2w=
+
+Name: images/bookmark_obj.svg
+SHA-256-Digest: XtIQw1Q1vPxkgVG0alQHC2Pz3fudRwOcgpwh+hpRBjg=
+
+Name: images/complete_status.svg
+SHA-256-Digest: PMKZqq9Ag5WK1uAUs+UvioOAEWrNBeuLAaqWONF3VEo=
+
+Name: tasks/tasks-82.htm
+SHA-256-Digest: 1/K+Pr/g3ZVk43eYBQAqTCLPZM/nvGTRiElcwcd5p0Q=
+
+Name: tasks/tasks-68b.htm
+SHA-256-Digest: M2K3nMmIdOCE9e2vUTW2HIYtx6oEECNl/kCaJGmk6zE=
+
+Name: images/Image38_import.png
+SHA-256-Digest: Mdq3MiNO+RoEIKFZ0wkAogdN1/wRu0WNQyZeGGY+fuk=
+
+Name: tips/images/right-click-export-launch-config.png
+SHA-256-Digest: fuGvbi9XAmxoJTH+YFuWSAffpuL47IayzysHaPQbaOQ=
+
+Name: images/brkp_obj.svg
+SHA-256-Digest: yseSDmazI3TQh1WvsJSsKA6kbYtmpSIwSrHMukotek4=
+
+Name: whatsNew/images/multiline_mining_new.png
+SHA-256-Digest: xXKbg6hH+YgWyJvIwHQda1dKsNOyI2Cbi6esGVaZksY=
+
+Name: reference/ref-anteditorprefs.htm
+SHA-256-Digest: KYkL3S9eZOZ6Nvjb6zSEjWjOelV6M+z9kGvWpg2kres=
+
+Name: tasks/tasks-127.htm
+SHA-256-Digest: 1l3WqnGYet5XH+ZSTCkWXxbO0d1nU9MdvK97VeNx+fk=
+
+Name: images/macrodef_obj.svg
+SHA-256-Digest: v+jy++gt7qNiWxqEdWlIZ/ZnmFQq/tws6NfV3a4A8CQ=
+
+Name: images/no_remotedir_ov.svg
+SHA-256-Digest: Ir5Utp4DyivGD09C4AlcIsVfevjg7oJMBZvNOK9n6x0=
+
+Name: tasks/help_scope.htm
+SHA-256-Digest: +STNOocvJFDSk7cq/XBkwlDF1KLnWLH6clE4tQVZu5E=
+
+Name: images/cheatsheet_composite_running.png
+SHA-256-Digest: LlVsElGZc+jBGCMPayOuX7flpROEkjAGDTsdLk5bijg=
+
+Name: topics_Tasks.xml
+SHA-256-Digest: L6o9u/KkVKb6jzDt8kLGnvMAGfg/U4M5YEQ7HACfdag=
+
+Name: images/show_whitespace_chars.svg
+SHA-256-Digest: e2IrHjBnYROgzNeP8U29acpvkNnFLg5X8/nJ+ALKGzY=
+
+Name: images/Image266_export_zip.png
+SHA-256-Digest: 8j9IhpFqjvqvR6XHDp4v3iLXIKJA4kHO2uS90gkcLjg=
+
+Name: images/drop_stack.svg
+SHA-256-Digest: jCeWqabbFasrRogElmTprSvmXJTMF2RW6+p+LlP10xI=
+
+Name: reference/ref-keybindings.htm
+SHA-256-Digest: l35ptZ0dzIxUoIRgCHMMSpY2l9nQsPfwtULtTI7QsqY=
+
+Name: about.html
+SHA-256-Digest: oU8OI2yx0g396GnnChkTR+pN1xZGSOyXfcmmk1lV3Eo=
+
+Name: tasks/tasks-100d1b.htm
+SHA-256-Digest: YxpCo9Mx+VdVJzqvjh1uUVGvCCP+WqkUKtEvQWcO3Pk=
+
+Name: tasks/tasks-9n.htm
+SHA-256-Digest: xqgS6ofrtvw7H8Y7phwIgsR1XMcquSgXPMxzVTmjfWI=
+
+Name: tasks/tasks-ant-classpath.htm
+SHA-256-Digest: 6aHvn/PB+O11LjyVfuIJ63vBmWsnNUp3WrGpGJGzYt8=
+
+Name: tasks/welcome.htm
+SHA-256-Digest: m/DwP6pIOBZg1nry7MY9o+8+k48KQk0lZ4wPsQlq6Kw=
+
+Name: tasks/tasks-1h.htm
+SHA-256-Digest: nU0drNGcxMdoq0cXnYFQR8H2S1XC84gCalg2h/3Ie6Y=
+
+Name: images/cprj_obj.svg
+SHA-256-Digest: Joduy97ZEmSOX4t1Frs3grHgWqisoFWa+52CM3t6hbc=
+
+Name: tips/images/last_edit_pos.svg
+SHA-256-Digest: wn49fAG3/P6TYC5jg3WBtimyoXAbXjYH2YpNBuwojMQ=
+
+Name: gettingStarted/qs-82_create.htm
+SHA-256-Digest: q2VQJQXw4NinyyZ8dLFvheGKjuu9fzbfO0ZBjq9NWpY=
+
+Name: gettingStarted/qs-85_ant_configs.htm
+SHA-256-Digest: aAelnpFyfI/tQ/hiSFLAefpJ3HZ8a82XQgXp5R8Zd0A=
+
+Name: gettingStarted/qs-81_basics.htm
+SHA-256-Digest: rTJw/Jp/hNrjEw5tWlj8imWmgGrFnOkDCq5NsVrAu34=
+
+Name: images/merged_ov.svg
+SHA-256-Digest: sqnIpx0jXO66UMf0Vdkpk8j0wUyNKKu70TlYfNZMLpk=
+
+Name: gettingStarted/qs-52.htm
+SHA-256-Digest: 1LwzUTblM75nfENpPydq5gom8KU6xfdEhAeD00kAZMQ=
+
+Name: reference/ref-large-file-associations.htm
+SHA-256-Digest: KXHkFGSeKihu8wpmS4vzaXM5GCnMo3ANg1uh2SGrCFU=
+
+Name: images/Image82_import3_project_fred.png
+SHA-256-Digest: 8WZylunUF6EqG2EtJCrFgZTu2/G6A1lLc3+Lg3NDYng=
+
+Name: images/task_obj.svg
+SHA-256-Digest: UnQUix/8IFC2aIshMvvwkagd5X5B+Mhlq2SrzOvuxAg=
+
+Name: reference/ref-35.htm
+SHA-256-Digest: WTGA1emPobDsB79VEVCQdRrhvUxAP9R+/STWKnynXvo=
+

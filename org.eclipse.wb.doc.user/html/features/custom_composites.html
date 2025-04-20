@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Asciidoctor 2.0.20">
+<title>Custom Composites &amp; Panels</title>
+<style>
+P.Code {
+	display: block;
+	text-align: left;
+	text-indent: 0.00pt;
+	margin-top: 0.000000pt;
+	margin-bottom: 0.000000pt;
+	margin-right: 0.000000pt;
+	margin-left: 15pt;
+	font-size: 10.000000pt;
+	font-weight: normal;
+	font-style: normal;
+	color: #4444CC;
+	text-decoration: none;
+	vertical-align: baseline;
+	text-transform: none;
+	font-family: "Courier New", Courier, monospace;
+}
+H6.CaptionFigColumn {
+	display: block;
+	text-align: left;
+	text-indent: 0.000000pt;
+	margin-top: 3.000000pt;
+	margin-bottom: 11.000000pt;
+	margin-right: 0.000000pt;
+	margin-left: 0.000000pt;
+	font-size: 9.000000pt;
+	font-weight: normal;
+	font-style: Italic;
+	color: #000000;
+	text-decoration: none;
+	vertical-align: baseline;
+	text-transform: none;
+}
+P.Note {
+	display: block;
+	text-align: left;
+	text-indent: 0pt;
+	margin-top: 19.500000pt;
+	margin-bottom: 19.500000pt;
+	margin-right: 0.000000pt;
+	margin-left: 30pt;
+	font-size: 11.000000pt;
+	font-weight: normal;
+	font-style: Italic;
+	color: #000000;
+	text-decoration: none;
+	vertical-align: baseline;
+	text-transform: none;
+}
+EM.UILabel {
+	font-weight: Bold;
+	font-style: normal;
+	text-decoration: none;
+	vertical-align: baseline;
+	text-transform: none;
+}
+EM.CodeName {
+	font-weight: Bold;
+	font-style: normal;
+	text-decoration: none;
+	vertical-align: baseline;
+	text-transform: none;
+	font-family: "Courier New", Courier, monospace;
+}
+
+body, html { border: 0px }
+
+
+/* following font face declarations need to be removed for DBCS */
+
+body, h1, h2, h3, h4, h5, h6, p, table, td, caption, th, ul, ol, dl, li, dd, dt {font-family: Arial, Helvetica, sans-serif; color: #000000}
+pre				{ font-family: "Courier New", Courier, monospace;}
+
+/* end font face declarations */
+
+/* following font size declarations should be OK for DBCS */
+
+body, h1, h2, h3, h4, h5, h6, p, table, td, caption, th, ul, ol, dl, li, dd, dt {font-size: 10pt; }
+pre				{ font-size: 10pt}
+
+/* end font size declarations */
+
+body	     { background: #FFFFFF; margin-bottom: 1em }
+h1           { font-size: 18pt; margin-top: 5; margin-bottom: 1 }	
+h2           { font-size: 14pt; margin-top: 25; margin-bottom: 3 }
+h3           { font-size: 11pt; margin-top: 20; margin-bottom: 3 }
+h4           { font-size: 10pt; margin-top: 20; margin-bottom: 3; font-style: italic }
+p            { margin-top: 10px; margin-bottom: 10px }
+pre          { margin-left: 6; font-size: 9pt; } // color: #4444CC 
+/*a:link	     { color: #0000FF }*/
+/*a:hover	     { color: #000080 }*/
+/*a:visited    { text-decoration: underline }*/
+ul	     { margin-top: 10px; margin-bottom: 10px; }
+li	     { margin-top: 5px; margin-bottom: 5px; } 
+li p	     { margin-top: 5px; margin-bottom: 5px; }
+ol	     { margin-top: 10px; margin-bottom: 10px; }
+dl	     { margin-top: 10px; margin-bottom: 10px; }
+dt	     { margin-top: 5px; margin-bottom: 5px; font-weight: bold; }
+dd	     { margin-top: 5px; margin-bottom: 5px; }
+strong	     { font-weight: bold}
+em	     { font-style: italic}
+var	     { font-style: italic}
+div.revision { border-left-style: solid; border-left-width: thin; 
+				   border-left-color: #7B68EE; padding-left:5 }
+th	     { font-weight: bold }
+
+a.command-link {
+}
+a.command-link img {
+	border-width: 0px;
+	border-style: none;
+	vertical-align: middle;
+}
+
+pre code {
+	display: block;
+	border: 1px solid gray;
+	margin: 1em;
+	padding: 1em;
+	background-color: #F3F3F3;
+}
+
+</style>
+</head>
+<body class="book">
+<div id="header">
+<h1>Custom Composites &amp; Panels</h1>
+</div>
+<div id="content">
+<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>The tool supports the creation of custom <strong>Composites</strong> (SWT) and
+<strong>JPanels</strong> (Swing). This is an ideal way to create custom, reusable
+components. The following features are supported:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Embed any <strong>Composite</strong> of <strong>JPanel</strong> subclass in another window</p>
+</li>
+<li>
+<p>All widgets defined in the <strong>Composite</strong> / <strong>JPanel</strong> are visible in the
+window they are used</p>
+</li>
+<li>
+<p>Access any widget exposed via public accessors</p>
+</li>
+<li>
+<p>Access exposed custom properties</p>
+</li>
+<li>
+<p>Exposed widgets appear in tree with the "exposed"
+<span class="image"><img src="../userinterface/images/exposed_decorator.gif" alt="image" width="6" height="6"></span>
+decorator</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>The following is an example of a custom <strong>Composites</strong> that is then used
+in a window. The <strong>Composite</strong> uses a <strong>GridLayout</strong> and has two <strong>Labels</strong>,
+two <strong>Text</strong> widgets, a <strong>Button</strong> and an inner <strong>Composite</strong> widget.</p>
+</div>
+<div class="paragraph">
+<p><span class="image"><img src="images/custom_composite.png" alt="image"></span></p>
+</div>
+<div class="paragraph">
+<p>The inner <strong>Composite</strong> widget has been exposed as a public component
+using the <strong><a href="../userinterface/context_menu.html">Expose Component</a></strong>
+command. <strong><a href="../userinterface/context_menu.html">Expose Component</a></strong>
+converts a component to a field and adds a public accessor for it.
+Finally, the <strong>background</strong> color property of the first <strong>Text</strong> widget and
+the <strong>text</strong> property of the <strong>Button</strong> have been exposed as a public
+properties of the <strong>Composite</strong> using the
+<strong><a href="../userinterface/property_pane_context_menu.html">Expose Property</a></strong>
+command. <strong><a href="../userinterface/property_pane_context_menu.html">Expose
+Property</a></strong> adds a pair of accessors for getting and setting the desired
+property of the target widget.</p>
+</div>
+<p>
+  <img src="images/visual_inheritance_expose_component_menu.png">
+  <img src="images/visual_inheritance_expose_property_menu.png" align="top">
+</p>
+<div class="listingblock">
+<div class="content">
+<pre class="highlight"><code class="language-java" data-lang="java">import org.eclipse.swt.SWT;
+import org.eclipse.swt.graphics.Color;
+import org.eclipse.swt.layout.*;
+import org.eclipse.swt.widgets.*;
+
+public class CustomComposite extends Composite {
+
+  private Button browseButton;
+  private Composite composite;
+  private Text secondField;
+  private Text firstField; +
+ 
+  public CustomComposite(Composite parent, int style) {
+    super(parent, style);
+    createContents();
+  }
+ 
+  public void createContents() {
+    final GridLayout gridLayout = new GridLayout();
+    gridLayout.numColumns = 3;
+    setLayout(gridLayout);
+
+    final Label firstFieldLabel = new Label(this, SWT.NONE);
+    firstFieldLabel.setText("First Field");
+
+    firstField = new Text(this, SWT.BORDER);
+    final GridData gd_firstField = new GridData(SWT.FILL, SWT.CENTER, true, false);
+    firstField.setLayoutData(gd_firstField);
+
+    browseButton = new Button(this, SWT.NONE);
+    browseButton.setLayoutData(new GridData(SWT.FILL, SWT.CENTER, false, false));
+    browseButton.setText("Browse...");
+
+    final Label secondFieldLabel = new Label(this, SWT.NONE);
+    secondFieldLabel.setText("Second Field");
+
+    secondField = new Text(this, SWT.BORDER);
+    final GridData gd_secondField = new GridData(SWT.FILL, SWT.CENTER, true, false, 2, 1);
+    secondField.setLayoutData(gd_secondField);
+
+    composite = new Composite(this, SWT._NONE);
+    composite.setLayoutData(new GridData(SWT.FILL, SWT.FILL, false, true, 3, 1));
+  }
+
+  public Composite getComposite() {
+    return composite;
+  }
+ 
+  public String getBrowseButtonText() {
+    return browseButton.getText();
+  }
+
+  public void setBrowseButtonText(String text) {
+    browseButton.setText(text);
+  }
+
+  public Color getFirstFieldBackground() {
+    return firstField.getBackground();
+  }
+
+  public void setFirstFieldBackground(Color background) {
+    firstField.setBackground(background);
+  }
+}</code></pre>
+</div>
+</div>
+<div class="paragraph">
+<p>The window uses a <strong>FillLayout</strong> and embeds the custom <strong>Composite</strong>. The
+window sets the inner <strong>Composite&#8217;s</strong> layout manager via its accessor
+exposed in the custom <strong>Composite</strong> and then adds several new widgets to
+the inner <strong>Composite</strong>. Finally, it overrides the <strong>background</strong> color for
+the first <strong>Text</strong> widget and the text setting of the <strong>Button</strong> using the
+accessors defined in the embedded Composite.<br>
+<br>
+Note that the exposed inner <strong>Composite</strong> from the custom <strong>Composite</strong>
+shows up in the component tree with a small
+<span class="image"><img src="../userinterface/images/exposed_decorator.gif" alt="image" width="6" height="6"></span>
+overlay icon. The other widgets defined in the embedded <strong>Composite</strong> do
+not show up in the tree because they are private to that <strong>Composite</strong>.</p>
+</div>
+<div class="paragraph">
+<p><span class="image"><img src="images/custom_composite_used.png" alt="image"></span></p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre class="highlight"><code class="language-java" data-lang="java">import org.eclipse.swt.SWT;
+import org.eclipse.swt.widgets.*;
+import org.eclipse.swt.layout.*;
+import org.eclipse.swt.layout.GridLayout; +
+
+public class WindowUsingComposite {
+  protected Shell shell;
+  private List list;
+  private Text thirdField;
+  private Text fourthField;
+
+  public static void main(String[] args) {
+    try {
+      WindowUsingComposite window = new WindowUsingComposite();
+      window.open();
+    } catch (Exception e) {
+      e.printStackTrace();
+    }
+  }
+
+  public void open() {
+    final Display display = Display.getDefault();
+    createContents();
+    shell.open();
+    shell.layout();
+    while (!shell.isDisposed()) {
+     if (!display.readAndDispatch()) {
+         display.sleep();
+       }
+     }
+  }
+
+  protected void createContents() {
+    shell = new Shell(SWT.SHELL_TRIM);
+    shell.setLayout(*new* FillLayout(SWT.HORIZONTAL));
+    shell.setSize(450, 384);
+    shell.setText("Window Using Composite");
+
+    CustomComposite customComposite = new CustomComposite(shell,SWT.NONE);
+
+    customComposite.setBrowseButtonText("Find...");
+    customComposite.setFirstFieldBackground(shell.getDisplay().getSystemColor(SWT.COLOR_YELLOW));
+
+    final GridLayout gridLayout = new GridLayout();
+    gridLayout.numColumns = 2;
+    customComposite.getComposite().setLayout(gridLayout);
+
+    final Label thirdFieldLabel = new Label(customComposite.getComposite(), SWT.NONE);
+    thirdFieldLabel.setText("Third Field");
+
+    thirdField = new Text(customComposite.getComposite(), SWT.BORDER);
+    final* GridData gd_thirdField = new GridData(SWT.FILL, SWT.CENTER, true, false);
+    thirdField.setLayoutData(gd_thirdField);
+
+    final Label fourthFieldLabel = new Label(customComposite.getComposite(), SWT.NONE);
+    fourthFieldLabel.setText("Fourth Field");
+
+    fourthField = new Text(customComposite.getComposite(), SWT.BORDER);
+    final GridData gd_fourthField = new GridData(SWT.FILL,SWT.CENTER, true, false);
+    fourthField.setLayoutData(gd_fourthField);
+
+    list = new List(customComposite.getComposite(), SWT.BORDER);
+    list.setItems(new String[] {"First Item", "Second Item"});
+    list.setLayoutData(new GridData(SWT.FILL, SWT.FILL, false,true, 2, 1));
+  }
+}</code></pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,111 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.6.1
+Build-Jdk-Spec: 17
+Bundle-ManifestVersion: 2
+Bundle-Name: %Bundle-Name
+Bundle-Vendor: %Bundle-Vendor
+Bundle-Version: 10.1.0.202409041830
+Bundle-Localization: plugin
+Bundle-SymbolicName: org.eclipse.tracecompass.analysis.profiling.doc.use
+ r;singleton:=true
+Require-Bundle: org.eclipse.help
+Eclipse-SourceReferences: scm:git:https://github.com/eclipse-tracecompas
+ s/org.eclipse.tracecompass;path="doc/org.eclipse.tracecompass.analysis.
+ profiling.doc.user";commitId=068681cbcbbafcd4ab3c735a1b151a179333addd
+Bundle-License: Eclipse Public License 2.0
+
+Name: index/segments_1
+SHA-256-Digest: gymOfGsaFkVbMtoZX4UMGlTk2XbwBIHO1FiHU+EWe+A=
+
+Name: plugin.xml
+SHA-256-Digest: IuNvOWLs7m0JLtu81ZBfsunAJ6b3Nu1+oFqFYwlPGys=
+
+Name: index/indexed_docs
+SHA-256-Digest: wCRcdOcZCYYesKs059yws0PkVW+5HbMsEOu79RytRLQ=
+
+Name: doc/images/home.gif
+SHA-256-Digest: 4cB3uzSzawBtPtcQboiWU16+RMytdhxFuZZGzwENCF8=
+
+Name: index/_1_Lucene84_0.pos
+SHA-256-Digest: d6CfRiz/3X1eIzc/Oi3LSt4ORCyYFZ+iqb2v4HR9hNQ=
+
+Name: index/_1.si
+SHA-256-Digest: npFdrOTajrvIjK+ygBiJEvgUvvSFBEtawBf0TU/JYOg=
+
+Name: index/_1_Lucene84_0.tim
+SHA-256-Digest: xH/xKBKA57gldep71yKErHDo7l1uTUz8vFbXDF16kZ8=
+
+Name: META-INF/maven/org.eclipse.tracecompass/org.eclipse.tracecompass.a
+ nalysis.profiling.doc.user/pom.properties
+SHA-256-Digest: b1tAs8YfJ6gS3nTN1kG0C9kwclkqA1e8cwxJgqpQMkM=
+
+Name: doc/User-Guide.html
+SHA-256-Digest: JK5d6WpvRq8dbgvJoKbfZos3pM5XHUduRGB/XqB50/Q=
+
+Name: index/_1.nvm
+SHA-256-Digest: 8v+ACsQoF+YNgDK9G5aXxH9lr6Lc7/A7uIZtwOWWPH0=
+
+Name: index/_1_Lucene84_0.tip
+SHA-256-Digest: XdxPnr9QwUBrx4rXCkLEllE8xX433npTeN4iKiIuS9E=
+
+Name: index/_1.fnm
+SHA-256-Digest: FK0aKcJMXGRPkbGnR5xmvZl4f6Aemi8Mkp6URR1ixJA=
+
+Name: index/_1.fdx
+SHA-256-Digest: tbMrfCjLtk0NoQ3oHbLUUxH0T4uubkxsrwKXkqfw8yw=
+
+Name: book.css
+SHA-256-Digest: UCuR8Qyhx1o7HqT9o8lvZb2d5k/w0hlkeZGQT0LLn0Y=
+
+Name: plugin.properties
+SHA-256-Digest: /PWt1ZiFh5mejifABIaqllHun7Z0yh7uqIiS2nPpkI8=
+
+Name: doc/images/next.gif
+SHA-256-Digest: IFqoxpwo9EXNAc2xh0M2KmlZWC1RBMxv8nWCwhMwRtI=
+
+Name: doc/Additional-documentation-for-developers.html
+SHA-256-Digest: 2Aqw9Dswq9CeUdSwfbas5wRxN3KcU1VqlpXpzrZc3oc=
+
+Name: doc/User-Guide-toc.xml
+SHA-256-Digest: GNMO+Di7gWNc2NrI61wfJzSMNEyjHkXVVYQ4+7KfSpQ=
+
+Name: index/_1.fdt
+SHA-256-Digest: cldG7/O2V5IM9ZqUMOY3hVjKBrCYb+iOI4dvuAagI8s=
+
+Name: about.html
+SHA-256-Digest: 9BvQ3UCPxYFOxMpKehSd9Ke6k06tZDWooQqwmVZfmgg=
+
+Name: doc/Terminology.html
+SHA-256-Digest: eV4DAcof0sBeeIlDQlUuAjswfVkx7chwpUZ0fGStGnE=
+
+Name: index/write.lock
+SHA-256-Digest: 47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+
+Name: doc/User-Guide.mediawiki
+SHA-256-Digest: yGloP/P6U8H4clupDxQ95KlD8Fu7IpQv/QYwJhXgFnQ=
+
+Name: index/_1_Lucene84_0.doc
+SHA-256-Digest: 8frrVeDEyGIj4rMu+1fp/UsDgFeaoCkojantSTxQlsk=
+
+Name: index/indexed_dependencies
+SHA-256-Digest: qOFoq952prkpQTVpEv8Ie1Vpk4bbTfXH2VHIISSoOe8=
+
+Name: index/_1.nvd
+SHA-256-Digest: 5XSlgB0w4Vw/ZNYK6EoFmZyCT6kJvIjAoQgRlhIW0WE=
+
+Name: index/indexed_contributions
+SHA-256-Digest: CcYWQmAep+8TWDuy4RD7j9Ko82OFvGC15r4HBcV/6os=
+
+Name: doc/Analyses-and-views.html
+SHA-256-Digest: yiR1i32OjYzs67IRcY723R8px6ZYwxlFmoeuL/I1ZkA=
+
+Name: doc/Overview.html
+SHA-256-Digest: EvSQCq56zqwWnwECEbutJgJGT3In3xgJds3dfBZYIu8=
+
+Name: META-INF/maven/org.eclipse.tracecompass/org.eclipse.tracecompass.a
+ nalysis.profiling.doc.user/pom.xml
+SHA-256-Digest: Hr1Sq9MAyjKVsiCEWCjO+6zA9fWvAW7YUxhU0gBqXHw=
+
+Name: doc/images/prev.gif
+SHA-256-Digest: I4Bs/TypPpF2FValAaI3lNDWuD4KFikkGjdaeiyR4Yc=
+

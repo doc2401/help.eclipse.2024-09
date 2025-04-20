@@ -1,0 +1,176 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.6.2
+Build-Jdk-Spec: 21
+Bundle-ManifestVersion: 2
+Bundle-Name: %bundleName
+Bundle-SymbolicName: org.eclipse.linuxtools.rpm.ui.editor.doc; singleton
+ :=true
+Bundle-Version: 1.0.0.202409032037
+Bundle-Vendor: %provider
+Bundle-Localization: plugin
+Require-Bundle: org.eclipse.help
+Automatic-Module-Name: org.eclipse.linuxtools.rpm.ui.editor.doc
+Eclipse-SourceReferences: scm:git:https://github.com/eclipse-linuxtools/
+ org.eclipse.linuxtools;path="rpm/org.eclipse.linuxtools.rpm.ui.editor.d
+ oc";commitId=78a78d86ce2af1eeacc1b1cff25ca16ce2472cde
+Bundle-License: Eclipse Public License v2.0
+
+Name: Linux_Tools_Project/SpecfileEditor/User_Guide/images/Screenshot-ta
+ skscreenshot.png
+SHA-256-Digest: koJS6yBPi2fNFQJpMl0AubGmszEMI1zBO3qmOGr+F/o=
+
+Name: plugin.xml
+SHA-256-Digest: spd32ogs74Bbbs+6cjNzEkoTZMCKPBUoQWkBebYhL0Y=
+
+Name: Linux_Tools_Project/SpecfileEditor/User_Guide/images/Specfile_impo
+ rt_select_srpm.png
+SHA-256-Digest: UeoWGez3+/fV/wnw9bybXKfxv7fW1LDbFtNlHcbOB48=
+
+Name: Linux_Tools_Project/SpecfileEditor/User_Guide/images/SpecfileEdito
+ r_rpmMenu.png
+SHA-256-Digest: Tp4ABfIM3X2hczVA/MmEbA9ztQhvXzKYvg2ErgWoosw=
+
+Name: Linux_Tools_Project/SpecfileEditor/User_Guide/images/Specfile_sett
+ ings_rpms_details.png
+SHA-256-Digest: aiY5SM2E9ms/rhNjmkcV2BJ1pNOf7yLDwv5FsSAoCvA=
+
+Name: Linux_Tools_Project/SpecfileEditor/User_Guide/User-Guide.html
+SHA-256-Digest: 8BiJtaU84U7/BEWqgwPa8cAS5BU9hMZ8/MpjPk390Ig=
+
+Name: Linux_Tools_Project/SpecfileEditor/User_Guide/General-Usage.html
+SHA-256-Digest: KN0hFMd2PX52/eYXKipwOOjfSOmnXaa3ZPoghgFGzLE=
+
+Name: Linux_Tools_Project/SpecfileEditor/User_Guide/images/Specfile_sett
+ ings_templates.png
+SHA-256-Digest: D8ozJUFjP2MJwwtyhgs3BYRkVZHQvFSacYgrH6Nmmq8=
+
+Name: images/prev.gif
+SHA-256-Digest: I4Bs/TypPpF2FValAaI3lNDWuD4KFikkGjdaeiyR4Yc=
+
+Name: Linux_Tools_Project/SpecfileEditor/User_Guide/images/Screenshot-ed
+ ittemplate.png
+SHA-256-Digest: WHwl8k37bIe3sma6wjOAacpJdlnr5S4Mrq/6++uL/uk=
+
+Name: Linux_Tools_Project/SpecfileEditor/User_Guide/images/Specfile_sett
+ ings_macros.png
+SHA-256-Digest: V9p43rRD13iBMW+qcsESJ8qazdSDxPO+8a5BYSsxJH4=
+
+Name: Linux_Tools_Project/SpecfileEditor/User_Guide/images/Specfile_sett
+ ings_rpms_generic.png
+SHA-256-Digest: P4j43DsSkXcykRz5BMV8nsNMvTDdlzLbsCRq2bYmgg4=
+
+Name: Linux_Tools_Project/SpecfileEditor/User_Guide/images/SpecfileEdito
+ r_hyperlinksAfter.png
+SHA-256-Digest: HMJdK/CMEpFeLBKB2ND2w7ArKsBhTRHfBI9Q/GJ+Q7E=
+
+Name: Linux_Tools_Project/SpecfileEditor/User_Guide/images/Specfile_sett
+ ings_rpmlint.png
+SHA-256-Digest: q6ITQ+JPsbg1m0xXvwKI0HffxQHM4fKeKSXAMd8GXjA=
+
+Name: plugin.properties
+SHA-256-Digest: 38UnL+BTLtnhRMeCNtnktu6Pqry7wX45EUXLnmR/Djg=
+
+Name: Linux_Tools_Project/SpecfileEditor/User_Guide/images/Specfile_rpml
+ int_fix_after.png
+SHA-256-Digest: X1F26v7roMpWmLnjUwJ3gmF+ZWa8NhDLD/Nlg84y3qI=
+
+Name: Linux_Tools_Project/SpecfileEditor/User_Guide/images/SpecfileEdito
+ r_patchSourceImprovement.png
+SHA-256-Digest: 7vO1JVi9JzDFDT5EWFMoUXyzqKpOZi/v8bkm9nCEpYw=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: Linux_Tools_Project/SpecfileEditor/User_Guide/images/Specfile_rpml
+ int_fix_before.png
+SHA-256-Digest: spwaTgRf/H3phHTMC14mYMAFhR/xVAwT8hd/TNCMcXs=
+
+Name: Linux_Tools_Project/SpecfileEditor/User_Guide/images/RPM_NewProjec
+ t.png
+SHA-256-Digest: jesCMlhQNvagKtc82tRvyE13bEADsOYJ1MpnS9QU0Vw=
+
+Name: Linux_Tools_Project/SpecfileEditor/User_Guide/images/Specfile_sett
+ ings_changelog.png
+SHA-256-Digest: K26tiaz1fcaTltxIbOVs8V9tKaTaJODCWO78HJtxW80=
+
+Name: Linux_Tools_Project/SpecfileEditor/User_Guide/images/Specfileedito
+ r_rpmlint.png
+SHA-256-Digest: NEt/KWRJHyJabqF3zSZXXRN5uJKAbRncSv2U2C0JeYI=
+
+Name: images/home.gif
+SHA-256-Digest: 4cB3uzSzawBtPtcQboiWU16+RMytdhxFuZZGzwENCF8=
+
+Name: Linux_Tools_Project/SpecfileEditor/User_Guide/images/Specfile_new_
+ wizard.png
+SHA-256-Digest: dawkmf7pwy5V4DcOFwK3/hj1b9n9BRZ7S1M+DCDABS8=
+
+Name: Linux_Tools_Project/SpecfileEditor/User_Guide/Installing.html
+SHA-256-Digest: MbaMRo4rzQd12nFx8G0NXB6jGk00hiTU6cpvFreHk14=
+
+Name: Linux_Tools_Project/SpecfileEditor/User_Guide/images/Specfile_prob
+ lems_rpmlint.png
+SHA-256-Digest: 1uO7HxjFMvupu4gW/uGx5nfGKmUubIXLg3z6WeZAE90=
+
+Name: Linux_Tools_Project/SpecfileEditor/User_Guide/Updating-This-Docume
+ nt.html
+SHA-256-Digest: 1hT/MmM4ccpL71XM7FcWQrMnr8mJkcbsqRTCD/Iaz1Y=
+
+Name: META-INF/maven/org.eclipse.linuxtools.rpm/org.eclipse.linuxtools.r
+ pm.ui.editor.doc/pom.properties
+SHA-256-Digest: 7ISW029mutLppRDBywTFaJzwIjHYmXDxm9CKBzOIyww=
+
+Name: images/next.gif
+SHA-256-Digest: IFqoxpwo9EXNAc2xh0M2KmlZWC1RBMxv8nWCwhMwRtI=
+
+Name: Linux_Tools_Project/SpecfileEditor/User_Guide/images/Specfile_impo
+ rt_srpm.png
+SHA-256-Digest: 9cM0wxZxFZ09xp+uNzX/88IE2pZt2K264o4yfsjhrFQ=
+
+Name: Linux_Tools_Project/SpecfileEditor/User_Guide/Configuring-Specfile
+ -Editor-Settings.html
+SHA-256-Digest: piTCYR7CEZpotxe73Th82JSZODKL76rXkAq46uskJbg=
+
+Name: Linux_Tools_Project/SpecfileEditor/User_Guide/images/Specfile_macr
+ os_content.png
+SHA-256-Digest: QiWpSSUJbh8wQHAAjlU8bhlARC4VQPU3xnp0cKzeUMU=
+
+Name: Linux_Tools_Project/SpecfileEditor/User_Guide/Import-src-rpm.html
+SHA-256-Digest: 5l+Xko7q/+2hZ2c/ncbuO2AVok5XyWdTxoqSqiyGZKI=
+
+Name: Linux_Tools_Project/SpecfileEditor/User_Guide/images/SpecfileEdito
+ r_rpmToolbar.png
+SHA-256-Digest: E/9rzsoN4mg21sNt9ahvYx++FugaoVdb+b5OyTIf4/A=
+
+Name: Linux_Tools_Project/SpecfileEditor/User_Guide/images/Specfile_new_
+ from_template.png
+SHA-256-Digest: OwL3Aqwlg8yaBQBk13KMrDPnZJ8aicuH3E/CQ8bpQPI=
+
+Name: Linux_Tools_Project/SpecfileEditor/User_Guide/images/Specfile_sett
+ ings_tasks.png
+SHA-256-Digest: SoE7iOD6M89OjCjrDX3LMpZVjlxxBepcyPK5XzNqM98=
+
+Name: toc.xml
+SHA-256-Digest: tsc5+Di6dPKuEo+vYFHhoy5+ajJVyDi5M9nSUTXYtgw=
+
+Name: Linux_Tools_Project/SpecfileEditor/User_Guide/images/Specfile_gene
+ ric.png
+SHA-256-Digest: uwQIoof+n8RWoVbaUSVweW+AaFbV+9Afs2jhZNf7xho=
+
+Name: Linux_Tools_Project/SpecfileEditor/User_Guide/images/Specfile_rpml
+ int_quickfix.png
+SHA-256-Digest: 4kV3p0v2TtrWqBP1XOK9wL5CI9y9mA5i4yjr9Wbqq58=
+
+Name: toc-doc.xml
+SHA-256-Digest: NSpD07pgBxHcXeD7CuZee5HZutEe+6BTOOUDmqbycvs=
+
+Name: Linux_Tools_Project/SpecfileEditor/User_Guide/images/Specfile_macr
+ os_description.png
+SHA-256-Digest: UkqoTXhV3DlFOk/C7GU6PlbkaKGfLLdWg9V4LlTehrQ=
+
+Name: META-INF/maven/org.eclipse.linuxtools.rpm/org.eclipse.linuxtools.r
+ pm.ui.editor.doc/pom.xml
+SHA-256-Digest: Oh0Lt0zS2TbKQpBnnUz1L+wXEotkOlfRHV15yPJa798=
+
+Name: doc/notices.html
+SHA-256-Digest: at9PtgtJIuEsmGT6HoXxBZwn+OlhlzntSc7Ujfijh50=
+

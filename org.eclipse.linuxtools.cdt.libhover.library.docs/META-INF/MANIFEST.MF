@@ -1,0 +1,60 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.6.2
+Build-Jdk-Spec: 21
+Bundle-ManifestVersion: 2
+Bundle-Name: %bundleName
+Bundle-SymbolicName: org.eclipse.linuxtools.cdt.libhover.library.docs;si
+ ngleton:=true
+Bundle-Version: 1.0.2.202409032037
+Bundle-Vendor: %provider
+Bundle-Localization: plugin
+Require-Bundle: org.eclipse.help
+Automatic-Module-Name: org.eclipse.linuxtools.cdt.libhover.library.docs
+Eclipse-SourceReferences: scm:git:https://github.com/eclipse-linuxtools/
+ org.eclipse.linuxtools;path="libhover/org.eclipse.linuxtools.cdt.libhov
+ er.library.docs";commitId=78a78d86ce2af1eeacc1b1cff25ca16ce2472cde
+Bundle-License: Eclipse Public License v2.0
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: plugin.xml
+SHA-256-Digest: eWNlLIv+EASIt2Zl68wAahAZC52uwWQT1VKurDNIc1o=
+
+Name: images/home.gif
+SHA-256-Digest: 4cB3uzSzawBtPtcQboiWU16+RMytdhxFuZZGzwENCF8=
+
+Name: META-INF/maven/org.eclipse.linuxtools.cdt.libhover/org.eclipse.lin
+ uxtools.cdt.libhover.library.docs/pom.xml
+SHA-256-Digest: Rq/W/QxiGVJ2/l2HKlqVRSulbZn9hAfhP6t0wkb3X4o=
+
+Name: Linux_Tools_Project/Libhover/Developers_Guide/Updating-This-Docume
+ nt.html
+SHA-256-Digest: PLCFwnrt+ZsDsnSkyvRiMeOrGVry0sMK5a+Q3cQjT7Y=
+
+Name: libraries.xml
+SHA-256-Digest: +CiRU9ToLuP4QDPj5M4y3F7el7fAuDtWm18qkHjz1Is=
+
+Name: images/next.gif
+SHA-256-Digest: IFqoxpwo9EXNAc2xh0M2KmlZWC1RBMxv8nWCwhMwRtI=
+
+Name: images/prev.gif
+SHA-256-Digest: I4Bs/TypPpF2FValAaI3lNDWuD4KFikkGjdaeiyR4Yc=
+
+Name: META-INF/maven/org.eclipse.linuxtools.cdt.libhover/org.eclipse.lin
+ uxtools.cdt.libhover.library.docs/pom.properties
+SHA-256-Digest: VBF55i/Pnhd629yat8PDSjOxfws4ZPoAc+7BMAU9Z60=
+
+Name: Linux_Tools_Project/Libhover/Developers_Guide/Developers-Guide.htm
+ l
+SHA-256-Digest: uCdzD5fr8+ttBvmX65bo3IGvNlhWs5Nf/M8ZjZ58nhw=
+
+Name: toc.xml
+SHA-256-Digest: w96U0ChzIUHxxOPI3B6JM/a62wQR73mABCHQmCa/Asc=
+
+Name: plugin.properties
+SHA-256-Digest: Pb3rLBhrmzFP9o4YmGar+xPc097/lCvz7pgLfCZfANc=
+
+Name: doc/notices.html
+SHA-256-Digest: at9PtgtJIuEsmGT6HoXxBZwn+OlhlzntSc7Ujfijh50=
+

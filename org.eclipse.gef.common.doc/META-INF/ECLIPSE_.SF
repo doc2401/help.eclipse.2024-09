@@ -1,0 +1,910 @@
+Signature-Version: 1.0
+Created-By: 11.0.21 (Eclipse Adoptium)
+SHA-256-Digest-Manifest: h9q8u1BBYEFrq6g60au451gfZ1J7Hr0Se6CuzuinfgA=
+SHA-256-Digest-Manifest-Main-Attributes: KMUScTGPwpW0IvjV9EH71+ds0SDMEki
+ CkXVttqd0jYU=
+
+Name: plugin.xml
+SHA-256-Digest: eps6q1TMmSg81iimAz/8x6EhRmpafcThiK41agwlVOA=
+
+Name: reference/api/org/eclipse/gef/common/adapt/inject/AdapterInjection
+ Support.html
+SHA-256-Digest: kyI68Tmz5ATPommPc2wiEH9FgjhLVf2tV/hvCTGNVGI=
+
+Name: reference/api/package-search-index.js
+SHA-256-Digest: b5sVc4zYEvr5gLfiSAunezdZqBh3/eqjzRM1T3L4IKE=
+
+Name: reference/api/org/eclipse/gef/common/beans/binding/class-use/SetMu
+ ltimapExpression.html
+SHA-256-Digest: vb+SJMU0l+DRLqJZnhV5UkItof83ABLv0nY/jbNxGe4=
+
+Name: reference/api/org/eclipse/gef/common/collections/class-use/ListLis
+ tenerHelperEx.ElementarySubChange.html
+SHA-256-Digest: W07kKVEWWa0xgfMbZm6lHQ20AUj4iiQp6DDC2lnwDxE=
+
+Name: reference/api/org/eclipse/gef/common/collections/class-use/SetMult
+ imapChangeListener.html
+SHA-256-Digest: Y7y47oRBLOJ9CzbYEFOdCfPpZs4s0zWVG0017cMptk4=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/ReadOnlyMapWra
+ pperEx.html
+SHA-256-Digest: qHY80IYTiWvsMYocuQxwIV9XOVMX8IGgdZ9UcfZA4aU=
+
+Name: reference/api/org/eclipse/gef/common/collections/class-use/ListLis
+ tenerHelperEx.AtomicChange.html
+SHA-256-Digest: pCuhCOscXXpFK2cn7mvuckZGCBbKHqmiE5zYYVk0pGE=
+
+Name: reference/api/org/eclipse/gef/common/collections/CollectionUtils.h
+ tml
+SHA-256-Digest: Hwyu16lg6E/HhBT3GOaSYwnixxctuC9dQZb8smhAb+Q=
+
+Name: book.css
+SHA-256-Digest: o8Ta1we9nKJry2fqSVWPmJiIa5HghiFAFWC0WkHwLuM=
+
+Name: about.ini
+SHA-256-Digest: E/MFHqbh59kyPS3W18LJs3iX9hQALC2kFL2BMdlR10s=
+
+Name: reference/api/org/eclipse/gef/common/beans/binding/class-use/SetEx
+ pressionHelperEx.html
+SHA-256-Digest: 3b48g6pTeDYAWtGH5nj6FWmvGegRfYQ2VOzED3ng140=
+
+Name: reference/api/org/eclipse/gef/common/adapt/inject/class-use/Adapta
+ bleTypeListener.html
+SHA-256-Digest: awcJ5QQTKDYaPdcQq39FkGRvcK4qT8KdyKWZRb7VHH0=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/class-use/Simp
+ leMapPropertyEx.html
+SHA-256-Digest: 5RDdbHpOeed0lhn/p18q4R8dMydCgiwcooS7rm2wCZo=
+
+Name: reference/api/index-files/index-12.html
+SHA-256-Digest: DT8d9auam7zdW3hxX2DX9rljji+IAg/8kJAbjtjpBdc=
+
+Name: reference/api/org/eclipse/gef/common/collections/class-use/SetList
+ enerHelperEx.AtomicChange.html
+SHA-256-Digest: obe6xbHhTuNGbtpWDcJX+aZi2ihS1gmhamTG663IVDg=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/class-use/Read
+ OnlySetMultimapProperty.html
+SHA-256-Digest: y8ifJYXgR0CmACT5xHGpOl/Fx0Gr1/zogAPpl0dL2og=
+
+Name: reference/api/org/eclipse/gef/common/beans/binding/class-use/Multi
+ setBinding.html
+SHA-256-Digest: RzF4PMW0oIeq1CFzYAul+DsjE+n17ZwWp11LUsVzW70=
+
+Name: reference/api/org/eclipse/gef/common/collections/MultisetChangeLis
+ tener.Change.html
+SHA-256-Digest: NI9kcXqwfH/nLt9RMJLh8JJeWDKrhKD8nJD26OUJ1d4=
+
+Name: reference/api/org/eclipse/gef/common/reflect/Types.html
+SHA-256-Digest: 92j17vNnW0Rn88He6EgNXygGhP0aGy9hrobvkyAWgrk=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/class-use/Simp
+ leMultisetProperty.html
+SHA-256-Digest: 944AFcKhFtjvq82sRt2yE8VSMCFJ/wBbiGDoYY8Ra4A=
+
+Name: reference/api/org/eclipse/gef/common/collections/MultisetChangeLis
+ tener.html
+SHA-256-Digest: 8h7/cZ94ZLUCj5zvnjX58tAOLL9QjPJu50XY6y2HWUM=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/SimpleListProp
+ ertyEx.html
+SHA-256-Digest: T9+W18oNC6/9BLU+XwRszIwxJMmebEG7UjOYiML7ITs=
+
+Name: reference/api/org/eclipse/gef/common/beans/binding/package-summary
+ .html
+SHA-256-Digest: 6sP/z94Ukv9n0KxneXlD0D7BLxoYFzyBSForEdhSw58=
+
+Name: reference/wiki/images/common/GEF-Common-beans-binding-fxreplacemen
+ ts.png
+SHA-256-Digest: +9ql5ZP0bPgqHnyILuXfv/HBhM9hcNi0fiIt5jpl3SU=
+
+Name: reference/api/org/eclipse/gef/common/beans/binding/package-tree.ht
+ ml
+SHA-256-Digest: hRXvPjb+WhZH8ePB7lG7Ry1a5mxS/Y9R90ABgnS7oJo=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/class-use/Read
+ OnlyListWrapperEx.html
+SHA-256-Digest: eegDkPVG5nX302yZYoUSDcfHV6WG0zPdi/nZhDah6bI=
+
+Name: reference/api/index-files/index-5.html
+SHA-256-Digest: luV6siyBxuVzL714+9rksLCHupqPmpX97c4uXMh7yAQ=
+
+Name: reference/api/org/eclipse/gef/common/adapt/package-summary.html
+SHA-256-Digest: 0u66/9hKkBx30lbJ0HmZ4a2ibmEjuTnmC8BnAeHqNlI=
+
+Name: reference/api/org/eclipse/gef/common/dispose/package-summary.html
+SHA-256-Digest: o2H0QF2HSa+Wg8QyUOeURhtaxFD0rpURpAqjCpXdcQ8=
+
+Name: reference/api/org/eclipse/gef/common/adapt/package-use.html
+SHA-256-Digest: n5Zba1l3vo7ERiJ0vou1CADb/tQO/jiIie1kI0avaEQ=
+
+Name: reference/api/index-files/index-14.html
+SHA-256-Digest: Gf1snQM9Dmb2W0TW4wO88ewWVTCVAc1D/y781ZvXKBk=
+
+Name: reference/api/org/eclipse/gef/common/beans/value/class-use/Writabl
+ eMultisetValue.html
+SHA-256-Digest: SGKHSnN3/rDGQNXLlnZ1zcfqtVHL28T7/BdaKlHPjGc=
+
+Name: reference/api/org/eclipse/gef/common/collections/SetMultimapListen
+ erHelper.AtomicChange.html
+SHA-256-Digest: SNAxhW6uIl7TUAcJH4zSa9F356T5nbpB/Pq71XuHn3E=
+
+Name: reference/api/script-dir/jquery-ui.min.css
+SHA-256-Digest: ztD2jdAdkPhQdLW4wWLmKpSIKMNIYwQwK+uAnVoAyBc=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/SetMultimapPro
+ perty.html
+SHA-256-Digest: tmIfR6G5+jXf6fuZiSbPdkKaC7p8te8C5aiMf+pHb2w=
+
+Name: reference/api/org/eclipse/gef/common/adapt/class-use/IAdaptable.Bo
+ und.html
+SHA-256-Digest: rN2PFlhpYInmZfIelCHR52Y1BfGluD5q6O3nA/LCi60=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/ReadOnlyMultis
+ etProperty.html
+SHA-256-Digest: HuBtHDjIY5Fprs8jwSBeAvYgisACCLYRZYKzi1XhUjQ=
+
+Name: reference/api/org/eclipse/gef/common/beans/binding/MultisetExpress
+ ion.html
+SHA-256-Digest: kYldmzFc7lHLjB6iYHDl9BrTmkQE0GrC3woLcN1bFM0=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/class-use/SetM
+ ultimapPropertyBase.html
+SHA-256-Digest: fA7PUaXEZA9Vq5ym4zpd/KotAAEa7RjNSr2Dd1VHapw=
+
+Name: about.mappings
+SHA-256-Digest: xnSR7PL6J0yjuplmkAT7IktX9vrQSuYswdKHZSKdXT8=
+
+Name: reference/api/org/eclipse/gef/common/reflect/package-summary.html
+SHA-256-Digest: Ayh9Mkvbeh2FqSRTThVKovdtWa9ITX7uWIGejO1tfJQ=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/class-use/Read
+ OnlyMapPropertyBaseEx.html
+SHA-256-Digest: WpNN0UgoAtkkUI30CB73XlAUQvYaDjDh9OmRaldjBS4=
+
+Name: reference/api/index-files/index-9.html
+SHA-256-Digest: MnbpPzbBo5gX/pwtFGVDK1qIzIuwEzsQlfsRDKj5h7M=
+
+Name: reference/api/org/eclipse/gef/common/collections/ListListenerHelpe
+ rEx.ElementarySubChange.Kind.html
+SHA-256-Digest: L6Zo3C2zIDZQxRDKdcXqRl1+Cvz6TL1+wV+XoJQC4lo=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/SimpleMultiset
+ Property.html
+SHA-256-Digest: H6qtiRo1tdTMqW0HRjS5U8dSx95NSCZFXVlY870xx/E=
+
+Name: reference/api/org/eclipse/gef/common/collections/class-use/Multise
+ tChangeListener.html
+SHA-256-Digest: gWUAjlUErWXtMHSUyABrQ+CQZ9eOb2JETIODPjCDUmQ=
+
+Name: reference/api/index-files/index-3.html
+SHA-256-Digest: nIcgYL4l2+OUcYMbEBV54m5LO9TTc5yQ9BdffbCriTo=
+
+Name: reference/api/org/eclipse/gef/common/collections/MultisetListenerH
+ elper.AtomicChange.html
+SHA-256-Digest: fw9yAIfnIK0m6Ev9lM2lKoa3M1dgPF8fLA4bMjDKA2k=
+
+Name: reference/api/allclasses-index.html
+SHA-256-Digest: r43BpdEK6we0E7cBaKGBi6PCds/b9ItwYWytJhtGMcY=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/class-use/Read
+ OnlyMultisetProperty.html
+SHA-256-Digest: lvtN7iUsnJOQc5hg7cpszdBXKtv0JHn0ukojXmz/nIY=
+
+Name: reference/api/org/eclipse/gef/common/adapt/inject/package-summary.
+ html
+SHA-256-Digest: b1Lh4nkIuV6GHo3DUAjWfOMpogI+NRQrms0ZliyLXWw=
+
+Name: reference/api/org/eclipse/gef/common/collections/class-use/Multise
+ tListenerHelper.AtomicChange.html
+SHA-256-Digest: pQbb9SsrHuiDhl73mGhoiQ3PkXOOMktqHbRXkBdus6s=
+
+Name: reference/api/org/eclipse/gef/common/beans/value/package-tree.html
+SHA-256-Digest: 4u2gq2cfg5YNBtwDlNZ4i1On6zIPH+Hhpy+Z2p/eQ/Q=
+
+Name: reference/api/org/eclipse/gef/common/collections/MapListenerHelper
+ Ex.AtomicChange.html
+SHA-256-Digest: vJZR10/NDk3wP0l0+GBXXmKzMbfVMVev3gloVvzJQWM=
+
+Name: reference/api/org/eclipse/gef/common/collections/class-use/SetMult
+ imapListenerHelper.ElementarySubChange.html
+SHA-256-Digest: aZEDvGTwct3AMfyo2nX+vXaGI1N5zew5KDAVm2AqvUw=
+
+Name: reference/api/org/eclipse/gef/common/beans/binding/class-use/Multi
+ setExpressionHelper.html
+SHA-256-Digest: rOGmZVQfrMck9BH1HT36N/NIttCjz8RkfPG3rc3ZkgI=
+
+Name: reference/api/org/eclipse/gef/common/adapt/class-use/AdaptableSupp
+ ort.html
+SHA-256-Digest: PC/8jvOwX7yqXMXJrCQImjLdZFzOu8vGnoEnldey+HY=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/class-use/Simp
+ leSetMultimapProperty.html
+SHA-256-Digest: TI9rT+GvS6khZQo7lJ0I9+q67mhjAi5LRlB6Rg6t1sw=
+
+Name: reference/wiki/images/common/GEF-Common-collections-guava.png
+SHA-256-Digest: Lcy6UIsN9Uwa9yRlZAg07Amf9tHVOmJZ2026Z7iRy8Q=
+
+Name: reference/api/org/eclipse/gef/common/adapt/class-use/IAdaptable.Bo
+ und.Impl.html
+SHA-256-Digest: +a8N053QJ3X+EHgJfpD9RInRqKtf4pOR74JszlVHjOc=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/class-use/Read
+ OnlyMapWrapperEx.html
+SHA-256-Digest: yhsJ82SIpdSvRXOP+PhD0+PRMaR6mFfavqa/1oreR8c=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/SimpleMapPrope
+ rtyEx.html
+SHA-256-Digest: SEl0Xgsp/8vSD9CQiUNh0eZzw5zb6cBq7htYBupapWs=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/ReadOnlySetPro
+ pertyBaseEx.html
+SHA-256-Digest: zoTIhvSenGdFyLtQ+eJiePiW1wNhPTvxWne+1vxTA5c=
+
+Name: reference/api/org/eclipse/gef/common/beans/binding/ListExpressionH
+ elperEx.html
+SHA-256-Digest: SfARuKxPn0xd14SIgbVPOMrmyI6pIfyGavUM6aBvLFo=
+
+Name: reference/wiki/images/common/GEF-Common-attributes.png
+SHA-256-Digest: X5rOZ/M4CXwQMwhVVY9q6s88rWpM4RJRRsiNxd//e7k=
+
+Name: reference/api/org/eclipse/gef/common/collections/SetMultimapChange
+ Listener.Change.html
+SHA-256-Digest: fCLV71orGXVA7x6YLegPqDpQX4j331pTNGWGNKcts4g=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/MultisetProper
+ tyBase.html
+SHA-256-Digest: lJUoHVoxUlbmMhYrFspqT4DavhZDbc4Mo0jWvs4Se3Q=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/class-use/Read
+ OnlyMultisetPropertyBase.html
+SHA-256-Digest: xcntnGT/I8ogl4yxh0GNUjGytezoBP5OAn7kO+CsbCo=
+
+Name: reference/api/org/eclipse/gef/common/adapt/inject/AdaptableScopes.
+ html
+SHA-256-Digest: 93CkM4hv/CQoPR08WR7SClQaARWwbcbwvk1XvGYJ/Ps=
+
+Name: reference/api/org/eclipse/gef/common/collections/class-use/SetMult
+ imapListenerHelper.AtomicChange.html
+SHA-256-Digest: l/IXssb9Ad4iDVrlL8T62f7jUjFkdFUWvPR0J2e5pio=
+
+Name: reference/api/org/eclipse/gef/common/reflect/class-use/Types.html
+SHA-256-Digest: xnG6EVvccstZNfn7Qa1Tv867r83CX2BMEKoUaEeKhD4=
+
+Name: reference/api/org/eclipse/gef/common/beans/binding/class-use/ListE
+ xpressionHelperEx.html
+SHA-256-Digest: 8V0ISexcgCnuWZZ/Ajm0tpucfTcVGawYa3XaYaXU/nI=
+
+Name: reference/wiki/images/common/GEF-Common-adapt.png
+SHA-256-Digest: DM3kNPIUJkFB5/n9GBir2H2iTDZMTmchaNpQXHyMleA=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/class-use/Read
+ OnlyMultisetWrapper.html
+SHA-256-Digest: +xhQaWHOnL8czFDk7tAF4fJr45RO2ubMQB2/YnQkh64=
+
+Name: reference/api/org/eclipse/gef/common/collections/class-use/Multise
+ tListenerHelper.html
+SHA-256-Digest: pJSLoK8U8F5FsyAKR7cuiZJSDbYIVqXJggPjMq0E2rc=
+
+Name: reference/api/org/eclipse/gef/common/collections/package-summary.h
+ tml
+SHA-256-Digest: bhK+JutdjsNFtR8VAKKGDVzawN4Kr8DYLSAkpDERmpY=
+
+Name: reference/api/index-files/index-21.html
+SHA-256-Digest: d50bfCsWa431qv3zsUv+JMSk+rFaIW+QEcMMN7RaWUo=
+
+Name: reference/api/index-files/index-20.html
+SHA-256-Digest: vfwxsEDl/2NZSiQx8FiCEqxkLF4RM/DhNeQGI5jqEIk=
+
+Name: reference/api/member-search-index.js
+SHA-256-Digest: oQSaoZXS3HBo9td3BnnSdhY9ocFrdrJkdWVu7sF1psc=
+
+Name: reference/wiki/images/common/GEF-Common-adapt-inject-adaptermaps.p
+ ng
+SHA-256-Digest: YnjJGJEPX7OLwB1L/amDXVCuY/DLp3yX4UVG04/q2oQ=
+
+Name: reference/wiki/images/common/GEF-Common-beans-value.png
+SHA-256-Digest: phgmWmM64Zu6JXoE7nUBR4sduk4lD2um2tApnr6VgEs=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/package-tree.h
+ tml
+SHA-256-Digest: Pr/T1na0O2WpoVvJZ5IOoFWDgikCh/KxkE2QNT+0GKk=
+
+Name: reference/api/element-list
+SHA-256-Digest: 3tV1ojRy5Pam8klsJv1CnybD3vBxjTxc117d6fqd/us=
+
+Name: reference/wiki/images/common/GEF-Common-adapt-inject-adaptablescop
+ es.png
+SHA-256-Digest: XKGhSjx/e5bnCUSF5UtaYxEuDpZCOiOppi0/5gYxYoU=
+
+Name: reference/api/org/eclipse/gef/common/dispose/package-tree.html
+SHA-256-Digest: pPr/97Yw12mGVBA5J5EukNBk9E7YIuEzKO9jwZHzazs=
+
+Name: reference/api/script.js
+SHA-256-Digest: MCZQZOY2mLkYMMQdm0LFnioohzmSkdZ7wBCJ7nLjTj4=
+
+Name: reference/api/org/eclipse/gef/common/beans/binding/SetMultimapExpr
+ ession.html
+SHA-256-Digest: +VVnF7MRMZvX90CPUExSj1oiOJ5CxYdagoaA5kePlaw=
+
+Name: reference/api/org/eclipse/gef/common/dispose/class-use/IDisposable
+ .html
+SHA-256-Digest: aM+qQT7V0LPArPZrW+zTVJAOr/PeLvIsopBI6z/1dGI=
+
+Name: reference/api/legal/jquery.md
+SHA-256-Digest: ONRWapOC3QYa+Y7PwCFlkaJKzf8+C23aU6obfjra1uc=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/SetMultimapPro
+ pertyBase.html
+SHA-256-Digest: e/GzICsDQ6obuCP/ZEL6RJVfMfB4jzL13P05bLr0F3s=
+
+Name: reference/api/org/eclipse/gef/common/adapt/inject/class-use/Adapte
+ rInjectionSupport.html
+SHA-256-Digest: Gqj9JTLiZjEUEXo8ynlJxlMVk6IC8EQdvphvd5SB49Y=
+
+Name: reference/api/org/eclipse/gef/common/adapt/inject/InjectAdapters.h
+ tml
+SHA-256-Digest: GxQuxlOIJC0B+D9Y3Welc/t4lgOHF1FUJhMwPc1CthE=
+
+Name: reference/api/tag-search-index.js
+SHA-256-Digest: SkGbbAfr4ESkM/W6n3KwJ6EazoLRfZtfkNkjf645N4c=
+
+Name: reference/api/org/eclipse/gef/common/collections/MapListenerHelper
+ Ex.html
+SHA-256-Digest: tubMvnWKPXZ9VrOKD4paaoQWBKt0h3gGeXOv1t6pY30=
+
+Name: reference/api/org/eclipse/gef/common/adapt/inject/AdapterMaps.html
+SHA-256-Digest: unC3b1TCFze/uTXiJ7Bal8rTkuj07BA0ZkcyUwBewGY=
+
+Name: reference/api/org/eclipse/gef/common/collections/ListListenerHelpe
+ rEx.AtomicChange.html
+SHA-256-Digest: Y6euuNQvLB+4BnkMUax+8fA7e9tW4mZC1qDwfjhhsL4=
+
+Name: reference/api/org/eclipse/gef/common/collections/class-use/ListLis
+ tenerHelperEx.html
+SHA-256-Digest: qxQNQ685DDhX1hR7FGUnEalWtK6Qx+EDVqv7CjEkqdM=
+
+Name: reference/api/org/eclipse/gef/common/collections/SetMultimapChange
+ Listener.html
+SHA-256-Digest: uxk9RujXvEZOLUlWCOf8qmaN1Jn0jAHlT1b8Y1bs33E=
+
+Name: reference/api/index-files/index-17.html
+SHA-256-Digest: dfWV5Tnc09H9WseXLlhnQpHKLdKQpJViDKt/XLxNDsM=
+
+Name: reference/api/org/eclipse/gef/common/beans/value/ObservableSetMult
+ imapValue.html
+SHA-256-Digest: mLCDoSLxc9DeL7JxkxH08yamBBGfgY5/n4NzHYzz//g=
+
+Name: reference/wiki/images/common/components.common.jpeg
+SHA-256-Digest: Bjfg8qDMGe6oQYgnBPU1EIg59rm6QGvbh/WSDG6Jcpg=
+
+Name: reference/api/org/eclipse/gef/common/reflect/package-tree.html
+SHA-256-Digest: bYqgcSnNxy76wzO3cQZ8MApie14o4fY6238KWkP99Yw=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/class-use/Simp
+ leListPropertyEx.html
+SHA-256-Digest: 3/HT2dL8dgaXS0GMjG24yRUVlmkyAVY7r85ZiFdZoB4=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/class-use/Simp
+ leSetPropertyEx.html
+SHA-256-Digest: uTSnjUsFIV1edxyNictPIO6t2AikvhPfwd+pG51+2rI=
+
+Name: reference/api/legal/jqueryUI.md
+SHA-256-Digest: Qxq++oGpPZXAGGGaaSga7TNLkvBABg2k3ntAv8zDAGM=
+
+Name: reference/api/org/eclipse/gef/common/adapt/AdapterStore.html
+SHA-256-Digest: /o+WmvExLlKzUrkZM0lr9y7uZWksYMy7o+5Xx1QXNno=
+
+Name: reference/api/org/eclipse/gef/common/beans/binding/class-use/SetMu
+ ltimapBinding.html
+SHA-256-Digest: P5iARQUzkW22PlEM6DuGbk8zjW28ulr2WWA7GigT/2s=
+
+Name: reference/api/script-dir/jquery-3.6.1.min.js
+SHA-256-Digest: O6gOvzU8GwHlIP87JHHOyOexoatd1q7k67ltUQdwSsA=
+
+Name: reference/api/org/eclipse/gef/common/collections/class-use/SetMult
+ imapListenerHelper.html
+SHA-256-Digest: 55MoVBHrrDPBvz7SCc0Gk2q8q+DwrAV2gImoS5fEirw=
+
+Name: reference/api/index-files/index-16.html
+SHA-256-Digest: 4LGvx54hHLeC3SuVXTaZQKbUP6Lt55/knb9TjAAs4dQ=
+
+Name: reference/api/org/eclipse/gef/common/collections/MultisetListenerH
+ elper.ElementarySubChange.html
+SHA-256-Digest: xa572nzalHqnAk31gBc2amOMEg69uo1K2wyvsZLO2BA=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/class-use/Read
+ OnlySetPropertyBaseEx.html
+SHA-256-Digest: t0FQDUT8sNzjWR9v6tVg/UdUYT5dCsNZgHdMXfq8ve0=
+
+Name: reference/api/org/eclipse/gef/common/adapt/package-tree.html
+SHA-256-Digest: 0StjxCCtfpoYWVJAtw9xrHUsfaIXuur+cqItNt/Uomk=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/SimpleSetMulti
+ mapProperty.html
+SHA-256-Digest: 2+nWsgH4i2DmpXw6e+26oqHVuRLX+sbculT06dgsYKg=
+
+Name: reference/api/index-files/index-7.html
+SHA-256-Digest: i11rHhFu2n+kI7Fjz6V+Ref/Fci0qNRtCx3JMF4Q9BI=
+
+Name: reference/api/index-files/index-1.html
+SHA-256-Digest: Uspj4Uv6lQDpkg3Uf84WQ8e1kuQ4vFI0TyGhDFvs+Gc=
+
+Name: reference/wiki/images/common/GEF-Common-beans-property-guava.png
+SHA-256-Digest: UtnLJ/IvnUfuBk+YD6KfPGx32Dd5lHycCVbjdTSBbhY=
+
+Name: reference/api/org/eclipse/gef/common/activate/package-use.html
+SHA-256-Digest: lotXp3FsKaAR1D5dR2qi/ztw02moyY007vugmBrsyl4=
+
+Name: reference/api/org/eclipse/gef/common/beans/value/WritableSetMultim
+ apValue.html
+SHA-256-Digest: 7u71B41hdA1lcaG8521qdadQZwrXfiUVyONFs0zflAg=
+
+Name: reference/api/org/eclipse/gef/common/collections/class-use/MapList
+ enerHelperEx.AtomicChange.html
+SHA-256-Digest: mnyvy15cE/1tK+0ErPO4brdiWKZkAZ6Z6baO2wIWZpo=
+
+Name: reference/api/org/eclipse/gef/common/reflect/class-use/ReflectionU
+ tils.html
+SHA-256-Digest: zeNJO6XFiy2db/UF2IRjHHJQGDq+wWMbwnWRh3D+SO8=
+
+Name: reference/api/index-files/index-10.html
+SHA-256-Digest: Zl89PQNNtEYIGPa4vwqGlSbICyU1qMd375Vdz8/Tjgg=
+
+Name: reference/api/org/eclipse/gef/common/collections/ObservableSetMult
+ imap.html
+SHA-256-Digest: LeDGVMOKSxaO4X1scBgxqWhvwJ2kIbnDlu8no2RbVd8=
+
+Name: reference/api/org/eclipse/gef/common/collections/class-use/Observa
+ bleMultiset.html
+SHA-256-Digest: RvK3o1VwGW1kDO4zNbHHAu/BeHOOmzUHN9m8+1p8ugg=
+
+Name: reference/api/org/eclipse/gef/common/collections/class-use/SetMult
+ imapChangeListener.Change.html
+SHA-256-Digest: S8+ZMulL84a/KFyjlDN2vlfJJDSu0J7vrsoP1XP5RYQ=
+
+Name: reference/wiki/images/common/GEF-Common-dispose.png
+SHA-256-Digest: 7+KsWFPd1LLaKhpeX8W/5m+8ocrWJiHSdKZ9ahGiohU=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/class-use/Read
+ OnlyListPropertyBaseEx.html
+SHA-256-Digest: jXKwIdzYdAeYFAQlgRGe5yzJakB7suyZfdHs3aKz54g=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/ReadOnlyMapPro
+ pertyBaseEx.html
+SHA-256-Digest: lUWTBBfrXIoAffDQC4BusXBeA1BT11j0X48eDL6OOYc=
+
+Name: reference/api/overview-tree.html
+SHA-256-Digest: nT7/2DvXHS3b+WjHQX7Tnn+PoEAuDkIjS8xpkya+HZo=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/package-use.ht
+ ml
+SHA-256-Digest: hsMrk9g+oD7H5BQ4DGzlb0HeQApKRGVNGnkA2Z/zYXo=
+
+Name: reference/api/org/eclipse/gef/common/activate/ActivatableSupport.h
+ tml
+SHA-256-Digest: 9Uh3gGf0f4yyq2JUiG7/1F1U/gXs0b17fsc0KLPoIz0=
+
+Name: reference/api/org/eclipse/gef/common/adapt/IAdaptable.Bound.html
+SHA-256-Digest: +HUzGG9I9uh8rjutuqnParO1piFY070iB90YWDKY7fE=
+
+Name: reference/api/index-files/index-13.html
+SHA-256-Digest: gO316DOsghQjeAU2VuLu9PG4j1R7/atepK2OUXRjF60=
+
+Name: reference/api/org/eclipse/gef/common/collections/ObservableMultise
+ t.html
+SHA-256-Digest: 4u+9OWhiSw3xNtgP/xlmkDWvyHWmSrVzyvCsjYUEIHM=
+
+Name: reference/api/type-search-index.js
+SHA-256-Digest: CfXDUXUJcm7MLQzC9JoRAnsokrsnhCdVkTOPDYcPeSE=
+
+Name: reference/api/org/eclipse/gef/common/adapt/IAdaptable.Bound.Impl.h
+ tml
+SHA-256-Digest: qVDjVDdRESpshL8LsP9tYjRP9C2T4QWpgLQOglBcgHk=
+
+Name: reference/api/org/eclipse/gef/common/collections/MultisetListenerH
+ elper.html
+SHA-256-Digest: 8KLjpXMvSE6Wcf3XZj9brXTiEa2dV03gZ4BhTXIHx7w=
+
+Name: reference/api/index-files/index-6.html
+SHA-256-Digest: WiURqg4aOqTinxiMzHThfqjPghpFGAq1EWDsMgsEMk8=
+
+Name: reference/api/org/eclipse/gef/common/beans/binding/SetMultimapBind
+ ing.html
+SHA-256-Digest: jSHvX7uw6gJ3SugXvfz8OT453XBy2efkvh8H8W3Nfl0=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/class-use/Read
+ OnlySetMultimapWrapper.html
+SHA-256-Digest: ZZa7IPTjYGYIVMsljMIxeKRvg4SpMyWJlrBYl0dOw/4=
+
+Name: reference/api/index-files/index-11.html
+SHA-256-Digest: j7UzANRGCdBiRsDCcnVDGyknNaSp/Swi6KYgx77BIa8=
+
+Name: reference/api/org/eclipse/gef/common/adapt/inject/package-tree.htm
+ l
+SHA-256-Digest: ezguNBKXPKgPGUtMCmXXZxYEYG3TcLgRHZOfJ1cUxIo=
+
+Name: reference/api/org/eclipse/gef/common/adapt/IAdaptable.html
+SHA-256-Digest: u/4T5Y4HUaDKUqe43TsZlpH4DFzT3J4T6gSOf5vPsDA=
+
+Name: reference/api/org/eclipse/gef/common/collections/class-use/Multise
+ tListenerHelper.ElementarySubChange.html
+SHA-256-Digest: tG7WkxA4+s8rzzWId7gJ0ilEH/AEFn/jNZCShvZY3OU=
+
+Name: reference/api/org/eclipse/gef/common/reflect/package-use.html
+SHA-256-Digest: Jkzjzm8uZclfEUWWmv1PwReEnEiy1AkoiB121YHTwwI=
+
+Name: reference/api/module-search-index.js
+SHA-256-Digest: pRIC2IZDIvkfJEN3/oLDI0hhKC4+xEAoFGkDhHjRa3Y=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/class-use/Read
+ OnlySetWrapperEx.html
+SHA-256-Digest: Wxe3vulR+gQVwLqFzPWe2xtaLP4r6vsyvzT5DTgkgew=
+
+Name: reference/api/org/eclipse/gef/common/beans/value/ObservableMultise
+ tValue.html
+SHA-256-Digest: cZmOAVJ2wmg0/uX14GVPIiQkhk6SJSIGIc4FDl5SaQ8=
+
+Name: reference/api/index-files/index-8.html
+SHA-256-Digest: xjJ6uaB3AvJ0ZJ6V2CSPAlnyvH8n9aqc6OVODvXkktY=
+
+Name: reference/api/legal/ADDITIONAL_LICENSE_INFO
+SHA-256-Digest: Uwz6VM/jGlRg3UWxJQiE2gFXLsnYT+WEY689DT2S2KU=
+
+Name: toc.xml
+SHA-256-Digest: bGl37C4g+92L+YXysMI5quFLrxoV7Uyylz7SH9nAHAk=
+
+Name: reference/api/org/eclipse/gef/common/collections/class-use/ListLis
+ tenerHelperEx.ElementarySubChange.Kind.html
+SHA-256-Digest: 1OiGslqmNY1BSvXWON+ubXCt9Kexsd9PZwlgat54Muk=
+
+Name: reference/api/legal/LICENSE
+SHA-256-Digest: bkJYZWv7uKr6cI+xA/O/A7usJCe+iAqr6Sk77abUSgY=
+
+Name: reference/wiki/Common-toc.xml
+SHA-256-Digest: N8RGqA2qJqsS7mMm6kL6266epGq76jdNCVct7PCAHuI=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/ReadOnlySetMul
+ timapPropertyBase.html
+SHA-256-Digest: I3WRK0qTOJ6flK5s1xiCcqZjdt9SIlSzG5Aj7c5fH5s=
+
+Name: reference/api/org/eclipse/gef/common/activate/IActivatable.html
+SHA-256-Digest: oqefgh/ko97E7PmqvMuut0xoXg18d8mcgfVfjherPyY=
+
+Name: reference/api/constant-values.html
+SHA-256-Digest: Mz4qC+co/n78/+/4IO+6ZSBtfBjmyybvDIyWfcEZzZU=
+
+Name: reference/api/org/eclipse/gef/common/activate/package-summary.html
+SHA-256-Digest: 0kAWmj+q6lnmdW+u1H15hQ2VsX+Zpa3TYuWHiVrMWe8=
+
+Name: reference/api/org/eclipse/gef/common/beans/binding/class-use/SetMu
+ ltimapExpressionHelper.html
+SHA-256-Digest: XN3nfQ7aDazMRCKCoyeQGrcb53zWHIQCi0k/Kyu35Rk=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/class-use/Mult
+ isetPropertyBase.html
+SHA-256-Digest: Ti2dOm2NpjQPguuLTwffV/g9RBNfIzOWQyZbZFRVpzc=
+
+Name: reference/api/index-files/index-15.html
+SHA-256-Digest: tod2M9/4frz6FyWiATY3TkDwe/yEcjlreqWenG6aghA=
+
+Name: reference/api/org/eclipse/gef/common/collections/SetMultimapListen
+ erHelper.ElementarySubChange.html
+SHA-256-Digest: yiL1/EVe+1T+OBo233mNdl0Lq4EAG2zDNNxsTMbp7lw=
+
+Name: reference/api/org/eclipse/gef/common/beans/value/class-use/Observa
+ bleMultisetValue.html
+SHA-256-Digest: HYMGy7AXJL/Gsd3gqSekMwHgr4ftjDK8kM6xDIj3/q4=
+
+Name: reference/api/org/eclipse/gef/common/collections/class-use/Observa
+ bleSetMultimap.html
+SHA-256-Digest: 6kWioi8g0zxNpeBO8kyTDtkVzx49ZxxT5L5JCUTcyAI=
+
+Name: reference/api/index-files/index-2.html
+SHA-256-Digest: FJNvpuAtCJol63LnbncWkW5cO7o1vL/IoIOyvlXsNDQ=
+
+Name: reference/api/org/eclipse/gef/common/adapt/AdapterKey.html
+SHA-256-Digest: 3RU6OFuY9HlmGToXhFRJpWv7mAFHumaHiiqz6GJe/1s=
+
+Name: reference/api/org/eclipse/gef/common/collections/class-use/Multise
+ tChangeListener.Change.html
+SHA-256-Digest: dPcgEe6BI7vpLsuITthgUZbTBc5to2liLv3p0CdUEL8=
+
+Name: reference/api/org/eclipse/gef/common/adapt/class-use/AdapterKey.ht
+ ml
+SHA-256-Digest: Bqr6XgJEmiaf+T4orod9p9EgGHF84A37wam8/6R3uF4=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/ReadOnlyListPr
+ opertyBaseEx.html
+SHA-256-Digest: 4h2MyWTzglQWpA3XRi5OfexuuH7Hbfc4BzyKLKSSkVc=
+
+Name: reference/api/org/eclipse/gef/common/activate/class-use/IActivatab
+ le.html
+SHA-256-Digest: f7iY6Id8czDQtTFu+K5IJp3FGaEJQVCQ7F5y6+9CTcs=
+
+Name: reference/api/org/eclipse/gef/common/collections/class-use/SetList
+ enerHelperEx.html
+SHA-256-Digest: tly8fSzdcJ4iePmQ3Y2tTaUr8jRkWiuJ30ToA+BOOm8=
+
+Name: gef_eclipse_logo_32.png
+SHA-256-Digest: WykbvOFTwNbTmEpZas68B9kphT3sHwiiR5hXPtTVxqQ=
+
+Name: reference/api/org/eclipse/gef/common/collections/SetListenerHelper
+ Ex.AtomicChange.html
+SHA-256-Digest: NoHt9bjmCVesCr9T2+JyJscURWkcTrdB1DtMFm7a5s4=
+
+Name: reference/api/org/eclipse/gef/common/beans/value/WritableMultisetV
+ alue.html
+SHA-256-Digest: +j8yhxJPEVmsKu5NAFSZi5jB8ciZBW/WPNw7PkgAYAk=
+
+Name: reference/api/org/eclipse/gef/common/beans/binding/class-use/Multi
+ setExpression.html
+SHA-256-Digest: VF/9Ubvar/cU1tTnc5dByDlo4UdUmbaYHCyrff4c3pg=
+
+Name: reference/api/org/eclipse/gef/common/collections/package-tree.html
+SHA-256-Digest: zOnwa/gwW8TSPjkOigl4r3/phpwYnn1PWcDh67W0CTA=
+
+Name: reference/api/org/eclipse/gef/common/adapt/AdaptableSupport.html
+SHA-256-Digest: +A3ks4rUFOI2Yi09Dm6ScMW6MwC2BPQq/YTNivG5wns=
+
+Name: reference/api/legal/ASSEMBLY_EXCEPTION
+SHA-256-Digest: B9Rg/W33asnAVF5fvdMrjeCNVBDe7aoo2bcn8d61G98=
+
+Name: reference/api/org/eclipse/gef/common/beans/binding/MultisetExpress
+ ionHelper.html
+SHA-256-Digest: O45Wtqtz84WWOl7pzcgBErvQcQk743NbNfs7GyukX1A=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/ReadOnlyMultis
+ etPropertyBase.html
+SHA-256-Digest: 6OX09zjNIooudFS5NvlupBVYp5aB7KaYzMCaKg5mSbE=
+
+Name: reference/wiki/images/common/GEF-Common-collections-guava-listener
+ s.png
+SHA-256-Digest: oL7dhijENzVz1ViqfmwbXGn98c7ogr5SvkeMOoSY5q0=
+
+Name: reference/api/org/eclipse/gef/common/adapt/inject/package-use.html
+SHA-256-Digest: HO/HjQVtQ1SFdWGUe1kGZZiVZO8fezR59HrOhGdWcHU=
+
+Name: reference/api/org/eclipse/gef/common/dispose/package-use.html
+SHA-256-Digest: hLY/QiKK+oJi2oZBH1rffYQuGa7+JyaVS97y9h87UOI=
+
+Name: reference/api/resources/glass.png
+SHA-256-Digest: 1Jc61v0bGhHx5bbGQDGvKEpdd5vbu0QfSW8xk7ZyzSM=
+
+Name: about.properties
+SHA-256-Digest: Gnk2hdji0o4o53Nfmj/lMx3/3b0M6qoG6/p51GsB1iw=
+
+Name: reference/wiki/images/common/GEF-Common-reflect.png
+SHA-256-Digest: wemuOL322vQ2LyGU85f6Gj7wM/Kts1Sq9cipwgow/08=
+
+Name: reference/api/org/eclipse/gef/common/activate/class-use/Activatabl
+ eSupport.html
+SHA-256-Digest: LLBos1dPdR4TykBpPECWA1CYknWfhK+kKpY9raTrXUs=
+
+Name: reference/api/index-files/index-18.html
+SHA-256-Digest: 1YuEDfMEiu3cs9otU/V3Giy6WamrBOLRQR5q+58WyWE=
+
+Name: reference/api/resources/x.png
+SHA-256-Digest: G7b1e4kIh63I8PFpEgbanLzoushsx5Uj9BJkxeZzutk=
+
+Name: reference/api/org/eclipse/gef/common/beans/binding/package-use.htm
+ l
+SHA-256-Digest: Exhv6SxCspi7QW3ZEnr2XEGBObK19Jb8T2y0ai2Y6yw=
+
+Name: reference/api/stylesheet.css
+SHA-256-Digest: W37D5tynTiJVoe41x4WQX+AxLVW8+xs9JnRIQigh0qc=
+
+Name: reference/api/org/eclipse/gef/common/adapt/inject/AdapterInjector.
+ html
+SHA-256-Digest: EVAQ/B7U2qf39oEzo3j5wIdVWcS8BbSUOhMAymmnGOE=
+
+Name: reference/api/jquery-ui.overrides.css
+SHA-256-Digest: dYN/ai4LCdiRO+DWTdPRDz2f9aXdEL6FIy1k83Fc01w=
+
+Name: reference/api/org/eclipse/gef/common/adapt/inject/class-use/Adapte
+ rMaps.html
+SHA-256-Digest: yvq9JxnFLlusTUhcdpq4t+XCseDbNhZdnyd6CbAwAlw=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/ReadOnlySetMul
+ timapWrapper.html
+SHA-256-Digest: 8fdlqYg9MQ7iwPbiFw1NeYvX3bKX/erkDD7m46hyDxY=
+
+Name: reference/api/org/eclipse/gef/common/adapt/inject/class-use/Adapte
+ rInjectionSupport.LoggingMode.html
+SHA-256-Digest: RrKtyuVLG5gDgOL7b0trg8qJeYokUhjU2qraXiw1ZXQ=
+
+Name: reference/wiki/images/common/GEF-Common-adapt-inject-injectadapter
+ s.png
+SHA-256-Digest: OfC9THXt19PzcBl0B3tvuZ3YGU8QzBJeh54HydfId7E=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/ReadOnlyListWr
+ apperEx.html
+SHA-256-Digest: d0v8RwZl0YUwmj42X5OR1ux6PDbdGBa53asPYY/HYjI=
+
+Name: reference/api/org/eclipse/gef/common/adapt/inject/class-use/Inject
+ Adapters.html
+SHA-256-Digest: GzfZtTFKRoAIaiNgIZE3rDfEP3AW/9/HvBNp/s3dVe4=
+
+Name: reference/api/index-files/index-19.html
+SHA-256-Digest: Hbob3Au7gwWWKuLY3jh9ItlcmhVj6Ai0GBTafiuGE6s=
+
+Name: reference/api/org/eclipse/gef/common/beans/value/class-use/Observa
+ bleSetMultimapValue.html
+SHA-256-Digest: T2EnCftiG18tMAjf39xGN2QdVibadf3v1fFJDD4OhB4=
+
+Name: reference/api/help-doc.html
+SHA-256-Digest: YbyEfGFZ6igp9ToU0gwf4GDfpZboiwMHnBS4xhHMANs=
+
+Name: reference/api/org/eclipse/gef/common/collections/SetListenerHelper
+ Ex.html
+SHA-256-Digest: gL6Hf3W0CYyaZcUuKPRwTXJwQtgndr2AMU7p/9bvNEM=
+
+Name: reference/api/org/eclipse/gef/common/collections/ListListenerHelpe
+ rEx.html
+SHA-256-Digest: ncjKqtwPU3K52BatMCBk5mAcWPZTvKJyS5jI6HKQRUQ=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/class-use/SetM
+ ultimapProperty.html
+SHA-256-Digest: ePNBSIRB3OwI0Ijf+beMfI67vOBVe7ptc7C9vsaYe48=
+
+Name: reference/api/org/eclipse/gef/common/activate/package-tree.html
+SHA-256-Digest: 3dFg2mMVS+kJKuwJO6nS11K4BuP/VhnVR4F6CSbxz28=
+
+Name: reference/api/org/eclipse/gef/common/beans/binding/MultisetBinding
+ .html
+SHA-256-Digest: I1T4GIljbn12C3cu3BUCy5ViycfZ58MLfFxDjk8wb2U=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/class-use/Mult
+ isetProperty.html
+SHA-256-Digest: o6T1WkK5SuYXmXUGZXt490yv/317+TzxbU4FFSSktkk=
+
+Name: reference/api/org/eclipse/gef/common/collections/package-use.html
+SHA-256-Digest: OeDIReIqIofHeW8EfM3jzw+5fxdltFPYqQu/kPSwy+E=
+
+Name: reference/api/search.js
+SHA-256-Digest: /cfSBkTYOr5bsTa5lHy56J31akhcv1QY1XJeUuiwTmA=
+
+Name: reference/api/org/eclipse/gef/common/beans/value/package-use.html
+SHA-256-Digest: 7NoShmFxyENEV4DpVVkr5lNe/zjrJ93jKZ/xZeOi3qg=
+
+Name: reference/api/org/eclipse/gef/common/beans/binding/SetExpressionHe
+ lperEx.html
+SHA-256-Digest: HD1xn0XhcWrEBB2CMEadmysDLbGwwp8rgqRAhQ8S4F8=
+
+Name: reference/api/org/eclipse/gef/common/collections/ListListenerHelpe
+ rEx.ElementarySubChange.html
+SHA-256-Digest: DgCDZM9gaeRhV5IGagmlORsucICdh98krafZijyCTd0=
+
+Name: reference/wiki/images/common/GEF-Common-activate.png
+SHA-256-Digest: Bi95vcKFvG88TtF9onsQ7XbJh7TM5FKm+kh1CnF9zak=
+
+Name: reference/api/overview-summary.html
+SHA-256-Digest: TCOTx8ptq1BBOLE1Rcma7634RtM1YGROuAFly0taWAc=
+
+Name: reference/api/org/eclipse/gef/common/beans/binding/class-use/MapEx
+ pressionHelperEx.html
+SHA-256-Digest: WfN3grwR/eA06ih5MHbrBT3/CyEDlLJtPm7l7CWaVpc=
+
+Name: reference/api/org/eclipse/gef/common/dispose/IDisposable.html
+SHA-256-Digest: JxnVD9NZHbSaj5xzIccXOmhQfAlUglZ6wxTLMkHhbTc=
+
+Name: reference/api/org/eclipse/gef/common/reflect/ReflectionUtils.html
+SHA-256-Digest: kLbhAhvGXiXIrP5DHfPt+hTZgFCokEDAzIqUGDZpwsc=
+
+Name: reference/api/org/eclipse/gef/common/collections/class-use/Collect
+ ionUtils.html
+SHA-256-Digest: ovI98kcyt8TVAPqqNRCGOWPoaIB04tDaih+GNycAtcU=
+
+Name: reference/api/org/eclipse/gef/common/beans/binding/SetMultimapExpr
+ essionHelper.html
+SHA-256-Digest: ZoLROwErQwd1DHOlZkK9B/C2zynkCK/l9sWIZM7VUrc=
+
+Name: reference/wiki/images/common/GEF-Common-collections-fxreplacements
+ .png
+SHA-256-Digest: lRRuzzY8Gs19Hi59C6uHa0x5UgF5ZIG1RMaQb2sUL9E=
+
+Name: reference/api/org/eclipse/gef/common/beans/binding/BindingUtils.ht
+ ml
+SHA-256-Digest: kmP0eQXNBzgsJTwwDJ95bNukJNQ+272vrxX0jAlzJ+c=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/package-summar
+ y.html
+SHA-256-Digest: wKm2l1MWl8YV5Uftk2Gk6sOs9AMV+fz6J3ehwggpiik=
+
+Name: reference/api/org/eclipse/gef/common/collections/SetMultimapListen
+ erHelper.html
+SHA-256-Digest: dWHau7nIw8+yyzJ5QHGQNKa/3gKus8jCccwpjxOO8JE=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/MultisetProper
+ ty.html
+SHA-256-Digest: 2HDuxSOQsXhdwk9ZRnXlbAY11o3TkhzeIpQxjYMFhKQ=
+
+Name: reference/api/index.html
+SHA-256-Digest: LoFioFQW+3p0MV7tBNh/W0cDPJ8EASaX1i+cXhCJ+cw=
+
+Name: reference/api/org/eclipse/gef/common/beans/value/package-summary.h
+ tml
+SHA-256-Digest: lEWRie8anTwGr9DCkjo4nOLiIH65cS8vie8lN8KZkE0=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/ReadOnlySetMul
+ timapProperty.html
+SHA-256-Digest: hnnJK4I3MVu9ZQCVYkh3Tv6GP9kzUl0dzEBR9eaG5zQ=
+
+Name: reference/api/org/eclipse/gef/common/beans/binding/MapExpressionHe
+ lperEx.html
+SHA-256-Digest: /AKraAstNaF9aRfhEP7iLUX0KesIrE2lwNbNA03weWo=
+
+Name: reference/api/org/eclipse/gef/common/adapt/inject/AdapterInjection
+ Support.LoggingMode.html
+SHA-256-Digest: bsYRUX+l+2ixugPrEh00gLcgV2NgoBEeVecnAbaSAyU=
+
+Name: reference/api/org/eclipse/gef/common/adapt/class-use/AdapterStore.
+ html
+SHA-256-Digest: Llzk+oA1juJXSRxWuckalsZ2EIy4AiW9EOY7WENlENE=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/ReadOnlySetWra
+ pperEx.html
+SHA-256-Digest: dp2Q0TJXBX7bKniAbqXreQKsx6gwCm0WI8TG93anpDI=
+
+Name: reference/api/org/eclipse/gef/common/beans/value/class-use/Writabl
+ eSetMultimapValue.html
+SHA-256-Digest: G1IsVjtbFZx5QnGcQKRzWYLzXDf8mXYtY3D3dGU8AD4=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/class-use/Read
+ OnlySetMultimapPropertyBase.html
+SHA-256-Digest: uTGzYHQUR/pK/MhyuQs2OeSWUc+oCasMQenKwR6Mqsw=
+
+Name: reference/api/script-dir/jquery-ui.min.js
+SHA-256-Digest: 1L1wUOGs7Qh5xrEuGrgNWKChLhCoImAxc9H5p3z3Rpg=
+
+Name: reference/api/org/eclipse/gef/common/adapt/inject/AdaptableTypeLis
+ tener.html
+SHA-256-Digest: g5g3tMv4Y9nq7JrkzNTTza7DozNKWRIf6LchfviK0Rg=
+
+Name: about.html
+SHA-256-Digest: CsWkD0hkC59Yjrvd+k8WZcaup7g5p+LRBt004d1jqXw=
+
+Name: reference/api/org/eclipse/gef/common/adapt/inject/class-use/Adapta
+ bleScopes.html
+SHA-256-Digest: 348po94fFGXEVpG77AfzjWPiFHtQsJ5iJijSj4+bhHw=
+
+Name: reference/api/org/eclipse/gef/common/adapt/inject/class-use/Adapte
+ rInjector.html
+SHA-256-Digest: khDIWmk6BbnvW2DwQFBJl96T9MEcu4BSHSI9DpMSz6k=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/ReadOnlyMultis
+ etWrapper.html
+SHA-256-Digest: GnTIpZVbbmIXuEMSGS8KrJuJAyAV6qA6BhpSMC3K+dw=
+
+Name: reference/api/index-files/index-4.html
+SHA-256-Digest: DCMAwzvZwFFLbgE46+BKJCPqWZBGjxD59vqJlQb+OiA=
+
+Name: reference/api/org/eclipse/gef/common/beans/binding/class-use/Bindi
+ ngUtils.html
+SHA-256-Digest: j+hFDZxsu4Gjtosw35cuvwllFW3cIKSDgJbCYUMjByk=
+
+Name: reference/wiki/images/common/GEF-Common-beans-binding-guava.png
+SHA-256-Digest: fctZ1yD71JRcE7F4ORmqldZLlegrFgCNammgR5N458U=
+
+Name: reference/api/org/eclipse/gef/common/beans/property/SimpleSetPrope
+ rtyEx.html
+SHA-256-Digest: sN12pE4k+kM7F9TkpAaGtBIPRFUXALzglSsK3AyP1e8=
+
+Name: reference/wiki/images/common/GEF-Common-beans-property-fxreplaceme
+ nts.png
+SHA-256-Digest: alWMfaQebMnthO5rbsQaNmPt9yzGHqpY7As6942r0YY=
+
+Name: reference/wiki/Common.html
+SHA-256-Digest: 3WtttUUoHoiJe40OgSBCGlJHDqRloU5ovj9SeTd3JvM=
+
+Name: reference/api/org/eclipse/gef/common/collections/class-use/MapList
+ enerHelperEx.html
+SHA-256-Digest: CvbADe8Jb4yEfBEWeKB2OAptxx7NKHLS3u/P62wTUrs=
+
+Name: reference/api/allpackages-index.html
+SHA-256-Digest: kgD4/I0yFgKQo60U3TVwHFP82EyiE9SJOLFtVbKx7wA=
+
+Name: reference/api/org/eclipse/gef/common/adapt/class-use/IAdaptable.ht
+ ml
+SHA-256-Digest: Ro+C/F14HF3Ji69gAju/JHtvgLJ6IAhg/LBV3vWP6CM=
+
